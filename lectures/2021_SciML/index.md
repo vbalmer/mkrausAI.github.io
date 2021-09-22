@@ -1,5 +1,5 @@
 # Scientific Machine and Deep Learning for Design and Construction in Civil Engineering
-101-0139-00L, Time: tbd
+101-0139-00L, Time: Mondays 14:00 – 18:00 in HCI D 6 and online via Zoom     
 *   [Description](#description)
 *   [Structure](#structure)
 *   [Objectives](#objectives)
