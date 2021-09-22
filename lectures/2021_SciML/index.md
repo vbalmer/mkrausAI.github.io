@@ -1,5 +1,5 @@
 # Scientific Machine and Deep Learning for Design and Construction in Civil Engineering
-101-0139-00L, Time: Mondays 14:00 – 18:00 in HCI D 6 and online via Zoom     
+101-0139-00L, Time: Mondays 14:00 – 18:00 in HCI D 6 and online via Zoom; Office hours: Monday: 1 - 2 pm    
 *   [Description](#description)
 *   [Structure](#structure)
 *   [Objectives](#objectives)
@@ -37,13 +37,11 @@ By the end of the course students will develop computational thinking related to
 **Dr. Michael A. Kraus, M.Sc.(hons)**<br />
 PostDoctoral Researcher in SciML4AEC and Co-Leader Immersive Design Lab (Design++)<br />
 _Instructor and Lecturer_ <br />
-Office hours: Monday: 1 - 2 pm <br />
 
 <img src="https://mkrausai.github.io/lectures/2021_SciML/images/DanielleGriego.jpg" width="20%" alt="Danielle Griego" /><br />
 **Dr. Danielle Griego**<br />
 Executive Director of Design++<br />
 _Co-{Instrucor ; Lecturer}_<br />
-Office hours: Monday: 1 - 2 pm <br />
 
 ## <a name="schedule"></a>Course Schedule
 _(Subject to change)_
