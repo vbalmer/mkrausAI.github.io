@@ -35,12 +35,12 @@ By the end of the course students will develop computational thinking related to
 ## <a name="instructors"></a>Instructors
 <img src="https://mkrausai.github.io/lectures/2021_SciML/images/Michael6_3.jpg" width="20%" alt="Michael Kraus" /><br />
 **Dr. Michael A. Kraus, M.Sc.(hons)**<br />
-PostDoctoral Researcher in SciML4AEC and Co-Leader Immersive Design Lab (Design++)<br />
+PostDoctoral / Senior Researcher in SciML4AEC and Co-Leader of the Immersive Design Lab of Design++)<br />
 _Instructor and Lecturer_ <br />
 
 <img src="https://mkrausai.github.io/lectures/2021_SciML/images/DanielleGriego.jpg" width="20%" alt="Danielle Griego" /><br />
 **Dr. Danielle Griego**<br />
-Executive Director of Design++<br />
+Executive Director of Design++ and PostDoctoral Researcher<br />
 _Co-{Instrucor ; Lecturer}_<br />
 
 ## <a name="schedule"></a>Course Schedule
