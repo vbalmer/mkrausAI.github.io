@@ -50,10 +50,10 @@ _(Subject to change)_
 |:-------------|:------------------|:------|
 | 27.09           | Introductory Class | [slides](https://mkrausai.github.io/lectures/2021_SciML/slides/introduction.pdf)  |
 | 27.09           | Fundamentals of Machine Learning - Part 1: Data and essential Maths/Statistics   | [slides](https://mkrausai.github.io/lectures/2021_SciML/slides/statistics.pdf)  |
-| 04.10           | Fundamentals of Machine Learning - Part 2: Supervised Learning   | [slides](https://mkrausai.github.io/lectures/2021_SciML/slides/statistics.pdf)  |
+| 04.10           | Fundamentals of Machine Learning - Part 2: Supervised Learning   |  |
 | _04.10_         | _Exercise 1: Introduction to Python and Pandas_ |   |
-| 11.10           | Fundamentals of Machine Learning - Part 3: Unsupervised Learning      | [slides](https://mkrausai.github.io/lectures/2021_SciML/slides/uns_learning.pdf)   |
-| 18.10           | Fundamentals of Machine Learning - Part 3: Data Processing | [slides](https://mkrausai.github.io/lectures/2021_SciML/slides/sup_learning.pdf)  |
+| 11.10           | Fundamentals of Machine Learning - Part 3: Unsupervised Learning      |    |
+| 18.10           | Fundamentals of Machine Learning - Part 3: Data Processing | |
 | _18.10_         | _Exercise 2.1: Data Processing and Visualisation_ |   |
 | _18.10_         | _Exercise 2.2: ML Workflow and Regression and Classification_ |   |
 | 25.10           | Introduction to Scientific Machine Learning |   |
@@ -65,28 +65,9 @@ _(Subject to change)_
 | 22.11           | Guest Talk, Graph-NeuralNetwork based SciML, by Professor Julija Zavadlav, Dept. of Mechanical Engineering, TU Munich |   |
 | 29.11           | 2nd Project Consultation (in person, at ETH Hönngerberg) |   |
 | 06.12           | Guest Talk, Physics-informed Neural Networks at scale, by Mohammad Nabian, NVIDIA |   |
-| 13.12           | Final Project Presentation |   |
-| 20.12           | Final Project Presentation |   |
+| 13.12           | Final Project Presentation (in person and online, at ETH Hönngerberg)|   |
+| 20.12           | Final Project Presentation (in person and online, at ETH Hönngerberg)|   |
 
 ## <a name="evaluation"></a>Course Evaluation
-*   **Assignments: 10% of grade**. Students will be given assignments throughout the course that they are required to submit as part of their evaluation. Each assignment will contribute equally to the final grade. The assignments will have two compponents: hands-on experimentation with pre-given modules and critical thinking on the output of the experiments. Due dates are dispersed throughout the semester based on the covered material.
-*   **Oral Examination: 30% of grade**. Students will be examined on the covered material at the end of the semester right after their project presentation.
-*   **Course Project: 60% of grade**. The course has a final project (in lieu of a final written exam) which will be performed in groups. The project deliverables are an in-class presentation at the final day and a report. Both slides and report are to be submitted as part of the final examination. Preparation for it will start early on in the semester and we will guide you through the milestones: (1st milestone) Submit the title of your project, a short description, and the names of the members in your team. Note that title and description could change as you explore the project; (2nd milestone) Submit mid-term report with progress on the project; (3rd and final milestone) Present your project in class and submit a report.
-
-Mandatory
-final project examination: 
-
-
-The
-final grade will be obtained based on
-
-1.
-Project presentation (15 min) and public Q&A (5 min). Projects
-are conducted in pairs. (50% of the final grade). This compulsory
-continuous performance assessment task need not be passed on its own;
-it is awarded a grade which counts proportionally towards the total
-course unit grade.
-
-2.
-Followed by a non-public individual oral examination (5 min). (50% of
-the final grade).
+*   **Oral Examination: 50% of grade**. Students will be examined on the covered material at the end of the semester right after their project presentation.
+*   **Course Project: 50% of grade**. The course has a final project (in lieu of a final written exam) which will be performed in groups of up to 2 students. The project deliverables are an in-class presentation at the final day and a report in form of a scientific paper. Both, slides and report, are to be submitted as part of the final examination. Preparation for it will start early on in the semester and we will guide you through the milestones: (1st milestone) Submit the title of your project, a short description, and the names of the members in your team. Note that title and description could change as you explore the project; (2nd milestone) show progress of your work during project consultant hours (e.g. PowerPoint slides, intermediate reports); (3rd and final milestone) Present your project in class and submit a final report.
