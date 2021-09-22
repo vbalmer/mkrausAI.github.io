@@ -36,12 +36,14 @@ By the end of the course students will develop computational thinking related to
 <img src="https://mkrausai.github.io/lectures/2021_SciML/images/Michael6_3.jpg" width="20%" alt="Michael Kraus" /><br />
 **Dr. Michael A. Kraus, M.Sc.(hons)**<br />
 PostDoctoral Researcher in SciML4AEC and Co-Leader Immersive Design Lab (Design++)<br />
-_Instructor and Lecturer_
+_Instructor and Lecturer_ <br />
+Office hours: Monday: 1 - 2 pm
 
 <img src="https://mkrausai.github.io/lectures/2021_SciML/images/DanielleGriego.jpg" width="20%" alt="Danielle Griego" /><br />
 **Dr. Danielle Griego**<br />
-Scientific Coordinator of Design++<br />
-_Co-{Instrucor ; Lecturer}_
+Executive Director of Design++<br />
+_Co-{Instrucor ; Lecturer}_<br />
+Office hours: Monday: 1 - 2 pm
 
 ## <a name="schedule"></a>Course Schedule
 _(Subject to change)_
