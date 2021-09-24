@@ -53,7 +53,8 @@ _(Subject to change)_
 | 04.10           | Fundamentals of Machine Learning - Part 2: Supervised Learning   |  |
 | _04.10_         | _Exercise 1: Introduction to Python and Pandas_ |   |
 | 11.10           | Fundamentals of Machine Learning - Part 3: Unsupervised Learning      |    |
-| 18.10           | Fundamentals of Machine Learning - Part 3: Data Processing | |
+| 18.10           | Fundamentals of Machine Learning - Part 3: Data Processing and Visualisation | |
+| _18.10_         | _Student Projects Pitches_ |   |
 | _18.10_         | _Exercise 2.1: Data Processing and Visualisation_ |   |
 | _18.10_         | _Exercise 2.2: ML Workflow and Regression and Classification_ |   |
 | 25.10           | Introduction to Scientific Machine Learning |   |
