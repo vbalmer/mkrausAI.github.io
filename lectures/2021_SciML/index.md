@@ -50,7 +50,7 @@ _(Subject to change)_
 |:-------------|:------------------|:------|
 | 27.09           | Introductory Class | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_01_Introduction.pdf)  |
 | 27.09           | Fundamentals of Machine Learning - Part 1: Data and essential Maths/Statistics   | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_02_Fundamentals_Statistik.pdf) [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_03_Fundamentals_MLSystems.pdf) |
-| 04.10           | Fundamentals of Machine Learning - Part 2: Supervised Learning  |  |
+| 04.10           | Fundamentals of Machine Learning - Part 2: Supervised Learning  | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_04_Supervised(Classification_Regression).pdf) |
 | _04.10_         | _Exercise 1: Introduction to Python and Pandas_ |   |
 | 11.10           | Fundamentals of Machine Learning - Part 3: Unsupervised Learning      |    |
 | 18.10           | Fundamentals of Machine Learning - Part 3: Data Processing and Visualisation | |
