@@ -1,5 +1,5 @@
 # Scientific Machine and Deep Learning for Design and Construction in Civil Engineering
-101-0139-00L, Time: Mondays 14:00 – 18:00 in ISC Hönggerberg - HIL - Room D 25.1 online via Zoom; Office hours: Monday: 1 - 2 pm    
+101-0139-00L, Time: Mondays 14:00 – 18:00 in HPK D3 online via Zoom; Office hours: Monday: 1 - 2 pm    
 *   [Description](#description)
 *   [Structure](#structure)
 *   [Objectives](#objectives)
