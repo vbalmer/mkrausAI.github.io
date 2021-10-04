@@ -49,20 +49,20 @@ _(Subject to change)_
 | DATE        | CLASS TOPIC          | MATERIAL |
 |:-------------|:------------------|:------|
 | 27.09           | Introductory Class | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_01_Introduction.pdf)  |
-| 27.09           | Fundamentals of Machine Learning - Part 1: Data and essential Maths/Statistics   | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_02_Fundamentals_Statistik.pdf) [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_03_Fundamentals_MLSystems.pdf) |
+| 27.09           | Fundamentals of Machine Learning - Part 1: Data and essential Maths/Statistics   | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_02_Fundamentals_Statistik.pdf) [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_03_Fundamentals_MLSystems.pdf) [video](https://polybox.ethz.ch/index.php/s/9lUE7pOKLHPBF4s) |
 | 04.10           | Fundamentals of Machine Learning - Part 2: Supervised Learning  | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_04_Supervised(Classification_Regression).pdf) |
-| _04.10_         | _Exercise 1: Introduction to Python and Pandas_ |   |
+| _04.10_         | _Exercise 1: Introduction to Python and Pandas_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_1.rar)  |
 | 11.10           | Fundamentals of Machine Learning - Part 3: Unsupervised Learning      |    |
 | 18.10           | Fundamentals of Machine Learning - Part 3: Data Processing and Visualisation | |
 | _18.10_         | _Student Projects Pitches_ |   |
-| _18.10_         | _Exercise 2.1: Data Processing and Visualisation_ |   |
-| _18.10_         | _Exercise 2.2: ML Workflow and Regression and Classification_ |   |
+| _18.10_         | _Exercise 2: Data Processing and Visualisation_ |   |
 | 25.10           | Introduction to Scientific Machine Learning |   |
+| _25.10_         | _Exercise 3: ML Workflow, Regression and Classification_ |   |
 | 01.11           | Introduction to Scientific Deep Learning |   |
-| _01.11_         | _Exercise 3: Scientific Machine Learning_ |   |
+| _01.11_         | _Exercise 4: Scientific Machine Learning_ |   |
 | 08.11           | 1st Project Consultation (in person, at ETH Hönngerberg) |   |
 | 15.11           | Feature Engineering |   |
-| _15.11_         | _Exercise 4: Feature Engineering_ |   |
+| _15.11_         | _Exercise 5: Feature Engineering_ |   |
 | 22.11           | Guest Talk, Graph-NeuralNetwork based SciML, by Professor Julija Zavadlav, Dept. of Mechanical Engineering, TU Munich |   |
 | 29.11           | 2nd Project Consultation (in person, at ETH Hönngerberg) |   |
 | 06.12           | Guest Talk, Physics-informed Neural Networks at scale, by Mohammad Nabian, NVIDIA |   |
