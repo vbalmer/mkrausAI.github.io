@@ -50,15 +50,15 @@ _(Subject to change)_
 |:-------------|:------------------|:------|
 | 27.09           | Introductory Class | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_01_Introduction.pdf)  |
 | 27.09           | Fundamentals of Machine Learning - Part 1: Data and essential Maths/Statistics   | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_02_Fundamentals_Statistik.pdf) [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_03_Fundamentals_MLSystems.pdf) [video](https://polybox.ethz.ch/index.php/s/9lUE7pOKLHPBF4s) |
-| 04.10           | Fundamentals of Machine Learning - Part 2: Supervised Learning  | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_04_Supervised(Classification_Regression).pdf) [video](https://polybox.ethz.ch/index.php/s/vKYl7GJqhT9NPur) |
+| 04.10           | Fundamentals of Machine Learning - Part 2: Supervised Learning: Basics  | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_04_Supervised(Classification_Regression).pdf) [video](https://polybox.ethz.ch/index.php/s/vKYl7GJqhT9NPur) |
 | _04.10_         | _Exercise 1: Introduction to Python and Pandas_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_1.rar)  |
-| 11.10           | Fundamentals of Machine Learning - Part 3: Unsupervised Learning | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_Lecture_3.rar) [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_07_Fundamentals_Optimization.pdf) [video](https://polybox.ethz.ch/index.php/s/78MF8xw19YrC4jc)|
-| 18.10           | Fundamentals of Machine Learning - Part 3: Data Processing and Visualisation | |            
+| 11.10           | Fundamentals of Machine Learning - Part 3: Supervised Learning: Classification and Regression | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_Lecture_3.rar) [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_07_Fundamentals_Optimization.pdf) [video](https://polybox.ethz.ch/index.php/s/78MF8xw19YrC4jc)|
+| 18.10           | Fundamentals of Machine Learning - Part 4: Data Processing and Visualisation | |            
 | _18.10_         | _Student Projects Pitches_ |   |
 | _18.10_         | _Exercise 2: Data Processing and Visualisation_ |   |
-| 25.10           | Introduction to Scientific Machine Learning |   |
+| 25.10           | Fundamentals of Machine Learning - Part 5: Unsupervised Learning |   |
 | _25.10_         | _Exercise 3: ML Workflow, Regression and Classification_ |   |
-| 01.11           | Introduction to Scientific Deep Learning |   |
+| 01.11           | Introduction to Scientific Machine and Deep Learning |   |
 | _01.11_         | _Exercise 4: Scientific Machine Learning_ |   |
 | 08.11           | 1st Project Consultation (in person, at ETH Hönngerberg) |   |
 | 15.11           | Feature Engineering |   |
