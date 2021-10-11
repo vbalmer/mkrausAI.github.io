@@ -52,7 +52,7 @@ _(Subject to change)_
 | 27.09           | Fundamentals of Machine Learning - Part 1: Data and essential Maths/Statistics   | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_02_Fundamentals_Statistik.pdf) [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_03_Fundamentals_MLSystems.pdf) [video](https://polybox.ethz.ch/index.php/s/9lUE7pOKLHPBF4s) |
 | 04.10           | Fundamentals of Machine Learning - Part 2: Supervised Learning  | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_04_Supervised(Classification_Regression).pdf) [video](https://polybox.ethz.ch/index.php/s/vKYl7GJqhT9NPur) |
 | _04.10_         | _Exercise 1: Introduction to Python and Pandas_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_1.rar)  |
-| 11.10           | Fundamentals of Machine Learning - Part 3: Unsupervised Learning      | [slides] (https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_Lecture_3.rar) [slides] (https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_07_Fundamentals_Optimization.pdf) |
+| 11.10           | Fundamentals of Machine Learning - Part 3: Unsupervised Learning | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_Lecture_3.rar) [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_07_Fundamentals_Optimization.pdf) |
 | 18.10           | Fundamentals of Machine Learning - Part 3: Data Processing and Visualisation | |            
 | _18.10_         | _Student Projects Pitches_ |   |
 | _18.10_         | _Exercise 2: Data Processing and Visualisation_ |   |
