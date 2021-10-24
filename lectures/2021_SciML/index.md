@@ -56,7 +56,7 @@ _(Subject to change)_
 | 18.10           | Fundamentals of Machine Learning - Part 4: Data Processing and Visualisation | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_04_DataProcessing_Visualization.pdf)|            
 | _18.10_         | _Student Projects Pitches_ |   |
 | _18.10_         | _Exercise 2: Data Processing and Visualisation_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_2.rar)  |
-| 25.10           | Fundamentals of Machine Learning - Part 5: Unsupervised Learning and Optimization Details | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_06_Unsupervised(Clustering,Encoders.pdf) [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_07_Fundamentals_Optimization.pdf |
+| 25.10           | Fundamentals of Machine Learning - Part 5: Unsupervised Learning and Optimization Details | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_06_Unsupervised(Clustering,Encoders).pdf) [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_07_Fundamentals_Optimization.pdf) |
 | _25.10_         | _Exercise 3: ML Workflow, Regression and Classification_ |   |
 | 01.11           | Introduction to Scientific Machine and Deep Learning |   |
 | _01.11_         | _Exercise 4: Scientific Machine Learning_ |   |
