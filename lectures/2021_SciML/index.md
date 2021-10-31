@@ -57,11 +57,11 @@ _(Subject to change)_
 | _18.10_         | _Student Projects Pitches_ |   |
 | _18.10_         | _Exercise 2: Data Processing and Visualisation_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_2.rar)  |
 | 25.10           | Fundamentals of Machine Learning - Part 5: Unsupervised Learning and Optimization Details | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_06_Unsupervised(Clustering,Encoders).pdf) [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_07_Fundamentals_Optimization.pdf) [video](https://polybox.ethz.ch/index.php/s/A7bcNeztK6sL7jT) |
-| _25.10_         | _Exercise 3: ML Workflow, Regression and Classification_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_3.rar)  |
-| 01.11           | Introduction to Scientific Machine and Deep Learning |   |
-| _01.11_         | _Exercise 4: Scientific Machine Learning_ |   |
+| _25.10_         | _Exercise 3: ML Workflow, Regression and Classification_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_3.rar) [video]() |
+| 01.11           | Introduction to Deep Learning | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_08_DeepLearning.pdf) [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_09_DeepLearning.pdf) [video]()  |
+| _01.11_         | _Exercise 4: Unsupervised Machine Learning_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_4.rar)  |
 | 08.11           | 1st Project Consultation (in person, at ETH Hönngerberg) |   |
-| 15.11           | Feature Engineering |   |
+| 15.11           | Scientific Machine and Deep Learning  |   |
 | _15.11_         | _Exercise 5: Feature Engineering_ |   |
 | 22.11           | Guest Talk, Graph-NeuralNetwork based SciML, by Professor Julija Zavadlav, Dept. of Mechanical Engineering, TU Munich |   |
 | 29.11           | 2nd Project Consultation (in person, at ETH Hönngerberg) |   |
