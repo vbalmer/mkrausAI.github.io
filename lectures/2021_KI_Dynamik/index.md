@@ -56,7 +56,7 @@ _(Subject to change)_
 | 17.11.21           | Wissenschaftliches Maschinelles Lernen für die Dynamik von Tragwerken | [Video]() |
 | _17.11.21_         | _Übung 3: Wissenschaftliche Maschinelles Lernen in Statik und Dynamik von Tragwerken_ | [Folien/Notebook]()  |
 | 24.11.21           | Gastvortrag 1: Graph-NeuralNetwork based SciML, von Professor Dr. Julija Zavadlav, Fakultät Maschinenwesen, TU München |   |
-| 01.12.21           | Scientific Machine and Deep Learning  | [Folien]() [Video]()  |
+| 01.12.21           | Feature Engineering und Details zur Numerik des Wissenschaftlichen Maschinellen Lernens| [Folien]() [Video]()  |
 | _01.12.21_         | _Übung 4: Feature Engineering_ | [Folien/Notebook]() |
 | 07.12.21           | Zweite Projektbesprechung |   |
 | 14.12.21           | Gastvortrag 2: Physics-informed Neural Networks at scale, von Dr. Mohammad Nabian, NVIDIA |   |
