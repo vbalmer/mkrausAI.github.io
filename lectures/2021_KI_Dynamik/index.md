@@ -52,9 +52,9 @@ _(Subject to change)_
 | _20.10.21_         | _Übung 2: Wiederholung Python, Unsupervised Learning Algorithmen und Datenverarbeitung_ | [Folien/Notebook]() [Video]()  |
 | 27.10.21           | Einführung in das Wissenschaftliche Maschinelle Lernen im Bauingenieurwesen | [Folien]() [Video]()|
 | 03.11.21           | Erste Projektbesprechung |   |
-| 10.11.21           | Wissenschaftliches Maschinelles Lernen für die Statik von Tragwerken | [Folien]() [Video]() |
-| 17.11.21           | Wissenschaftliches Maschinelles Lernen für die Dynamik von Tragwerken | [Folien]() [Video]() |
-| _17.11.21_         | _Übung 3: Wissenschaftliche Maschinelles Lernen in Statik und Dynamik von Tragwerken_ | [Folien/Notebook](https://colab.research.google.com/drive/1DCE3pcKG2OmvMkLF7a6wLzrrVixaBBr1) [Video]() |
+| 10.11.21           | Wissenschaftliches Maschinelles Lernen für die Dynamik von Tragwerken | [Folien]() [Video]() |
+| 17.11.21           | Wissenschaftliches Maschinelles Lernen für die Statik von Tragwerken | [Folien]() [Video]() |
+| _17.11.21_         | _Übung 3: Wissenschaftliche Maschinelles Lernen für die Dynamik und Statik von Tragwerken_ | [Folien/Notebook](https://colab.research.google.com/drive/1DCE3pcKG2OmvMkLF7a6wLzrrVixaBBr1) [Video]() |
 | 24.11.21           | Gastvortrag 1: Graph-Neural Network basiertes Wissenschaftliches Maschinelles Lernen, von Professor Dr. Julija Zavadlav, Fakultät Maschinenwesen, TU München | [Video]()  |
 | 01.12.21           | Feature Engineering und Details zur Numerik des Wissenschaftlichen Maschinellen Lernens| [Folien]() [Video]() |
 | _01.12.21_         | _Übung 4: Feature Engineering_ | [Folien/Notebook]() [Video]() |
