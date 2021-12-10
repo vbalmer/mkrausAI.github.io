@@ -49,13 +49,13 @@ _(Subject to change)_
 | _06.10.21_         | _Übung 1: Wiederholung Python, Pandas und Supervised Learning Algorithmen_ | [Folien/Notebook]()  |
 | 13.10.21           | Datenverarbeitung und -visualisierung | [Folien]() [Video]() |            
 | _20.10.21_         | _Projekt-Pitches durch die Studierenden_ |   |
-| _20.10.21_         | _Übung 2: Wiederholung PythonUnsupervised Learning Algorithmen und Datenverarbeitung_ | [Folien/Notebook]() [Video]()  |
+| _20.10.21_         | _Übung 2: Wiederholung Python, Unsupervised Learning Algorithmen und Datenverarbeitung_ | [Folien/Notebook]() [Video]()  |
 | 27.10.21           | Einführung in das Wissenschaftliche Maschinelle Lernen im Bauingenieurwesen | [Folien]() [Video]()|
 | 03.11.21           | Erste Projektbesprechung |   |
 | 10.11.21           | Wissenschaftliches Maschinelles Lernen für die Statik von Tragwerken | [Folien]() [Video]() |
 | 17.11.21           | Wissenschaftliches Maschinelles Lernen für die Dynamik von Tragwerken | [Folien]() [Video]() |
 | _17.11.21_         | _Übung 3: Wissenschaftliche Maschinelles Lernen in Statik und Dynamik von Tragwerken_ | [Folien/Notebook]() [Video]() |
-| 24.11.21           | Gastvortrag 1: Graph-NeuralNetwork based SciML, von Professor Dr. Julija Zavadlav, Fakultät Maschinenwesen, TU München | [Video]()  |
+| 24.11.21           | Gastvortrag 1: Graph-Neural Network basiertes Wissenschaftliches Maschinelles Lernen, von Professor Dr. Julija Zavadlav, Fakultät Maschinenwesen, TU München | [Video]()  |
 | 01.12.21           | Feature Engineering und Details zur Numerik des Wissenschaftlichen Maschinellen Lernens| [Folien]() [Video]() |
 | _01.12.21_         | _Übung 4: Feature Engineering_ | [Folien/Notebook]() [Video]() |
 | 07.12.21           | Zweite Projektbesprechung |   |
