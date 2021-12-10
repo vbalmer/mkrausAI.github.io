@@ -36,7 +36,7 @@ Am Ende des Kurses werden die Studierenden ein numerisch-computerorientiertes De
 ## <a name="Beteiligte"></a>Instructors
 <img src="https://mkrausai.github.io/lectures/2021_SciML/images/Michael6_3.jpg" width="20%" alt="Michael Kraus" /><br />
 **Dr. Michael A. Kraus, M.Sc.(hons)**<br />
-PostDoctoral / Senior Researcher in SciML4AEC and Co-Leader of the Immersive Design Lab of Design++)<br />
+PostDoc / Senior Researcher für SciML4AEC und Koleitung des Immersive Design Lab der Design++ Initiative der ETH Zürich)<br />
 _Instructor and Lecturer_ <br />
 
 ## <a name="Zeit- und Terminplan"></a>Course Schedule
