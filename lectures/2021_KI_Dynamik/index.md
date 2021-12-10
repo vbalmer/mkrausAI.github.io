@@ -50,10 +50,10 @@ _(Subject to change)_
 | 13.10.21           | Datenverarbeitung und -visualisierung | [Folien]() [Video]() |            
 | _20.10.21_         | _Projekt-Pitches durch die Studierenden_ |   |
 | _20.10.21_         | _Übung 2: Wiederholung PythonUnsupervised Learning Algorithmen und Datenverarbeitung_ | [Folien/Notebook]()  |
-| 27.10.21           | Einführung in das Wissenschaftliche Maschinelle Lernen  | [Video]() |
+| 27.10.21           | Einführung in das Wissenschaftliche Maschinelle Lernen im Bauingenieurwesen | [Video]() |
 | 03.11.21           | Erste Projektbesprechung |   |
-| 10.11.21           | Wissenschaftliche Maschinelles Lernen in der Statik von Tragwerken | [Video]() |
-| 17.11.21           | Wissenschaftliche Maschinelles Lernen in der Dynamik von Tragwerken | [Video]() |
+| 10.11.21           | Wissenschaftliches Maschinelles Lernen für die Statik von Tragwerken | [Video]() |
+| 17.11.21           | Wissenschaftliches Maschinelles Lernen für die Dynamik von Tragwerken | [Video]() |
 | _17.11.21_         | _Übung 3: Wissenschaftliche Maschinelles Lernen in Statik und Dynamik von Tragwerken_ | [Folien/Notebook]()  |
 | 24.11.21           | Gastvortrag 1: Graph-NeuralNetwork based SciML, von Professor Dr. Julija Zavadlav, Fakultät Maschinenwesen, TU München |   |
 | 01.12.21           | Scientific Machine and Deep Learning  | [Folien]() [Video]()  |
