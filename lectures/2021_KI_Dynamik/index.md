@@ -1,4 +1,4 @@
-# Wissenschaftliches Maschinelles und Tiefes Lernen in Statik und Dynamik von Tragwerken
+# Wissenschaftliches Maschinelles und Tiefes Lernen für Statik und Dynamik von Tragwerken
 101-0139-00L, Zeit: Dienstag 08:00 – 9:30 in HPK D3 und online via Zoom; Sprchstunde: Montag: 13:00 - 14:00 Uhr    
 *   [Kursbeschreibung](#Kursbeschreibung)
 *   [Kursstruktur](#Kursstruktur)
@@ -8,7 +8,7 @@
 *   [Evaluation und Prüfung](#evaluation)
 
 ## <a name="Kursbeschreibung"></a>Kursbeschreibung
-Über die letzten Jahre fand die Technologie der künstlichen Intelligenz verstärkt Einzug und Anwendung im Bauingenieurwesen. Allerdings blieben bis heute grundlegende Fragen zur Anwendung der relevanten KI-Algorithmen des Machinellen und Tiefen Lernens (ML/DL) für Entwurfs- und Konstruktionssituationen unbeantwortet. Diese Vorlesung möchte den Studierenden als Berufstragende und Forschende der Zukunft ein grundlegendes, aber solides Verständnis der KI-Technologie mit spezifischem Bezug zur Statik und Dynamik von Tragwerken vermitteln und aufzeigen, welche wesentlichen Punkte bei der Anwendung von KI in diesem speziellen Bereich zu beachten sind. Der praxisnahe Einsatz von Wissenschaftlichem ML/DL (Sci ML/DL) wird über entsprechend gestaltete Übungen, aber auch durch die Durchführung von Studien-Projekten mit realen Praxisanwendungen garantiert.
+Über die letzten Jahre fand die Technologie der Künstlichen Intelligenz verstärkt Einzug und Anwendung im Bauingenieurwesen. Allerdings blieben bis heute grundlegende Fragen zur Anwendung der relevanten KI-Algorithmen des Machinellen und Tiefen Lernens (ML/DL) für Entwurfs- und Konstruktionssituationen unbeantwortet. Diese Vorlesung möchte den Studierenden als Berufstragende und Forschende der Zukunft ein grundlegendes, aber solides Verständnis der KI-Technologie mit spezifischem Bezug zur Statik und Dynamik von Tragwerken vermitteln und aufzeigen, welche wesentlichen Punkte bei der Anwendung von KI in diesem speziellen Bereich zu beachten sind. Der praxisnahe Einsatz von Wissenschaftlichem ML/DL (Sci ML/DL) wird über entsprechend gestaltete Übungen, aber auch durch die Durchführung von Studien-Projekten mit realen Praxisanwendungen garantiert.
 
 
 ## <a name="Kursstruktur"></a>Kursstruktur
