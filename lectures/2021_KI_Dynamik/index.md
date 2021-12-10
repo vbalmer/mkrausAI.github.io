@@ -42,7 +42,7 @@ _Instructor and Lecturer_ <br />
 ## <a name="Zeit- und Terminplan"></a>Course Schedule
 _(Subject to change)_
 
-| DATE        | CLASS TOPIC          | MATERIAL |
+| DATUM        | VORLESUNGSINHALT          | MATERIAL |
 |:-------------|:------------------|:------|
 | 29.09.21           | Einführung | [Folien]()  |
 | 06.10.21           | Grundlagen des Maschinellen und Tiefen Lernens | [Folien](h) [Video]() |
@@ -57,7 +57,7 @@ _(Subject to change)_
 | _17.11.21_         | _Übung 3: Wissenschaftliche Maschinelles Lernen in Statik und Dynamik von Tragwerken_ | [Folien/Notebook]()  |
 | 24.11.21           | Gastvortrag 1: Graph-NeuralNetwork based SciML, von Professor Dr. Julija Zavadlav, Fakultät Maschinenwesen, TU München |   |
 | 01.12.21           | Scientific Machine and Deep Learning  | [Folien]() [Video]()  |
-| _01.12.21_         | _Exercise 5: Feature Engineering_ | [Folien/Notebook]() |
+| _01.12.21_         | _Übung 4: Feature Engineering_ | [Folien/Notebook]() |
 | 07.12.21           | Zweite Projektbesprechung |   |
 | 14.12.21           | Gastvortrag 2: Physics-informed Neural Networks at scale, von Dr. Mohammad Nabian, NVIDIA |   |
 | 21.12.21           | Projektendpräsentation |  |
