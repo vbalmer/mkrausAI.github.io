@@ -68,7 +68,7 @@ _(Subject to change)_
 | 29.11           | 2nd Project Consultation (in person, at ETH Hönngerberg) |   |
 | 06.12           | Guest Talk, Physics-informed Neural Networks at scale, by Mohammad Nabian, NVIDIA |   |
 | 13.12           | Final Project Presentation (in person and online, at ETH Hönngerberg)|  |
-| 20.12           | Final Project Presentation (in person and online, at ETH Hönngerberg)|  |
+| 20.12           | Hand-in of Final Project Report (online / email))|  |
 
 ## <a name="evaluation"></a>Course Evaluation
 *   **Oral Examination: 50% of grade**. Students will be examined on the covered material at the end of the semester right after their project presentation.
