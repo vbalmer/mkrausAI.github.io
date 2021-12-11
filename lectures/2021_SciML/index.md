@@ -62,11 +62,11 @@ _(Subject to change)_
 | _01.11_         | _Exercise 4: Unsupervised Machine Learning_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_4.rar)  |
 | 08.11           | 1st Project Consultation (in person, at ETH Hönngerberg) |   |
 | 15.11           | Scientific Machine and Deep Learning  | [video](https://polybox.ethz.ch/index.php/s/zMcWdRtQpChh6XQ) |
-| 22.11           | Guest Talk, Graph-NeuralNetwork based SciML, by Professor Julija Zavadlav, Dept. of Mechanical Engineering, TU Munich |   |
-| 22.11           | Scientific Machine and Deep Learning  | [slides/notebook](https://polybox.ethz.ch/index.php/s/OHFlNnj1jnrJBGu) [video](.)  |
+| 22.11           | Guest Talk, Graph-NeuralNetwork based SciML, by Professor Julija Zavadlav, Dept. of Mechanical Engineering, TU Munich | [video](https://polybox.ethz.ch/index.php/s/QOc3RNF1QSMebXG) |
+| 22.11           | Scientific Machine and Deep Learning  | [slides/notebook](https://polybox.ethz.ch/index.php/s/OHFlNnj1jnrJBGu) [video](https://polybox.ethz.ch/index.php/s/QOc3RNF1QSMebXG) |
 | _22.11_         | _Exercise 5: Feature Engineering_ | [slides/notebook](https://polybox.ethz.ch/index.php/s/OHFlNnj1jnrJBGu) |
 | 29.11           | 2nd Project Consultation (in person, at ETH Hönngerberg) |   |
-| 06.12           | Guest Talk, Physics-informed Neural Networks at scale, by Mohammad Nabian, NVIDIA |   |
+| 06.12           | Guest Talk, Physics-informed Neural Networks at scale, by Mohammad Nabian, NVIDIA | [video](https://polybox.ethz.ch/index.php/s/QOc3RNF1QSMebXG) |
 | 13.12           | Final Project Presentation (in person and online, at ETH Hönngerberg)|  |
 | 20.12           | Hand-in of Final Project Report (online / email))|  |
 
