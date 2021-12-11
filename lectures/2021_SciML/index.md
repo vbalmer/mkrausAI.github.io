@@ -66,7 +66,7 @@ _(Subject to change)_
 | 22.11           | Scientific Machine and Deep Learning  | [slides/notebook](https://polybox.ethz.ch/index.php/s/OHFlNnj1jnrJBGu) [video](https://polybox.ethz.ch/index.php/s/QOc3RNF1QSMebXG) |
 | _22.11_         | _Exercise 5: Feature Engineering_ | [slides/notebook](https://polybox.ethz.ch/index.php/s/OHFlNnj1jnrJBGu) |
 | 29.11           | 2nd Project Consultation (in person, at ETH Hönngerberg) |   |
-| 06.12           | Guest Talk, Physics-informed Neural Networks at scale, by Mohammad Nabian, NVIDIA | [video]() |
+| 06.12           | Guest Talk, Physics-informed Neural Networks at scale, by Mohammad Nabian, NVIDIA | |
 | 13.12           | Final Project Presentation (in person and online, at ETH Hönngerberg)|  |
 | 20.12           | Hand-in of Final Project Report (online / email))|  |
 
