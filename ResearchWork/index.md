@@ -1,17 +1,13 @@
 # RESEARCH
-*   [Philisophy](#Philisophy)
-*   [Mission](#Mission)
+*   [Philisophy and Mission Statement](#Philisophy)
 *   [ResearchAreas](#ResearchAreas)
-*   [Material Modelling](#MatMod)
-*   [Scientific Machine Learning](#SciML)
-*   [Physics-Informed Deep Learning](#PhysDL)
-
-## <a name="Philisophy"></a>Philisophy
-Is it possible for a civil engineer, as a member of a university, to pursue both a successful teaching ca-reer and future-oriented science while serving as a link between research and application? And can a civil engineer make significant research contributions in another field such as architecture or computer science? From my previous experience as a post-doctoral researcher at Stanford and ETH Zurich, I can answer this question with a bright YES. My research is at the boundary of architecture, structural engineering and computer sciences and provides novel computational tools for the sustainable, appealing yet reliable design and analysis of critial structures of the built environment. I collaborate with prestigious academic institutions as well as leading engineering offices and AEC companies including Bergmeister Ingenieure, Kuraray, Dywidag and Dlubal Software. I have learned, that integrating architecture, structural and environmental engineering remains a vast challenge for building designers. To take on this challenge, I use my interdisciplinary background in civil engineering and computational mechanics to conduct research in three main areas: Scientific Machine Learning in engineering, structural design, and construction materials."
+*   [ResearchProjects](#ResearchProjects)
 
 
-## <a name="Mission"></a>Mission Statement and Principle
-Research and teaching with the aim of further establishing digital methods and in particular Artificial Intelligence in the planning, execution and maintenance of built structures in a safe, climate-neutral and aesthetic built environment. As an engineer working in academia, my research follows the strictest scientific principles, research results translate into concrete and actionable recommendations for practice, in addition to professional publications.
+## <a name="Philisophy"></a>Philisophy and Mission Statement
+Is it possible for a civil engineer, as a member of a university, to pursue both a successful teaching ca-reer and future-oriented science while serving as a link between research and application? And can a civil engineer make significant research contributions in another field such as architecture or computer science? From my previous experience as a post-doctoral researcher at Stanford and ETH Zurich, I can answer this question with a bright YES. 
+
+I conduct research and teaching at the boundary of architecture, structural engineering and computer sciences with the aim of further establishing digital methods and in particular Artificial Intelligence (AI) as well as providing novel computational tools for the sustainable, appealing yet reliable design and analysis of critial structures of the built environment. As an engineer working in academia, my research follows the strictest scientific principles, research results translate into concrete and actionable recommendations for practice, in addition to professional publications. I collaborate with prestigious academic institutions as well as leading engineering offices and AEC companies including Bergmeister Ingenieure, Kuraray, Dywidag and Dlubal Software. So far I have learned, that integrating architecture, structural and environmental engineering still remains a vast challenge for design of buidlings and bridges. To take on this challenge, I use my interdisciplinary background in civil engineering and computational mechanics to conduct research in three main areas: Scientific Machine Learning for engineering, structural design, and construction materials.
 
 		
 ## <a name="ResearchAreas"></a>Research Focus and current Areas of Work
@@ -35,21 +31,18 @@ Development and establishment of Extended Reality (XR) in teaching and practice 
 *	Development of a teaching and implementation concept of XR applications for teaching structural engineering
 *	Supervision of several theses towards the development of VR / AR interfaces
 
+## <a name="ResearchAreas"></a>Research Projects
 
-## <a name="objectives"></a>Scientific Machine Learning
-This course will present methods of scientific machine and deep learning (ML / DL) for applications in design and construction in civil engineering. After providing proper background on ML and the scientific ML (SciML) track, several applications of SciML together with their computational implementation during the design and construction process of the built environment are examined.
-
-By the end of the course students will develop computational thinking related to the combination of domain knowledge and latest computer science AI technology for scientific machine learning applications within the AEC domain. Specifically, the students will:
-
-*   Gain fundamental understanding on how **AI / ML / DL technology** works and the impact it may have in the AEC industry.
-*   Gain understanding on how to **combine specific knowledge from AEC domain with state-of-the-art ML/DL** to deploy SciML models.
-*   **Identify limitations, pitfalls, and bottlenecks** in these applications.
-*   Develop **critical thinking** on solutions for the above issues.
-*   Acquire **hands-on experience** in creatively thinking and designing an application together with the computational problem solving SciML approach.
-*   Use this course as a **"stepping-stone" to Machine Learning-intensive courses** offered in D-BAUG and D-ARCH.
+### <a name="objectives"></a>AI-FEM-Hybirds
 
 
-## <a name="structure"></a>Course Structure
+### <a name="objectives"></a>AI-FEM-Hybirds
+
+
+*   [Material Modelling](#MatMod)
+*   [Scientific Machine Learning](#SciML)
+*   [Physics-Informed Deep Learning](#PhysDL)
+
 
 In recent years, the Artificial Intelligence technology was introduced to the Architecture, Engineering and Construction (AEC) industry. Numerous application achievments have since been reached in this interdisciplinary field. However, yet today fundamental questions on the application of the relevant AI subgroups of Machine and Deep Learning for design, verification and construction situations have not answered. This lecture wants to equip current students as practicioners and researcher of the future with a basic yet solid understanding of the AI technology and what essential points to consider when applying AI to this specific domain.
 
@@ -61,3 +54,16 @@ The course will be delivered as a three phase lecture:
 3.  The third phase consists of classes for guiding and supporting participants in solving and deploying their project.
 
 In the points of connection, students will see the importance of taking into account the application requirements when designing an AI system, as well as their impact on the building blocks. Guest speakers from both, the AI and AEC domains, provide complementary impulses for participants of this lectures.
+
+
+This course will present methods of scientific machine and deep learning (ML / DL) for applications in design and construction in civil engineering. After providing proper background on ML and the scientific ML (SciML) track, several applications of SciML together with their computational implementation during the design and construction process of the built environment are examined.
+
+By the end of the course students will develop computational thinking related to the combination of domain knowledge and latest computer science AI technology for scientific machine learning applications within the AEC domain. Specifically, the students will:
+
+*   Gain fundamental understanding on how **AI / ML / DL technology** works and the impact it may have in the AEC industry.
+*   Gain understanding on how to **combine specific knowledge from AEC domain with state-of-the-art ML/DL** to deploy SciML models.
+*   **Identify limitations, pitfalls, and bottlenecks** in these applications.
+*   Develop **critical thinking** on solutions for the above issues.
+*   Acquire **hands-on experience** in creatively thinking and designing an application together with the computational problem solving SciML approach.
+*   Use this course as a **"stepping-stone" to Machine Learning-intensive courses** offered in D-BAUG and D-ARCH.
+
