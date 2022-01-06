@@ -33,15 +33,35 @@ Development and establishment of Extended Reality (XR) in teaching and practice 
 
 ## <a name="ResearchAreas"></a>Research Projects
 
+### <a name="objectives"></a>Scientific Machine Learning
+In the first phase, non-​linear FE models for reinforced concrete plates and slabs developed at ETH Zurich are combined with AI methods to create hybrid AI-​FEM models. These are much more efficient than established analysis methods both in 
+
+#### <a name="objectives"></a>The Bridge-Genome-Project
+In the first phase, non-​linear FE models for reinforced concrete plates and slabs developed at ETH Zurich are combined with AI methods to create hybrid AI-​FEM models. These are much more efficient than established analysis methods both in terms of the computing power required and the reliability of predicting the load-​bearing behaviour. With the completion of the first phase, a validated software demonstrator of AI-​FEM hybrids for the efficient non-​linear analysis and design of reinforced concrete structures is available.
+
+#### <a name="objectives"></a>Physics-Informed Machine and Deep Learning
+In the first phase, non-​linear FE models for reinforced concrete plates and slabs developed at ETH Zurich are combined with AI methods to create hybrid AI-​FEM models. These are much more efficient than established analysis methods both in terms of the computing power required and the reliability of predicting the load-​bearing behaviour. With the completion of the first phase, a validated software demonstrator of AI-​FEM hybrids for the efficient non-​linear analysis and design of reinforced concrete structures is available.
+
+
+
+
+
+
+
 ### <a name="objectives"></a>AI-FEM-Hybirds
+In the first phase, non-​linear FE models for reinforced concrete plates and slabs developed at ETH Zurich are combined with AI methods to create hybrid AI-​FEM models. These are much more efficient than established analysis methods both in terms of the computing power required and the reliability of predicting the load-​bearing behaviour. With the completion of the first phase, a validated software demonstrator of AI-​FEM hybrids for the efficient non-​linear analysis and design of reinforced concrete structures is available.
 
+### <a name="objectives"></a>AI-based analysis & optimization of concrete structures
+Digital design and manufacturing methods, such as those to be developed in the new Immersive Design Lab, offer great potential for significantly more efficient and sustainable construction. In order to ensure the structural safety, economic efficiency and sustainability of complex structures, reliable and powerful models for automatic analysis, optimisation and design are essential. However, such models are largely lacking to date. This is especially true for concrete structures, as their behaviour is highly non-​linear. Realistic structural analyses and optimisations using the non-​linear finite element method (FE) are possible today. However they are proving to be very time-​consuming, even when using extraordinary computation capacities. Hence, for reasons of temporal and monetary efficiency, traditional (and in many cases excessively conservative) design methods without structural optimisation are still used in the vast majority of projects today.
+
+he proposed research project addresses this unsatisfactory situation with a two-​phase research approach that combines conventional design and dimensioning methods with a design data pool of the Chair of Concrete Structures and Bridge Design using methods of Artificial Intelligence (AI). This will allow
+*    realistic structural analyses taking into account non-​linearities and 
+*    structural optimisation to be carried out much more efficiently in the future.
 
 ### <a name="objectives"></a>AI-FEM-Hybirds
-
+This research project non-​linear FE models for reinforced concrete plates and slabs developed at ETH Zurich are combined with AI methods to create hybrid AI-​FEM models. These are much more efficient than established analysis methods both in terms of the computing power required and the reliability of predicting the load-​bearing behaviour. With the completion of the first phase, a validated software demonstrator of AI-​FEM hybrids for the efficient non-​linear analysis and design of reinforced concrete structures is available.
 
 *   [Material Modelling](#MatMod)
-*   [Scientific Machine Learning](#SciML)
-*   [Physics-Informed Deep Learning](#PhysDL)
 
 
 In recent years, the Artificial Intelligence technology was introduced to the Architecture, Engineering and Construction (AEC) industry. Numerous application achievments have since been reached in this interdisciplinary field. However, yet today fundamental questions on the application of the relevant AI subgroups of Machine and Deep Learning for design, verification and construction situations have not answered. This lecture wants to equip current students as practicioners and researcher of the future with a basic yet solid understanding of the AI technology and what essential points to consider when applying AI to this specific domain.
@@ -67,3 +87,5 @@ By the end of the course students will develop computational thinking related to
 *   Acquire **hands-on experience** in creatively thinking and designing an application together with the computational problem solving SciML approach.
 *   Use this course as a **"stepping-stone" to Machine Learning-intensive courses** offered in D-BAUG and D-ARCH.
 
+### <a name="objectives"></a>Extended Reality in Teaching Structural Engineering
+In the first phase, non-​linear FE models for reinforced concrete plates and slabs developed at ETH Zurich are combined with AI methods to create hybrid AI-​FEM models. These are much more efficient than established analysis methods both in terms of the computing power required and the reliability of predicting the load-​bearing behaviour. With the completion of the first phase, a validated software demonstrator of AI-​FEM hybrids for the efficient non-​linear analysis and design of reinforced concrete structures is available.
