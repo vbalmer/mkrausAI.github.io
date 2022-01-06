@@ -42,5 +42,6 @@ Development and establishment of Extended Reality (XR) in teaching and practice 
 #### <a name="objectives"></a>AI-FEM-Hybirds
 #### <a name="objectives"></a>AI-based analysis & optimization of concrete structures
 
-### <a name="objectives"></a>Extended Reality in Teaching Structural Engineering
-In the first phase, non-​linear FE models for reinforced concrete plates and slabs developed at ETH Zurich are combined with AI methods to create hybrid AI-​FEM models. These are much more efficient than established analysis methods both in terms of the computing power required and the reliability of predicting the load-​bearing behaviour. With the completion of the first phase, a validated software demonstrator of AI-​FEM hybrids for the efficient non-​linear analysis and design of reinforced concrete structures is available.
+### <a name="objectives"></a>Extended Reality in Teaching
+#### <a name="objectives"></a> Augmented Reality in Teaching Structural Engineering
+#### <a name="objectives"></a> Virtual Reality in Teaching Building Construction / Design of Buildings
