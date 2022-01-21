@@ -15,6 +15,7 @@ Besides that i am running a consultancy office for structural analysis and deplo
 - 🤔 I’m looking for help with GraphML for structural analysis
 - 💬 Ask me about SciML in Civil Engineering and "classical" Structural Engineering
 - 📫 How to reach me: kraus@ibk.baug.ethz.ch   or   mki.consult.kg@gmail.com    or book an appointment here: https://calendly.com/makraus
+- 💻 Find more information on my [personal website](https://mkrausai.com)
 
 <!--
 **mkrausAi/mkrausAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
