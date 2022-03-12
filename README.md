@@ -17,8 +17,7 @@ Besides that i am running a consultancy office for structural analysis and deplo
 - 📫 How to reach me: kraus@ibk.baug.ethz.ch   or   mki.consult.kg@gmail.com    or book an appointment here: https://calendly.com/makraus
 - 💻 Find more information on my [personal website](https://mkrausai.com)
 
-Have a look at my research work: 
-- Posters: https://mkrausai.github.io/ResearchWork
+Have a look at my research work: https://github.com/mkrausAi/mkrausAI.github.io/blob/main/ResearchWork/
 
 <!--
 **mkrausAi/mkrausAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
