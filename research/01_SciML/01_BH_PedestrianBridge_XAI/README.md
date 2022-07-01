@@ -6,12 +6,17 @@
 
 ![XAI_Pedestrian logo](https://github.com/mkrausAi/mkrausAI.github.io/blob/main/research/01_SciML/01_BH_PedestrianBridge_XAI/figs/XAI_Overview.PNG)
 
+This line of work is concerned with the Generative Design of a Pedestrian Bridge
+
+
+
 - Does your data science technique actually scale across hundreds of buildings?
 - Is it actually faster or more accurate?
 
 These are questions that researchers should ask when developing data-driven methods. Building performance prediction, classi cation, and clustering algorithms are becoming an essential part of analysis for anomaly detection, control optimization, and demand response. But how do we actually compare, each individual technique against previously created methods?
 
 The time-series data mining community identifed this problem as early as 2003: “Much of this work has very little utility because the contribution made”...“offer an amount of improvement that would have been completely dwarfed by the variance that would have been observed by testing on many real world datasets, or the variance that would have been observed by changing minor (unstated) implementation details.” ([Keogh, E. and Kasetty, S.: On the need for time series data mining benchmarks: A survey and empirical demonstration. Data Mining and Knowledge Discovery, 7(4):349–371, Oct. 2003.](https://link.springer.com/article/10.1023/A:1024988512476))
+
 
 [They created the time-series data benchmarking set](http://www.cs.ucr.edu/~eamonn/time_series_data/). This data set enables testing of new techniques on an assortment of real world data sets. For commerical buildings data, we are doing the same!
 
@@ -31,8 +36,7 @@ It is an open data set from 507 non-residential buildings that includes hourly w
 
 ![meta data](https://github.com/mkrausAi/mkrausAI.github.io/tree/main/research/01_SciML/01_BH_PedestrianBridge_XAI/DataSet)
 
-### Please contribute new data sets or provide analysis examples in Jupyter or R markdown using the data
-
+### Please contribute new data sets or provide analysis examples in Jupyter using the data
 
 Citation of Data-Set
 ------------
@@ -48,6 +52,13 @@ title = "xxx ",
 journal = "xx"
 }
 ```
+
+# Contributors
+M.Sc. Vera Balmer (ETH Zurich)
+M.Sc. Rafael Bischof (Swiss Data Science Center)
+M.Sc. Sophia Kuhn (ETH Zurich)
+?? Seraina?
+Dr. Michael A. Kraus (ETH Zurich)
 
 # Contact
 Dr. Michael A. Kraus, M.Sc.(hons)
