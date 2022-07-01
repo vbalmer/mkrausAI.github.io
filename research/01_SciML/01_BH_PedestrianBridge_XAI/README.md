@@ -71,10 +71,10 @@ journal = "xx"
 ```
 
 # Contributors
-M.Sc. Vera Balmer (ETH Zurich)
-M.Sc. Rafael Bischof (Swiss Data Science Center)
-M.Sc. Sophia Kuhn (ETH Zurich)
-?? Seraina?
+M.Sc. Vera Balmer (ETH Zurich) \\
+M.Sc. Rafael Bischof (Swiss Data Science Center) \\
+M.Sc. Sophia Kuhn (ETH Zurich)\\
+?? Seraina?\\
 Dr. Michael A. Kraus (ETH Zurich)
 
 # Contact
