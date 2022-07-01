@@ -1,4 +1,4 @@
-# Check out Explainable AI for Generative Design of a Pedestrian Bridge - the latest version that supercedes this one: https://github.com/mkrausAi/mkrausAI.github.io/tree/main/research/01_SciML/01_BH_PedestrianBridge_XAI
+# Explainable AI for Generative Design of a Pedestrian Bridge
 
 
 <!-- A repository of structural information on the design of pedestrian bridges
