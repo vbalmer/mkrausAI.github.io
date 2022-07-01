@@ -105,7 +105,7 @@ M.Sc. Sophia Kuhn (ETH Zurich)\\
 **Rafael Bischof**<br />
 Data Scientist (Swiss Data Science Center) and Researcher in SciML4AEC<br />
 
-<img src="https://mkrausai.github.io/img/persons/bild_sophia.jpg" width="20%" alt="Sophia Kuhn" /><br />
+<img src="https://mkrausai.github.io/img/persons/bild_sophia.jpeg" width="20%" alt="Sophia Kuhn" /><br />
 **M.Sc. Sophia Kuhn**<br />
 Doctoral Researcher in SciML4AEC at ETH Zurich<br />
 
