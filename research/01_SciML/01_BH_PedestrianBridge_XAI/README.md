@@ -101,17 +101,17 @@ M.Sc. Rafael Bischof (Swiss Data Science Center) \\
 M.Sc. Sophia Kuhn (ETH Zurich)\\
 ?? Seraina?\\
 
-<img src="https://mkrausai.github.io/img/persons/Rafael-Bischof-2.jpg" width="20%" alt="Michael Kraus" /><br />
+<img src="https://mkrausai.github.io/img/persons/Rafael-Bischof-2.jpg" width="20%" alt="Rafael Bischof" /><br />
 **Rafael Bischof**<br />
-Data Scientist and Researcher in SciML4AEC)<br />
+Data Scientist (Swiss Data Science Center) and Researcher in SciML4AEC<br />
 
-<img src="https://mkrausai.github.io/img/persons/bild_sophia.jpg" width="20%" alt="Michael Kraus" /><br />
+<img src="https://mkrausai.github.io/img/persons/bild_sophia.jpg" width="20%" alt="Sophia Kuhn" /><br />
 **M.Sc. Sophia Kuhn**<br />
-Doctoral Researcher in SciML4AEC)<br />
+Doctoral Researcher in SciML4AEC at ETH Zurich<br />
 
 <img src="https://mkrausai.github.io/img/persons/Michael6_3.jpg" width="20%" alt="Michael Kraus" /><br />
 **Dr. Michael A. Kraus, M.Sc.(hons)**<br />
-Senior Researcher in SciML4AEC and Co-Leader of the Immersive Design Lab of Design++)<br />
+Senior Researcher in SciML4AEC and Co-Leader of the Immersive Design Lab of Design++ at ETH Zurich<br />
 
 # Contact
 Dr. Michael A. Kraus, M.Sc.(hons)
