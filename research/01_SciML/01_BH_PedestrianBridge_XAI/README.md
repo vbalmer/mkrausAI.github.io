@@ -1,3 +1,5 @@
+<!--https://mkrausai.github.io/research/01_SciML/01_BH_PedestrianBridge_XAI/-->
+
 # Explainable AI for Generative Design of a Pedestrian Bridge
 
 
@@ -6,27 +8,37 @@
 
 ![XAI_Pedestrian logo](https://github.com/mkrausAi/mkrausAI.github.io/blob/main/research/01_SciML/01_BH_PedestrianBridge_XAI/figs/XAI_Overview.PNG)
 
+*   [Description](#description)
+*   [Objectives](#objectives)
+*   [Content](#content)
+*   [Contributors](#contributors)
+*   [Citation](#citation)
+
+## <a name="description"></a>Project Description
+In recent years, the Artificial Intelligence technology was introduced to the Architecture, Engineering and Construction (AEC) industry. Numerous application achievments have since been reached in this interdisciplinary field. However, yet today fundamental questions on the application of the relevant AI subgroups of Machine and Deep Learning for design, verification and construction situations have not answered. This lecture wants to equip current students as practicioners and researcher of the future with a basic yet solid understanding of the AI technology and what essential points to consider when applying AI to this specific domain.
+
 This line of work is concerned with the Generative Design of a Pedestrian Bridge
 
-
-
-- Does your data science technique actually scale across hundreds of buildings?
-- Is it actually faster or more accurate?
-
-These are questions that researchers should ask when developing data-driven methods. Building performance prediction, classi cation, and clustering algorithms are becoming an essential part of analysis for anomaly detection, control optimization, and demand response. But how do we actually compare, each individual technique against previously created methods?
-
-The time-series data mining community identifed this problem as early as 2003: “Much of this work has very little utility because the contribution made”...“offer an amount of improvement that would have been completely dwarfed by the variance that would have been observed by testing on many real world datasets, or the variance that would have been observed by changing minor (unstated) implementation details.” ([Keogh, E. and Kasetty, S.: On the need for time series data mining benchmarks: A survey and empirical demonstration. Data Mining and Knowledge Discovery, 7(4):349–371, Oct. 2003.](https://link.springer.com/article/10.1023/A:1024988512476))
-
+implementation details.” ([Keogh, E. and Kasetty, S.: On the need for time series data mining benchmarks: A survey and empirical demonstration. Data Mining and Knowledge Discovery, 7(4):349–371, Oct. 2003.](https://link.springer.com/article/10.1023/A:1024988512476)) 
 
 [They created the time-series data benchmarking set](http://www.cs.ucr.edu/~eamonn/time_series_data/). This data set enables testing of new techniques on an assortment of real world data sets. For commerical buildings data, we are doing the same!
 
-## The need for Benchmarking Data Sets of Bridges for Scientific Data Analytics
 
-### Typically bridges are designed, verified and constructed from scratch, depending on the prior knowledge of the involved team of engineers. Hence for most of the existing bridge buildings performance data are not available in digital and / or computational form for further science studies. Thus individual researchers and engineers in practice creating their own methods, finding a case study data set and determining efficacy on their own. Not surprisingly, most of those researcher find positive, yet questionably meaningful results.
+## <a name="objectives"></a>Objectives
+This course will present methods.
 
-![ForwardModel](https://github.com/mkrausAi/mkrausAI.github.io/blob/main/research/01_SciML/01_BH_PedestrianBridge_XAI/Forward_Model_UserInterface.mp4)
+By the end of the course students will develop computational thinking related to the combination of domain knowledge and latest computer science AI technology for scientific machine learning applications within the AEC domain. Specifically, the students will:
+*   Gain fundamental understanding on how **AI / ML / DL technology** works and the impact it may have in the AEC industry.
+*   Gain understanding on how to **combine specific knowledge from AEC domain with state-of-the-art ML/DL** to deploy SciML models.
+*   **Identify limitations, pitfalls, and bottlenecks** in these applications.
+*   Develop **critical thinking** on solutions for the above issues.
+*   Acquire **hands-on experience** in creatively thinking and designing an application together with the computational problem solving SciML approach.
+*   Use this course as a **"stepping-stone" to Machine Learning-intensive courses** offered in D-BAUG and D-ARCH.
 
+## <a name="content"></a>Project Content
+This course will present methods.
 
+By the end of the course students will develop computational thinking related to the combination of domain knowledge and latest computer science AI technology for scientific machine learning applications within the AEC d
 
 <details open="" class="details-reset border rounded-2">
   <summary class="px-3 py-2 border-bottom">
@@ -43,10 +55,20 @@ The time-series data mining community identifed this problem as early as 2003: �
 </details>
 
 
+<details open="" class="details-reset border rounded-2">
+  <summary class="px-3 py-2 border-bottom">
+    <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-device-camera-video">
+    <path fill-rule="evenodd" d="..."></path>
+</svg>
+    <span aria-label="Inverse_Model_UserInterface.mp4" class="m-1">Inverse_Model_UserInterface.mp4</span>
+    <span class="dropdown-caret"></span>
+  </summary>
 
-### Using a large, consistent benchmark data set from hundreds (or thousands) of buildings, a researcher can determine how well their methods actually perform across a heterogeneous data set. If multiple researcher use the same data set, then there can be meaningful comparisons of accuracy, speed and ease-of-use.
+  <video src="https://github.com/mkrausAi/mkrausAI.github.io/blob/main/research/01_SciML/01_BH_PedestrianBridge_XAI/Inverse_Model_UserInterface.mp4" data-canonical-src="https://github.com/mkrausAi/mkrausAI.github.io/blob/main/research/01_SciML/01_BH_PedestrianBridge_XAI/Inverse_Model_UserInterface.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
 
-![InverseModel](https://github.com/mkrausAi/mkrausAI.github.io/blob/main/research/01_SciML/01_BH_PedestrianBridge_XAI/Inverse_Model_UserInterface.mp4)
+  </video>
+</details>
+
 
 ## Introducing the Building Data Genome Project
 It is an open data set from 507 non-residential buildings that includes hourly whole building electrical meter data for one year. Each of the buildings has meta data such as  or area, weather, and primary use type. This data set can be used to benchmark various statistical learning algorithms and other data science techniques. It can also be used simply as a teaching or learning tool to practice dealing with measured performance data from large numbers of non-residential buildings. The charts below illustrate the breakdown of the buildings according to location, building industry, sub-industry, and primary use type.
@@ -55,8 +77,10 @@ It is an open data set from 507 non-residential buildings that includes hourly w
 
 ### Please contribute new data sets or provide analysis examples in Jupyter using the data
 
-Citation of Data-Set
-------------
+
+
+
+## <a name="citation"></a>Citation
 
 [xxx](http://www.sciencedirect.com/science/article/pii/S1876610217330047) 
 
@@ -70,12 +94,18 @@ journal = "xx"
 }
 ```
 
-# Contributors
+
+## <a name="contributors"></a>Contributors
 M.Sc. Vera Balmer (ETH Zurich) \\
 M.Sc. Rafael Bischof (Swiss Data Science Center) \\
 M.Sc. Sophia Kuhn (ETH Zurich)\\
 ?? Seraina?\\
-Dr. Michael A. Kraus (ETH Zurich)
+
+<img src="https://mkrausai.github.io/lectures/2021_SciML/images/Michael6_3.jpg" width="20%" alt="Michael Kraus" /><br />
+**Dr. Michael A. Kraus, M.Sc.(hons)**<br />
+PostDoctoral / Senior Researcher in SciML4AEC and Co-Leader of the Immersive Design Lab of Design++)<br />
+_Instructor and Lecturer_ <br />
+
 
 # Contact
 Dr. Michael A. Kraus, M.Sc.(hons)
