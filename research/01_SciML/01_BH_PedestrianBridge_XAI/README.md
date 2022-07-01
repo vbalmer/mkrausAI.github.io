@@ -4,7 +4,7 @@
 <!-- A repository of structural information on the design of pedestrian bridges
 ============================== -->
 
-![XAI_Pedestrian logo](Cover_BridgeGenomeProject.png)
+![XAI_Pedestrian logo](https://github.com/mkrausAi/mkrausAI.github.io/blob/main/research/01_SciML/01_BH_PedestrianBridge_XAI/figs/XAI_Overview.PNG)
 
 - Does your data science technique actually scale across hundreds of buildings?
 - Is it actually faster or more accurate?
