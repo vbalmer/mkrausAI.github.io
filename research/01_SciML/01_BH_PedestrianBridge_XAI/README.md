@@ -97,7 +97,7 @@ journal = "xx"
 
 ## <a name="contributors"></a>Contributors
 
-<img src="https://mkrausai.github.io/img/persons/VeraBalmer.jpg" width="20%" alt="Vera Balmer" /><br />
+<img src="https://mkrausai.github.io/img/persons/VeraBalmer.png" width="20%" alt="Vera Balmer" /><br />
 **M.Sc. Vera Balmer**<br />
 Doctoral Researcher in SciML4AEC at ETH Zurich<br />
 
