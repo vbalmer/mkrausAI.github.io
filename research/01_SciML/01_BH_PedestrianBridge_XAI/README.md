@@ -96,13 +96,13 @@ journal = "xx"
 
 
 ## <a name="contributors"></a>Contributors
-M.Sc. Vera Balmer (ETH Zurich) \\
-M.Sc. Rafael Bischof (Swiss Data Science Center) \\
-M.Sc. Sophia Kuhn (ETH Zurich)\\
-?? Seraina?\\
+
+<img src="https://mkrausai.github.io/img/persons/VeraBalmer.jpg" width="20%" alt="Vera Balmer" /><br />
+**M.Sc. Vera Balmer**<br />
+Doctoral Researcher in SciML4AEC at ETH Zurich<br />
 
 <img src="https://mkrausai.github.io/img/persons/Rafael-Bischof-2.jpg" width="20%" alt="Rafael Bischof" /><br />
-**Rafael Bischof**<br />
+**M.Sc. Rafael Bischof**<br />
 Data Scientist (Swiss Data Science Center) and Researcher in SciML4AEC<br />
 
 <img src="https://mkrausai.github.io/img/persons/bild_sophia.jpeg" width="20%" alt="Sophia Kuhn" /><br />
