@@ -1,6 +1,6 @@
 <!--https://mkrausai.github.io/research/01_SciML/01_BH_PedestrianBridge_XAI/-->
 
-# Explainable AI for Generative Design of a Pedestrian Bridge
+# Explainable AI for Conceptual Generative Design of a Pedestrian Bridge
 
 
 <!-- A repository of structural information on the design of pedestrian bridges
@@ -15,70 +15,68 @@
 *   [Citation](#citation)
 
 ## <a name="description"></a>Project Description
-In recent years, the Artificial Intelligence technology was introduced to the Architecture, Engineering and Construction (AEC) industry. Numerous application achievments have since been reached in this interdisciplinary field. However, yet today fundamental questions on the application of the relevant AI subgroups of Machine and Deep Learning for design, verification and construction situations have not answered. This lecture wants to equip current students as practicioners and researcher of the future with a basic yet solid understanding of the AI technology and what essential points to consider when applying AI to this specific domain.
+The conceptual design phase in current architectural, engineering and construction (AEC) practice is disconnected from later phases of the building process, resulting in lengthy tasks with significant manual labour. While the use of parametric design models for exploring and improving (structural) design concepts based on quantifiable metrics has recently increased, performing design space exploration with current approaches still suffers from being numerically expensive. On the other hand, pure optimization methods neglect qualitative aspects which cannot be formulated as precise objective functions, such as aesthetics or construction methods. This research provides a performance-driven design exploration framework to augment the human designer through a variant of Conditional Variational Autoencoders (CVAE), which serves as forward performance predictor for given design features (forward design process) as well as a design features predictor conditioned on a set of performance requests (inverse design process). The CVAE is trained on synthetically generated performance data for the design of a pedestrian bridge "Brücke über den Graben" in St. Gallen in Switzerland. In order to improve the interpretability of the model, we make use of sensitivity analysis and show that, besides giving insight into relations that the model found between features, it also serves as a tool for informing designers on how to improve structures according to some predefined objectives. A user-study proved our framework to be intuitive, reliable and highly accurate and bearing potential to serve as a co-pilot for conceptual design studies in the AEC domain beyond pedestrian bridges.
 
-This line of work is concerned with the Generative Design of a Pedestrian Bridge
+Recent breakthroughs in artificial intelligence (AI) and especially machine (ML) and deep learning (DL) have already had a transformative impact on many fields, including medicine, physics and finance. However, the application of these technologies in AEC is still in its infancy, due to the aforementioned domain-specific siloed thinking, non-digitized workflows and resulting processes and tools. This is also why traditional ML and DL approaches are insufficient for direct application to most AEC design problems due to lack of data and/or inconsistencies and biases on it. 
 
-implementation details.” ([Keogh, E. and Kasetty, S.: On the need for time series data mining benchmarks: A survey and empirical demonstration. Data Mining and Knowledge Discovery, 7(4):349–371, Oct. 2003.](https://link.springer.com/article/10.1023/A:1024988512476)) 
-
-[They created the time-series data benchmarking set](http://www.cs.ucr.edu/~eamonn/time_series_data/). This data set enables testing of new techniques on an assortment of real world data sets. For commerical buildings data, we are doing the same!
+More background and implementation details can be found here: ([Keogh, E. and Kasetty, S.: On the need for time series data mining benchmarks: A survey and empirical demonstration. Data Mining and Knowledge Discovery, 7(4):349–371, Oct. 2003.](https://link.springer.com/article/10.1023/A:1024988512476))
 
 
 ## <a name="objectives"></a>Objectives
-This course will present methods.
+The objective of this research is to 
+*   develop a synthetic dataset generation pipeline for quantifyable (structural) design performances
+*   implement, train and evaluate a suitable design meta-model for the forward and inverse design setting
+*   create a demonstrator application of an explainable and intuitive co-pilot for conceptual design. 
 
-By the end of the course students will develop computational thinking related to the combination of domain knowledge and latest computer science AI technology for scientific machine learning applications within the AEC domain. Specifically, the students will:
-*   Gain fundamental understanding on how **AI / ML / DL technology** works and the impact it may have in the AEC industry.
-*   Gain understanding on how to **combine specific knowledge from AEC domain with state-of-the-art ML/DL** to deploy SciML models.
-*   **Identify limitations, pitfalls, and bottlenecks** in these applications.
-*   Develop **critical thinking** on solutions for the above issues.
-*   Acquire **hands-on experience** in creatively thinking and designing an application together with the computational problem solving SciML approach.
-*   Use this course as a **"stepping-stone" to Machine Learning-intensive courses** offered in D-BAUG and D-ARCH.
-
-## <a name="content"></a>Project Content
-This course will present methods.
-
-By the end of the course students will develop computational thinking related to the combination of domain knowledge and latest computer science AI technology for scientific machine learning applications within the AEC d
-
-<details open="" class="details-reset border rounded-2">
-  <summary class="px-3 py-2 border-bottom">
-    <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-device-camera-video">
-    <path fill-rule="evenodd" d="..."></path>
-</svg>
-    <span aria-label="Forward_Model_UserInterface.mp4" class="m-1">Forward_Model_UserInterface.mp4</span>
-    <span class="dropdown-caret"></span>
-  </summary>
-
-  <video src="https://github.com/mkrausAi/mkrausAI.github.io/blob/main/research/01_SciML/01_BH_PedestrianBridge_XAI/Forward_Model_UserInterface.mp4" data-canonical-src="https://github.com/mkrausAi/mkrausAI.github.io/blob/main/research/01_SciML/01_BH_PedestrianBridge_XAI/Forward_Model_UserInterface.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
-
-  </video>
-</details>
+We demonstrate the applicability of this approach in the forward as well as inverse design setting for the generic example of a bridge design project in St. Gallen, Switzerland. By integrating our ML algorithms into established Building-Information-Modelling (BIM) software, which is Autodesk Revit 2022 for this project, the proposed framework can easily be transferred to future bridge project scenarios (and beyond, e.g. to housing or office buildings) as soon as the parametric bridge model together with requested boundary conditions and performance criteria are defined within Revit. Therefore, our solution integrates seamlessly into the current design paradigm known by AEC domain experts. In combination with implemented explainable AI methods such as the Sensitivity Analysis (SA), this ubiquitousness ensures acceptance amongst engineers or project managers with limited expertise in ML or AI and fosters wide-spread use of such tools in practice.
 
 
-<details open="" class="details-reset border rounded-2">
-  <summary class="px-3 py-2 border-bottom">
-    <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-device-camera-video">
-    <path fill-rule="evenodd" d="..."></path>
-</svg>
-    <span aria-label="Inverse_Model_UserInterface.mp4" class="m-1">Inverse_Model_UserInterface.mp4</span>
-    <span class="dropdown-caret"></span>
-  </summary>
+## <a name="content"></a> Project Details
+The pedestrian bridge "Brücke über den Graben" provides a pedestrian crossing from an exit of a building next to a parking garage (start point / SP), over a busy cantonal street and then through the St. Mangen park, to terminate next to a church (end point / EP). The currently existing surroundings of the bridge project as well as the corresponding coordinate system is given as a scanned point cloud within a BIM model in Autodesk Revit, cf. the videos below. 
 
-  <video src="https://github.com/mkrausAi/mkrausAI.github.io/blob/main/research/01_SciML/01_BH_PedestrianBridge_XAI/Inverse_Model_UserInterface.mp4" data-canonical-src="https://github.com/mkrausAi/mkrausAI.github.io/blob/main/research/01_SciML/01_BH_PedestrianBridge_XAI/Inverse_Model_UserInterface.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+The city of St. Gallen defined fixed boundary conditions for the project: (i) SP and EP of the bridge are fixed to specific locations together with the request of straight alignments, (ii) a prescribed clearance height over the cantonal street and the path in the park need to be respected, (iii) to minimise cut down of trees due to cultural heritage protection, and (iv) a fixed bridge width of b=2.50 m.
 
-  </video>
-</details>
+<img src="https://mkrausai.github.io/img/persons/VeraBalmer.jpg" width="20%" alt="project_site" /><br />
+**Project site**<br />
+ M 1:750, Basler&Hoffmann 2022<br />
+
+This study develops AI-based meta models for both design situations, forward and inverse design setting, together with respective interaction interfaces, which are described below.
 
 
-## Introducing the Building Data Genome Project
-It is an open data set from 507 non-residential buildings that includes hourly whole building electrical meter data for one year. Each of the buildings has meta data such as  or area, weather, and primary use type. This data set can be used to benchmark various statistical learning algorithms and other data science techniques. It can also be used simply as a teaching or learning tool to practice dealing with measured performance data from large numbers of non-residential buildings. The charts below illustrate the breakdown of the buildings according to location, building industry, sub-industry, and primary use type.
+# <a name="sec:DesignRepresentation"></a> Design {Representation, Features, and Performances}
+This research adopts the propositions of SIA 112 for chosing the bridge design features, which specifies a level of development (LOD) 300 for the task at hand. The design features define the girder height $h_{girder}$ and thickness $t_{girder}$, the amount $n_{p}$ and dimensions $h_{p}$ of the piers as well as parameters $w,i$ of the NURBS curve for defining the bridge alignment. For the set of performance metrics $y = \mathcal{P}(\mathbf{x})$ we employ structural safety and serviceability (resistances, utilisations, internal actions and displacements) criteria next to structural dynamics aspects (eigenfrequencies), costs (computed via the weight and volume) and the boundary conditions for SP, EP and the trees. The structural performance objectives together with the load definitions for the pedestrian bridge (such as loads due to dead weight, pedestrians, wind, snow and temperature) are derived from currently applicable design standards in Switzerland by SIA 261 and 262. 
 
-![meta data](https://github.com/mkrausAi/mkrausAI.github.io/tree/main/research/01_SciML/01_BH_PedestrianBridge_XAI/DataSet)
+# <a name="sec:data"></a> Synthetic Data Generation Pipeline and Dataset
+The training of the deep latent generative model is collected in a two-stage approach: a central Latin Hypercube Sampling of the design space is launched at first. At second, the sampled design features $\mathbf{x}$ are handed to performance simulators to obtain the performance metrics $\mathcal{P}(\mathbf{x})$ as defined before, where analytical formoluae as well as the Finite-Element-Analysis software "Sofistik" is utilised. A parametric template for the FEA-based structural analysis was developed and connected to Revit via zero-touch nodes inside Dynamo for the FEA performance simulator to be able to evaluate the vast amounts of parameter samples in a standardised way.
 
-### Please contribute new data sets or provide analysis examples in Jupyter using the data
+# <a name="sec:MLmodel"></a> Machine Learning Model
+The ML model used in this study is a variation of Conditional Variational Autoencoders (CVAE) \cite{cvae_sohn}. In light of having to solve both a forward as well as an inverse problem, we forgo feeding the conditional $\mathbf{y}$ to the encoder and instead let it predict the performance metrics together with a latent vector in two separate heads as shown below.
+
+<img src="https://mkrausai.github.io/img/persons/cvae.pdf" width="20%" alt="cVAE_Model" /><br />
+**cVAE Model**<br />
+ Architecture of our CVAE network acting both as surrogate as well as generative model<br />
 
 
+# <a name="sec:sensitivity"></a> Explainability through Design Sensitivity Analysis
+This research adopts the idea of Sensitivity Analysis (SA), which is well-known in Finite-Element-Analysis by taking the derivative of the performance metrics w.r.t. the design variables Computing these derivatives in established solvers such as the FEM is expensive, while deep learning models, such as the proposed CVAE of this project, deliver these very efficiently through Automatic Differentiation (AD). When inspecting the sensitivity of a performance metric $\frac{\partial \mathbf{\hat{y}_i}}{\partial \mathbf{x}}$ for a certain design $\mathbf{x}$, the designer receives information in which direction the design variables should be changed in order to improve the particular performance attribute. Furthermore, the distribution of sensitivities over a large set of designs yields information about the network's decision-making. An expert designer with prior knowledge in the design, analysis and construction of bridges can therefore, to a certain extent, estimate the model's reliability based on the relations it found between the features.
+%
 
+## <a name="sec:Results"></a> Results and Discussion
+We sampled 18'000 instances of the pedestrian bridges together with their performances within the generative design as described before to form the dataset for subsequent CVAE training. While the Latin-Hypercube-Sampling of the Design space was conducted in a few seconds, obtaining performances of a batch of 600 design instances via FEA took on average around 55 minutes.
+
+Figure~\ref{fig:InverseGUI} shows the prototype of a user interface for the inverse design situation developed within Revit Dynamo. It provides the user with sliders and check-boxes, allowing to set desired performance metrics such as ranges for costs or the maximum structural utilisation in the ultimate as well as serviceability limit state. More fine grained requests for different objectives, as well as an additional visualisation of the latent space and the mapping of the objectives, is also possible, yet has been omitted for the sake of clearness. The right hand side of the user interface displays the sensitivity plots as well as a scatter plot for finding the Pareto front. Finally, a rendering of the generated bridge is shown, which can be inspected either on the screen in 2D, or in 3D through virtual reality on smartphones or dedicated devices.
+
+We demonstrated our developments to a selected group of researchers and practitioners (15 persons) within a hands-on session. The collected feedback towards ergonomics, efficiency and quality prove our framework to be intuitive, efficient, reliable and to bear a great potential for applications in practice.
+
+<img src="https://mkrausai.github.io/img/persons/cvae.pdf" width="20%" alt="cVAE_Model" /><br />
+**cVAE Model**<br />
+ Architecture of our CVAE network acting both as surrogate as well as generative model<br />
+
+
+## <a name="sec:Conclusions"></a> Conclusions
+Our proposed framework for design subspace learning establishes a new paradigm for performance-conditioned exploration of design spaces, which is neither an optimisation setting nor a random process. Rather, it provides an intuitive and efficient cartography of the vastness of these design spaces. Instead of replacing human intuition with predefined, deterministic, quantitative rules, the AI acts as a design collaborator/co-pilot that augments the human designer's intuition on the problem at hand.
+
+This research provides a variation of CVAEs tailored to forward and inverse design situations. We showed the potential of our CVAE in meta-modelling (i) the forward problem by providing a surrogate to estimate more efficiently and quickly design performances given design features, (ii) compression of complex design spaces into continuous, smooth, low-dimensional design subspaces. With a forward pass through our CVAE being extremely efficient, it can provide performance conditioned designs in quasi real-time and thus augment human designers by providing instant feedback and proposals during the iterative prototyping phase. Furthermore, with analytical derivatives inherently provided in neural networks, we demonstrated that the sensitivity analysis serves as powerful tool for both design optimisation as well as model interpretability. The latter is crucial for building trust and achieving wide acceptance of this kind of design augmentation tools in the AEC domain. The collected user responses prove our framework possesses the potential to find wide application in industry and research as a co-pilot for conceptual design studies in the AEC domain beyond pedestrian bridges.
 
 ## <a name="citation"></a>Citation
 
@@ -97,7 +95,7 @@ journal = "xx"
 
 ## <a name="contributors"></a>Contributors
 
-<img src="https://mkrausai.github.io/img/persons/VeraBalmer.png" width="20%" alt="Vera Balmer" /><br />
+<img src="https://mkrausai.github.io/img/persons/VeraBalmer.jpg" width="20%" alt="Vera Balmer" /><br />
 **M.Sc. Vera Balmer**<br />
 Doctoral Researcher in SciML4AEC at ETH Zurich<br />
 
@@ -121,12 +119,14 @@ kraus@ibk.baug.ethz.ch
 https://kaufmann.ibk.ethz.ch/de/personen/mitarbeitende/dr-michael-anton-kraus.html
 
 ------------
-The MIT License (MIT)
-Copyright (c) 2022, Vera Balmer, Rafael Bischof, Sophia Kuhn and Michael Kraus
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+[![CC BY 4.0][cc-by-image]][cc-by]
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
