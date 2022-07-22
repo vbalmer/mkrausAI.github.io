@@ -19,6 +19,10 @@ The conceptual design phase in current architectural, engineering and constructi
 
 Recent breakthroughs in artificial intelligence (AI) and especially machine (ML) and deep learning (DL) have already had a transformative impact on many fields, including medicine, physics and finance. However, the application of these technologies in AEC is still in its infancy, due to the aforementioned domain-specific siloed thinking, non-digitized workflows and resulting processes and tools. This is also why traditional ML and DL approaches are insufficient for direct application to most AEC design problems due to lack of data and/or inconsistencies and biases on it. 
 
+
+[![VR Walk on the "Brücke über den Graben"](https://youtu.be/g3Hgu1M1gj8/0.jpg)](https://youtu.be/g3Hgu1M1gj8 "VR Walk on the "Brücke über den Graben"")
+
+
 More background and implementation details can be found here: ([Keogh, E. and Kasetty, S.: On the need for time series data mining benchmarks: A survey and empirical demonstration. Data Mining and Knowledge Discovery, 7(4):349–371, Oct. 2003.](https://link.springer.com/article/10.1023/A:1024988512476))
 
 
@@ -68,10 +72,7 @@ Figure~\ref{fig:InverseGUI} shows the prototype of a user interface for the inve
 
 We demonstrated our developments to a selected group of researchers and practitioners (15 persons) within a hands-on session. The collected feedback towards ergonomics, efficiency and quality prove our framework to be intuitive, efficient, reliable and to bear a great potential for applications in practice.
 
-<img src="https://mkrausai.github.io/img/persons/cvae.pdf" width="20%" alt="cVAE_Model" /><br />
-**cVAE Model**<br />
- Architecture of our CVAE network acting both as surrogate as well as generative model<br />
-
+[![Explainable AI Interface for Forward and Inverse Pedestrian Bridge Design](https://youtu.be/6pVvFye_5ko/0.jpg)](https://youtu.be/6pVvFye_5ko "Explainable AI Interface for Forward and Inverse Pedestrian Bridge Design")
 
 ## <a name="sec:Conclusions"></a> Conclusions
 Our proposed framework for design subspace learning establishes a new paradigm for performance-conditioned exploration of design spaces, which is neither an optimisation setting nor a random process. Rather, it provides an intuitive and efficient cartography of the vastness of these design spaces. Instead of replacing human intuition with predefined, deterministic, quantitative rules, the AI acts as a design collaborator/co-pilot that augments the human designer's intuition on the problem at hand.
