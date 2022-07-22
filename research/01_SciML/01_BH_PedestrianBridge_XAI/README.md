@@ -56,7 +56,10 @@ The training of the deep latent generative model is collected in a two-stage app
 # <a name="sec:MLmodel"></a> Machine Learning Model
 The ML model used in this study is a variation of Conditional Variational Autoencoders (CVAE) \cite{cvae_sohn}. In light of having to solve both a forward as well as an inverse problem, we forgo feeding the conditional $\mathbf{y}$ to the encoder and instead let it predict the performance metrics together with a latent vector in two separate heads as shown below.
 
-<img src="https://mkrausai.github.io/img/persons/cvae.pdf" width="20%" alt="cVAE_Model" /><br />
+
+C:\Users\mickraus\Documents\GitHub\mkrausAI\research\01_SciML\01_BH_PedestrianBridge_XAI\figs
+
+<img src="https://mkrausai.github.io/research/01_SciML/01_BH_PedestrianBridge_XAI/figs/cvae.pdf" width="20%" alt="cVAE_Model" /><br />
 **cVAE Model**<br />
  Architecture of our CVAE network acting both as surrogate as well as generative model<br />
 
