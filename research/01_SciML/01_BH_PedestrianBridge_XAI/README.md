@@ -18,7 +18,7 @@ The conceptual design phase in current architectural, engineering and constructi
 
 Recent breakthroughs in artificial intelligence (AI) and especially machine (ML) and deep learning (DL) have already had a transformative impact on many fields, including medicine, physics and finance. However, the application of these technologies in AEC is still in its infancy, due to the aforementioned domain-specific siloed thinking, non-digitized workflows and resulting processes and tools. This is also why traditional ML and DL approaches are insufficient for direct application to most AEC design problems due to lack of data and/or inconsistencies and biases on it. 
 
-<img src="https://mkrausai.github.io/research/01_SciML/01_BH_PedestrianBridge_XAI/figs/VR_Walk.jpg" width="20%" alt="VR_Walk" /><br />
+<img src="https://mkrausai.github.io/research/01_SciML/01_BH_PedestrianBridge_XAI/figs/VR_Walk.JPG" width="20%" alt="VR_Walk" /><br />
 [![VR Walk on the "Brücke über den Graben"](https://youtu.be/g3Hgu1M1gj8/0.jpg)](https://youtu.be/g3Hgu1M1gj8 "VR Walk on the "Brücke über den Graben"")
 
 
@@ -56,7 +56,7 @@ The training of the deep latent generative model is collected in a two-stage app
 The ML model used in this study is a variation of Conditional Variational Autoencoders (CVAE) \cite{cvae_sohn}. In light of having to solve both a forward as well as an inverse problem, we forgo feeding the conditional $\mathbf{y}$ to the encoder and instead let it predict the performance metrics together with a latent vector in two separate heads as shown below.
 
 **cVAE Model**<br />
-<img src="https://mkrausai.github.io/research/01_SciML/01_BH_PedestrianBridge_XAI/figs/cvae.jpg" width="20%" alt="cVAE_Model" /><br />
+<img src="https://mkrausai.github.io/research/01_SciML/01_BH_PedestrianBridge_XAI/figs/cvae.JPG" width="20%" alt="cVAE_Model" /><br />
  Architecture of our CVAE network acting both as surrogate as well as generative model<br />
 
 
@@ -71,7 +71,7 @@ Figure~\ref{fig:InverseGUI} shows the prototype of a user interface for the inve
 
 We demonstrated our developments to a selected group of researchers and practitioners (15 persons) within a hands-on session. The collected feedback towards ergonomics, efficiency and quality prove our framework to be intuitive, efficient, reliable and to bear a great potential for applications in practice.
 
-<img src="https://mkrausai.github.io/research/01_SciML/01_BH_PedestrianBridge_XAI/figs/XAI_Overview.png" width="20%" alt="XAI_Overview" /><br />
+<img src="https://mkrausai.github.io/research/01_SciML/01_BH_PedestrianBridge_XAI/figs/XAI_Overview.PNG" width="20%" alt="XAI_Overview" /><br />
 [![Explainable AI Interface for Forward and Inverse Pedestrian Bridge Design](https://youtu.be/6pVvFye_5ko/0.jpg)](https://youtu.be/6pVvFye_5ko "Explainable AI Interface for Forward and Inverse Pedestrian Bridge Design")
 
 ## <a name="sec:Conclusions"></a> Conclusions
