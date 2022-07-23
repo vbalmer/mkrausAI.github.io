@@ -99,8 +99,8 @@ journal = "xx"
 .gallery {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(2, 5vw);
-    grid-gap: 15px;
+    grid-template-rows: repeat(2, 1vw);
+    grid-gap: 5px;
 }
 
 <div class="gallery">
