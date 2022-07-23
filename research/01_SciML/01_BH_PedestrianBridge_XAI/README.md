@@ -40,7 +40,7 @@ The pedestrian bridge "Brücke über den Graben" provides a pedestrian crossing 
 The city of St. Gallen defined fixed boundary conditions for the project: (i) SP and EP of the bridge are fixed to specific locations together with the request of straight alignments, (ii) a prescribed clearance height over the cantonal street and the path in the park need to be respected, (iii) to minimise cut down of trees due to cultural heritage protection, and (iv) a fixed bridge width of b=2.50 m.
 
 **Project site**<br />
-<img src="https://mkrausai.github.io/research/01_SciML/01_BH_PedestrianBridge_XAI/figs/ProjectSite.png" width="50%" alt="project_site" /><br />
+<img src="https://mkrausai.github.io/research/01_SciML/01_BH_PedestrianBridge_XAI/figs/ProjectSite.png" width="30%" alt="project_site" /><br />
  M 1:750, Basler&Hoffmann 2022<br />
 
 This study develops AI-based meta models for both design situations, forward and inverse design setting, together with respective interaction interfaces, which are described below.
