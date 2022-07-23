@@ -1,12 +1,11 @@
 <!--https://mkrausai.github.io/research/01_SciML/01_BH_PedestrianBridge_XAI/-->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=default'></script>
+
 
 # Explainable AI for Conceptual Generative Design of a Pedestrian Bridge
 
-
 <!-- A repository of structural information on the design of pedestrian bridges
 ============================== -->
-
-![XAI_Pedestrian logo](https://github.com/mkrausAi/mkrausAI.github.io/blob/main/research/01_SciML/01_BH_PedestrianBridge_XAI/figs/XAI_Overview.PNG)
 
 *   [Description](#description)
 *   [Objectives](#objectives)
@@ -96,7 +95,41 @@ journal = "xx"
 
 ## <a name="contributors"></a>Contributors
 
-<img src="https://mkrausai.github.io/img/persons/VeraBalmer.jpg" width="20%" alt="Vera Balmer" /><br />
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 5vw);
+    grid-gap: 15px;
+}
+
+<div class="gallery">
+  <figure class="gallery__item gallery__item--1">
+    <img src="https://mkrausai.github.io/img/persons/VeraBalmer.jpg" class="gallery__img" alt="Vera Balmer">
+  </figure>
+  **M.Sc. Vera Balmer**<br />
+  Doctoral Researcher in SciML4AEC at ETH Zurich<br />
+
+  <figure class="gallery__item gallery__item--2">
+    <img src="https://mkrausai.github.io/img/persons/Rafael-Bischof-2.jpg" class="gallery__img" alt="Rafael Bischof">
+  </figure>
+  **M.Sc. Rafael Bischof**<br />
+  Data Scientist (Swiss Data Science Center) and Researcher in SciML4AEC<br />
+
+  <figure class="gallery__item gallery__item--3">
+    <img src="https://mkrausai.github.io/img/persons/bild_sophia.jpeg" class="gallery__img" alt="Sophia Kuhn">
+  </figure>
+  **M.Sc. Sophia Kuhn**<br />
+  Doctoral Researcher in SciML4AEC at ETH Zurich<br />
+
+  <figure class="gallery__item gallery__item--4">
+    <img src="https://mkrausai.github.io/img/persons/Michael6_3.jpg" class="gallery__img" alt="Michael Kraus">
+  </figure>
+  **Dr. Michael A. Kraus, M.Sc.(hons)**<br />
+  Senior Researcher in SciML4AEC and Co-Leader of the Immersive Design Lab of Design++ at ETH Zurich<br />
+</div>
+
+
+<!-- <img src="https://mkrausai.github.io/img/persons/VeraBalmer.jpg" width="20%" alt="Vera Balmer" /><br />
 **M.Sc. Vera Balmer**<br />
 Doctoral Researcher in SciML4AEC at ETH Zurich<br />
 
@@ -118,6 +151,7 @@ Institute für Baustatik und Konstruktion (IBK)
 ETH Zürich
 kraus@ibk.baug.ethz.ch
 https://kaufmann.ibk.ethz.ch/de/personen/mitarbeitende/dr-michael-anton-kraus.html
+-->
 
 ------------
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
