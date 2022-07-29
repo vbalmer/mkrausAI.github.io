@@ -100,21 +100,21 @@ journal = "xx"
 ## <a name="contributors"></a>Contributors
 
 <div id="cover">
-    <img src="https://mkrausai.github.io/img/persons/VeraBalmer.jpg" class="gallery__img" alt="Vera Balmer">
+  <img src="https://mkrausai.github.io/img/persons/VeraBalmer.jpg" width="20%" alt="Vera Balmer" /><br />
   **M.Sc. Vera Balmer**<br />
   Doctoral Researcher in SciML4AEC at ETH Zurich<br />
 
-    <img src="https://mkrausai.github.io/img/persons/Rafael-Bischof-2.jpg" class="gallery__img" alt="Rafael Bischof">
+  <img src="https://mkrausai.github.io/img/persons/Rafael-Bischof-2.jpg" width="20%" alt="Rafael Bischof" /><br />
   **M.Sc. Rafael Bischof**<br />
   Data Scientist (Swiss Data Science Center) and Researcher in SciML4AEC<br />
 
-    <img src="https://mkrausai.github.io/img/persons/bild_sophia.jpeg" class="gallery__img" alt="Sophia Kuhn">
+  <img src="https://mkrausai.github.io/img/persons/bild_sophia.jpeg" width="20%" alt="Sophia Kuhn" /><br />
   **M.Sc. Sophia Kuhn**<br />
   Doctoral Researcher in SciML4AEC at ETH Zurich<br />
 
-    <img src="https://mkrausai.github.io/img/persons/Michael6_3.jpg" class="gallery__img" alt="Michael Kraus">
+  <img src="https://mkrausai.github.io/img/persons/Michael6_3.jpg" width="20%" alt="Michael Kraus" /><br />
   **Dr. Michael A. Kraus, M.Sc.(hons)**<br />
-  Senior Researcher in SciML4AEC and Co-Leader of the Immersive Design Lab of Design++ at ETH Zurich<br />
+  Senior Researcher in SciML4AEC and Co-Leader of the Immersive Design Lab of Design++ at ETH Zuric <br />
 </div>
 
 
