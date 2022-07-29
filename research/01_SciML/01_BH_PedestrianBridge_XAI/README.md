@@ -11,7 +11,9 @@
 *   [Objectives](#objectives)
 *   [Content](#content)
 *   [Contributors](#contributors)
-*   [Citation](#citation)
+
+<!-- -->
+<!-- *   [Citation](#citation)-->
 
 ## <a name="description"></a>Project Description
 The conceptual design phase in current architectural, engineering and construction (AEC) practice is disconnected from later phases of the building process, resulting in lengthy tasks with significant manual labour. While the use of parametric design models for exploring and improving (structural) design concepts based on quantifiable metrics has recently increased, performing design space exploration with current approaches still suffers from being numerically expensive. On the other hand, pure optimization methods neglect qualitative aspects which cannot be formulated as precise objective functions, such as aesthetics or construction methods. This research provides a performance-driven design exploration framework to augment the human designer through a variant of Conditional Variational Autoencoders (CVAE), which serves as forward performance predictor for given design features (forward design process) as well as a design features predictor conditioned on a set of performance requests (inverse design process). The CVAE is trained on synthetically generated performance data for the design of a pedestrian bridge "Brücke über den Graben" in St. Gallen in Switzerland. In order to improve the interpretability of the model, we make use of sensitivity analysis and show that, besides giving insight into relations that the model found between features, it also serves as a tool for informing designers on how to improve structures according to some predefined objectives. A user-study proved our framework to be intuitive, reliable and highly accurate and bearing potential to serve as a co-pilot for conceptual design studies in the AEC domain beyond pedestrian bridges.
@@ -19,10 +21,10 @@ The conceptual design phase in current architectural, engineering and constructi
 Recent breakthroughs in artificial intelligence (AI) and especially machine (ML) and deep learning (DL) have already had a transformative impact on many fields, including medicine, physics and finance. However, the application of these technologies in AEC is still in its infancy, due to the aforementioned domain-specific siloed thinking, non-digitized workflows and resulting processes and tools. This is also why traditional ML and DL approaches are insufficient for direct application to most AEC design problems due to lack of data and/or inconsistencies and biases on it. 
 
 <img src="https://mkrausai.github.io/research/01_SciML/01_BH_PedestrianBridge_XAI/figs/VR_Walk.JPG" width="50%" alt="VR_Walk" /><br />
-[![VR Walk on the "Brücke über den Graben"](https://youtu.be/g3Hgu1M1gj8/0.jpg)](https://youtu.be/g3Hgu1M1gj8 "VR Walk on the "Brücke über den Graben"")
+[![VR Walk on the "Brücke über den Graben"](https://youtu.be/g3Hgu1M1gj8/0.jpg)](https://youtu.be/TEeiKn9M20U "VR Walk on the "Brücke über den Graben"")
 
 
-More background and implementation details can be found here: ([Keogh, E. and Kasetty, S.: On the need for time series data mining benchmarks: A survey and empirical demonstration. Data Mining and Knowledge Discovery, 7(4):349–371, Oct. 2003.](https://link.springer.com/article/10.1023/A:1024988512476))
+<!--More background and implementation details can be found here: ([Keogh, E. and Kasetty, S.: On the need for time series data mining benchmarks: A survey and empirical demonstration. Data Mining and Knowledge Discovery, 7(4):349–371, Oct. 2003.](https://link.springer.com/article/10.1023/A:1024988512476))-->
 
 
 ## <a name="objectives"></a>Objectives
@@ -72,13 +74,14 @@ Figure~\ref{fig:InverseGUI} shows the prototype of a user interface for the inve
 We demonstrated our developments to a selected group of researchers and practitioners (15 persons) within a hands-on session. The collected feedback towards ergonomics, efficiency and quality prove our framework to be intuitive, efficient, reliable and to bear a great potential for applications in practice.
 
 <img src="https://mkrausai.github.io/research/01_SciML/01_BH_PedestrianBridge_XAI/figs/XAI_Overview.PNG" width="50%" alt="XAI_Overview" /><br />
-[![Explainable AI Interface for Forward and Inverse Pedestrian Bridge Design](https://youtu.be/6pVvFye_5ko/0.jpg)](https://youtu.be/6pVvFye_5ko "Explainable AI Interface for Forward and Inverse Pedestrian Bridge Design")
+[![Explainable AI Interface for Forward and Inverse Pedestrian Bridge Design](https://youtu.be/6pVvFye_5ko/0.jpg)](https://youtu.be/GbXYkEoFv9Q "Explainable AI Interface for Forward and Inverse Pedestrian Bridge Design")
 
 ## <a name="sec:Conclusions"></a> Conclusions
 Our proposed framework for design subspace learning establishes a new paradigm for performance-conditioned exploration of design spaces, which is neither an optimisation setting nor a random process. Rather, it provides an intuitive and efficient cartography of the vastness of these design spaces. Instead of replacing human intuition with predefined, deterministic, quantitative rules, the AI acts as a design collaborator/co-pilot that augments the human designer's intuition on the problem at hand.
 
 This research provides a variation of CVAEs tailored to forward and inverse design situations. We showed the potential of our CVAE in meta-modelling (i) the forward problem by providing a surrogate to estimate more efficiently and quickly design performances given design features, (ii) compression of complex design spaces into continuous, smooth, low-dimensional design subspaces. With a forward pass through our CVAE being extremely efficient, it can provide performance conditioned designs in quasi real-time and thus augment human designers by providing instant feedback and proposals during the iterative prototyping phase. Furthermore, with analytical derivatives inherently provided in neural networks, we demonstrated that the sensitivity analysis serves as powerful tool for both design optimisation as well as model interpretability. The latter is crucial for building trust and achieving wide acceptance of this kind of design augmentation tools in the AEC domain. The collected user responses prove our framework possesses the potential to find wide application in industry and research as a co-pilot for conceptual design studies in the AEC domain beyond pedestrian bridges.
 
+<!--
 ## <a name="citation"></a>Citation
 
 [xxx](http://www.sciencedirect.com/science/article/pii/S1876610217330047) 
@@ -92,7 +95,7 @@ title = "xxx ",
 journal = "xx"
 }
 ```
-
+ -->
 
 ## <a name="contributors"></a>Contributors
 
