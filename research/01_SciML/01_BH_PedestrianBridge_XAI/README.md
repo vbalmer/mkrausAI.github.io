@@ -96,7 +96,8 @@ journal = "xx"
 }
 ```
  -->
-
+ 
+<!-- 
 ## <a name="contributors"></a>Contributors
 
 <div id="cover">
@@ -133,9 +134,9 @@ body {
   width: 45%;
   margin: 1.66%;
 }
+-->
 
-
-<!-- <img src="https://mkrausai.github.io/img/persons/VeraBalmer.jpg" width="20%" alt="Vera Balmer" /><br />
+<img src="https://mkrausai.github.io/img/persons/VeraBalmer.jpg" width="20%" alt="Vera Balmer" /><br />
 **M.Sc. Vera Balmer**<br />
 Doctoral Researcher in SciML4AEC at ETH Zurich<br />
 
@@ -157,7 +158,7 @@ Institute für Baustatik und Konstruktion (IBK)
 ETH Zürich
 kraus@ibk.baug.ethz.ch
 https://kaufmann.ibk.ethz.ch/de/personen/mitarbeitende/dr-michael-anton-kraus.html
--->
+
 
 ------------
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
