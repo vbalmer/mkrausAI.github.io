@@ -73,7 +73,7 @@ Below we the prototype of a user interface for the inverse design situation deve
 
 We demonstrated our developments to a selected group of researchers and practitioners (15 persons) within a hands-on session. The collected feedback towards ergonomics, efficiency and quality prove our framework to be intuitive, efficient, reliable and to bear a great potential for applications in practice.
 
-<img src="https://mkrausai.github.io/research/01_SciML/01_BH_PedestrianBridge_XAI/figs/XAI_Overview.PNG" width="50%" alt="XAI_Overview" /><br />
+<img src="https://mkrausai.github.io/research/01_SciML/01_BH_PedestrianBridge_XAI/figs/XAI_Overview.PNG" width="80%" alt="XAI_Overview" /><br />
 [![Explainable AI Interface for Forward and Inverse Pedestrian Bridge Design](https://youtu.be/6pVvFye_5ko/0.jpg)](https://youtu.be/GbXYkEoFv9Q "Explainable AI Interface for Forward and Inverse Pedestrian Bridge Design")
 
 ## <a name="sec:Conclusions"></a> Conclusions
