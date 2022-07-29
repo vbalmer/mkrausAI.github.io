@@ -117,6 +117,23 @@ journal = "xx"
   Senior Researcher in SciML4AEC and Co-Leader of the Immersive Design Lab of Design++ at ETH Zuric <br />
 </div>
 
+body {
+  background-color: #343434;
+}
+
+#cover {
+  width: 800px;
+  height: 800px;
+  margin: 0 auto;
+}
+
+#cover > img {
+  float: left;
+  border: 2px solid black;
+  width: 45%;
+  margin: 1.66%;
+}
+
 
 <!-- <img src="https://mkrausai.github.io/img/persons/VeraBalmer.jpg" width="20%" alt="Vera Balmer" /><br />
 **M.Sc. Vera Balmer**<br />
