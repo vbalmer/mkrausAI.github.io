@@ -51,8 +51,12 @@ _Co-{Instrucor ; Lecturer}_<br />
 <img src="https://mkrausai.github.io/img/persons/bild_sophia.jpeg" width="20%" alt="Sophia Kuhn" /><br />
 **Sophia Kuhn, M.Sc.**<br />
 PhD student in SciML4AEC <br />
-_Co-Instrucor ; Exercise Lecturer_<br />
+_Exercise Lecturer and Instructor_<br />
 
+<img src="https://mkrausai.github.io/img/persons/Rafael-Bischof.png" width="20%" alt="Rafael Bischof" /><br />
+**Rafael Bischof, M.Sc.**<br />
+Junior Data Scientist in SciML4AEC @ Swiss Data Science Center <br />
+_Lecturer and Co-Supervisor<br />
 
 ## <a name="schedule"></a>Course Schedule
 _(Subject to change)_
