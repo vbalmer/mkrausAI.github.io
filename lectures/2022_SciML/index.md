@@ -43,12 +43,12 @@ _Instructor and Lecturer_ <br />
 PostDoctoral / Senior Researcher and Co-Leader of the Immersive Design Lab of Design++ <br />
 _Co-{Instrucor ; Lecturer}_<br />
 
-<img src="https://mkrausai.github.io/img/persons/bild_sophia.jpeg" width="20%" alt="Danielle Griego" /><br />
+<img src="https://mkrausai.github.io/img/persons/DanielleGriego.jpeg" width="20%" alt="Danielle Griego" /><br />
 **Dr. Danielle Griego**<br />
 Executive Director of Design++ and PostDoctoral Researcher<br />
 _Co-{Instrucor ; Lecturer}_<br />
 
-<img src="https://mkrausai.github.io/img/persons/DanielleGriego.jpg" width="20%" alt="Sophia Kuhn" /><br />
+<img src="https://mkrausai.github.io/img/persons/bild_sophia.jpg" width="20%" alt="Sophia Kuhn" /><br />
 **Sophia Kuhn, M.Sc.**<br />
 PhD student in SciML4AEC <br />
 _Co-Instrucor ; Exercise Lecturer_<br />
