@@ -33,22 +33,22 @@ By the end of the course students will develop computational thinking related to
 *   Use this course as a **"stepping-stone" to Machine Learning-intensive courses** offered in D-BAUG and D-ARCH.
 
 ## <a name="instructors"></a>Instructors
-<img src="https://mkrausai.github.io/lectures/2021_SciML/images/Michael6_3.jpg" width="20%" alt="Michael Kraus" /><br />
+<img src="https://mkrausai.github.io/img/persons/Michael6_3.jpg" width="20%" alt="Michael Kraus" /><br />
 **Dr. Michael A. Kraus, M.Sc.(hons)**<br />
 Senior Assistant / Senior Researcher in SciML4AEC and Co-Leader of the Immersive Design Lab of Design++<br />
 _Instructor and Lecturer_ <br />
 
-<img src="https://mkrausai.github.io/lectures/2021_SciML/images/RomanaRust.jpg" width="20%" alt="Romana Rust" /><br />
+<img src="https://mkrausai.github.io/img/persons/RomanaRust.jpg" width="20%" alt="Romana Rust" /><br />
 **Dr. Romana Rust **<br />
 PostDoctoral / Senior Researcher and Co-Leader of the Immersive Design Lab of Design++ <br />
 _Co-{Instrucor ; Lecturer}_<br />
 
-<img src="https://mkrausai.github.io/img/persons/DanielleGriego.jpeg" width="20%" alt="Danielle Griego" /><br />
+<img src="https://mkrausai.github.io/img/persons/DanielleGriego.jpg" width="20%" alt="Danielle Griego" /><br />
 **Dr. Danielle Griego**<br />
 Executive Director of Design++ and PostDoctoral Researcher<br />
 _Co-{Instrucor ; Lecturer}_<br />
 
-<img src="https://mkrausai.github.io/img/persons/bild_sophia.jpg" width="20%" alt="Sophia Kuhn" /><br />
+<img src="https://mkrausai.github.io/img/persons/bild_sophia.jpeg" width="20%" alt="Sophia Kuhn" /><br />
 **Sophia Kuhn, M.Sc.**<br />
 PhD student in SciML4AEC <br />
 _Co-Instrucor ; Exercise Lecturer_<br />
@@ -59,27 +59,27 @@ _(Subject to change)_
 
 | DATE        | CLASS TOPIC          | MATERIAL |
 |:-------------|:------------------|:------|
-| 27.09           | Introductory Class | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_01_Introduction.pdf)  |
-| 27.09           | Fundamentals of Machine Learning - Part 1: Data and essential Maths/Statistics   | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_02_Fundamentals_Statistik.pdf) [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_03_Fundamentals_MLSystems.pdf) [video](https://polybox.ethz.ch/index.php/s/9lUE7pOKLHPBF4s) |
-| 04.10           | Fundamentals of Machine Learning - Part 2: Supervised Learning: Basics  | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_04_Supervised(Classification_Regression).pdf) [video](https://polybox.ethz.ch/index.php/s/vKYl7GJqhT9NPur) |
-| _04.10_         | _Exercise 1: Introduction to Python and Pandas_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_1.rar)  |
-| 11.10           | Fundamentals of Machine Learning - Part 3: Supervised Learning: Classification and Regression | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_Lecture_3.rar) [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_07_Fundamentals_Optimization.pdf) [video](https://polybox.ethz.ch/index.php/s/78MF8xw19YrC4jc)|
-| 18.10           | Fundamentals of Machine Learning - Part 4: Data Processing and Visualisation | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_04_DataProcessing_Visualization.pdf) [video](https://polybox.ethz.ch/index.php/s/LBte59sv2Q1g3bU) |            
-| _18.10_         | _Student Projects Pitches_ |   |
-| _18.10_         | _Exercise 2: Data Processing and Visualisation_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_2.rar)  |
-| 25.10           | Fundamentals of Machine Learning - Part 5: Unsupervised Learning and Optimization Details | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_06_Unsupervised(Clustering,Encoders).pdf) [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_07_Fundamentals_Optimization.pdf) [video](https://polybox.ethz.ch/index.php/s/A7bcNeztK6sL7jT) |
-| _25.10_         | _Exercise 3: ML Workflow, Regression and Classification_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_3.rar) |
-| 01.11           | Introduction to Deep Learning | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_08_DeepLearning.pdf) [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_09_DeepLearning.pdf) [video](https://polybox.ethz.ch/index.php/s/k5mMmCmgODjOxMb)  |
-| _01.11_         | _Exercise 4: Unsupervised Machine Learning_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_4.rar)  |
-| 08.11           | 1st Project Consultation (in person, at ETH Hönngerberg) |   |
-| 15.11           | Scientific Machine and Deep Learning  | [video](https://polybox.ethz.ch/index.php/s/zMcWdRtQpChh6XQ) |
-| 22.11           | Guest Talk, Graph-NeuralNetwork based SciML, by Professor Julija Zavadlav, Dept. of Mechanical Engineering, TU Munich | [video](https://polybox.ethz.ch/index.php/s/QOc3RNF1QSMebXG) |
-| 22.11           | Scientific Machine and Deep Learning  | [slides/notebook](https://polybox.ethz.ch/index.php/s/OHFlNnj1jnrJBGu) [video](https://polybox.ethz.ch/index.php/s/QOc3RNF1QSMebXG) |
-| _22.11_         | _Exercise 5: Feature Engineering_ | [slides/notebook](https://polybox.ethz.ch/index.php/s/OHFlNnj1jnrJBGu) |
-| 29.11           | 2nd Project Consultation (in person, at ETH Hönngerberg) |   |
-| 06.12           | Guest Talk, Physics-informed Neural Networks at scale, by Mohammad Nabian, NVIDIA | |
-| 13.12           | Final Project Presentation (in person and online, at ETH Hönngerberg)|  |
-| 20.12           | Hand-in of Final Project Report (online / email))|  |
+| 26.09           | Introductory Class | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_01_Introduction.pdf)  |
+| 26.09           | Fundamentals of Machine Learning - Part 1: Data and essential Maths/Statistics   | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_02_Fundamentals_Statistik.pdf) [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_03_Fundamentals_MLSystems.pdf) [video](https://polybox.ethz.ch/index.php/s/9lUE7pOKLHPBF4s) |
+| 03.10           | Fundamentals of Machine Learning - Part 2: Supervised Learning: Basics  | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_04_Supervised(Classification_Regression).pdf) [video](https://polybox.ethz.ch/index.php/s/vKYl7GJqhT9NPur) |
+| _03.10_         | _Exercise 1: Introduction to Python and Pandas_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_1.rar)  |
+| 10.10           | Fundamentals of Machine Learning - Part 3: Supervised Learning: Classification and Regression | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_Lecture_3.rar) [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_07_Fundamentals_Optimization.pdf) [video](https://polybox.ethz.ch/index.php/s/78MF8xw19YrC4jc)|
+| 17.10           | Fundamentals of Machine Learning - Part 4: Data Processing and Visualisation | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_04_DataProcessing_Visualization.pdf) [video](https://polybox.ethz.ch/index.php/s/LBte59sv2Q1g3bU) |            
+| _17.10_         | _Student Projects Pitches_ |   |
+| _17.10_         | _Exercise 2: Data Processing and Visualisation_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_2.rar)  |
+| 24.10           | Fundamentals of Machine Learning - Part 5: Unsupervised Learning and Optimization Details | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_06_Unsupervised(Clustering,Encoders).pdf) [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_07_Fundamentals_Optimization.pdf) [video](https://polybox.ethz.ch/index.php/s/A7bcNeztK6sL7jT) |
+| _24.10_         | _Exercise 3: ML Workflow, Regression and Classification_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_3.rar) |
+| 31.10           | Introduction to Deep Learning | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_08_DeepLearning.pdf) [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_09_DeepLearning.pdf) [video](https://polybox.ethz.ch/index.php/s/k5mMmCmgODjOxMb)  |
+| _31.10_         | _Exercise 4: Unsupervised Machine Learning_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_4.rar)  |
+| 07.11           | 1st Project Consultation (in person, at ETH Hönngerberg) |   |
+| 14.11           | Scientific Machine and Deep Learning  | [video](https://polybox.ethz.ch/index.php/s/zMcWdRtQpChh6XQ) |
+| 21.11           | Guest Talk, Graph-NeuralNetwork based SciML, by Professor Julija Zavadlav, Dept. of Mechanical Engineering, TU Munich | [video](https://polybox.ethz.ch/index.php/s/QOc3RNF1QSMebXG) |
+| 21.11           | Scientific Machine and Deep Learning  | [slides/notebook](https://polybox.ethz.ch/index.php/s/OHFlNnj1jnrJBGu) [video](https://polybox.ethz.ch/index.php/s/QOc3RNF1QSMebXG) |
+| _21.11_         | _Exercise 5: Feature Engineering_ | [slides/notebook](https://polybox.ethz.ch/index.php/s/OHFlNnj1jnrJBGu) |
+| 28.11           | 2nd Project Consultation (in person, at ETH Hönngerberg) |   |
+| 05.12           | Guest Talk, Physics-informed Neural Networks at scale, by Mohammad Nabian, NVIDIA | |
+| 12.12           | Final Project Presentation (in person and online, at ETH Hönngerberg)|  |
+| 19.12           | Hand-in of Final Project Report (online / email))|  |
 
 ## <a name="evaluation"></a>Course Evaluation
 *   **Oral Examination: 50% of grade**. Students will be examined on the covered material at the end of the semester right after their project presentation.
