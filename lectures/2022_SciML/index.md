@@ -59,27 +59,28 @@ _(Subject to change)_
 
 | DATE        | CLASS TOPIC          | MATERIAL |
 |:-------------|:------------------|:------|
-| 26.09           | Introductory Class | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_01_Introduction.pdf)  |
-| 26.09           | Fundamentals of Machine Learning - Part 1: Data and essential Maths/Statistics   | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_02_Fundamentals_Statistik.pdf) [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_03_Fundamentals_MLSystems.pdf) [video](https://polybox.ethz.ch/index.php/s/9lUE7pOKLHPBF4s) |
-| 03.10           | Fundamentals of Machine Learning - Part 2: Supervised Learning: Basics  | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_04_Supervised(Classification_Regression).pdf) [video](https://polybox.ethz.ch/index.php/s/vKYl7GJqhT9NPur) |
-| _03.10_         | _Exercise 1: Introduction to Python and Pandas_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_1.rar)  |
-| 10.10           | Fundamentals of Machine Learning - Part 3: Supervised Learning: Classification and Regression | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_Lecture_3.rar) [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_07_Fundamentals_Optimization.pdf) [video](https://polybox.ethz.ch/index.php/s/78MF8xw19YrC4jc)|
-| 17.10           | Fundamentals of Machine Learning - Part 4: Data Processing and Visualisation | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_04_DataProcessing_Visualization.pdf) [video](https://polybox.ethz.ch/index.php/s/LBte59sv2Q1g3bU) |            
-| _17.10_         | _Student Projects Pitches_ |   |
-| _17.10_         | _Exercise 2: Data Processing and Visualisation_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_2.rar)  |
-| 24.10           | Fundamentals of Machine Learning - Part 5: Unsupervised Learning and Optimization Details | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_06_Unsupervised(Clustering,Encoders).pdf) [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_07_Fundamentals_Optimization.pdf) [video](https://polybox.ethz.ch/index.php/s/A7bcNeztK6sL7jT) |
-| _24.10_         | _Exercise 3: ML Workflow, Regression and Classification_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_3.rar) |
-| 31.10           | Introduction to Deep Learning | [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_08_DeepLearning.pdf) [slides](https://mkrausai.github.io/lectures/2021_SciML/Lectures/SciML_09_DeepLearning.pdf) [video](https://polybox.ethz.ch/index.php/s/k5mMmCmgODjOxMb)  |
-| _31.10_         | _Exercise 4: Unsupervised Machine Learning_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_4.rar)  |
-| 07.11           | 1st Project Consultation (in person, at ETH Hönngerberg) |   |
-| 14.11           | Scientific Machine and Deep Learning  | [video](https://polybox.ethz.ch/index.php/s/zMcWdRtQpChh6XQ) |
-| 21.11           | Guest Talk, Graph-NeuralNetwork based SciML, by Professor Julija Zavadlav, Dept. of Mechanical Engineering, TU Munich | [video](https://polybox.ethz.ch/index.php/s/QOc3RNF1QSMebXG) |
-| 21.11           | Scientific Machine and Deep Learning  | [slides/notebook](https://polybox.ethz.ch/index.php/s/OHFlNnj1jnrJBGu) [video](https://polybox.ethz.ch/index.php/s/QOc3RNF1QSMebXG) |
-| _21.11_         | _Exercise 5: Feature Engineering_ | [slides/notebook](https://polybox.ethz.ch/index.php/s/OHFlNnj1jnrJBGu) |
-| 28.11           | 2nd Project Consultation (in person, at ETH Hönngerberg) |   |
-| 05.12           | Guest Talk, Physics-informed Neural Networks at scale, by Mohammad Nabian, NVIDIA | |
-| 12.12           | Final Project Presentation (in person and online, at ETH Hönngerberg)|  |
-| 19.12           | Hand-in of Final Project Report (online / email))|  |
+| 26.09           | Introductory Class | [slides]()  |
+| 26.09           | Fundamentals of SciML - Part 1: Data and Maths/Statistics, Data   | [slides]() [slides]() [video]() |
+| 26.09           | Fundamentals of SciML - Part 2: ML Systems | [slides]() [slides]() [video]() |
+| _26.09_         | _Exercise 1: Introduction to Python, Pandas etc._ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_1.rar)  |
+| 03.10           | Supervised Learning: Overview, Supervised (Classification, Regression) and Unsupervised Learning | [slides]() [video]() |
+| _03.10_         | _Student Projects Pitches_ |   |
+| 10.10           | Data Processing and Visualisation | [slides]() [video]() |            
+| _10.10_         | _Exercise 2: Data Processing and Visualisation_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_2.rar)  |
+| 17.10           | Deep Learning | [slides]() [slides]() [video]() |
+| _17.10_         | _Exercise 3: ML Workflow, Supervised and Unsupervised ML_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_3.rar) |
+| 24.10           | 1st Project Consultation (in person, at ETH Hönngerberg) |
+| _24.10_         | _Exercise 4: Feature Engineering_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_4.rar)  |
+| 31.10           | Scientific Machine and Deep Learning | [slides]() [slides]() [video]() |
+| _31.10_         | _Exercise 5: Deep Learning and SciML_ | [slides/notebook]() |
+| 07.11           | 2nd Project Consultation (in person, at ETH Hönngerberg) |   |
+| 14.11           | Guest Talk 1, SciML in AEC, by Professor Caitlin Mueller, Dept. of Architecture, MIT | [video]() |
+| 21.11           | Guest Talk 2, Physics-informed Neural Networks at scale, by Mohammad Nabian, NVIDIA | |
+| 21.11           | Guest Talk 3, SciML 4 AEC @ETHZ, by Dr. Iro Armeni, M.Sc. Andreas Müller, and Dr. Luis Salamanca | |
+| 28.11           | 3rd Project Consultation (in person, at ETH Hönngerberg)| |
+| 05.12           | Project Work | |
+| 12.12           | Final Project Presentation and Exam (in person and online, at ETH Hönngerberg)|  |
+| 23.12           | Hand-in of Final Project Report (online / email))|  |
 
 ## <a name="evaluation"></a>Course Evaluation
 *   **Oral Examination: 50% of grade**. Students will be examined on the covered material at the end of the semester right after their project presentation.
