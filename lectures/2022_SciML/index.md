@@ -39,7 +39,7 @@ Senior Assistant / Senior Researcher in SciML4AEC and Co-Leader of the Immersive
 _Instructor and Lecturer_ <br />
 
 <img src="https://mkrausai.github.io/img/persons/RomanaRust.jpg" width="20%" alt="Romana Rust" /><br />
-<b > Dr. Romana Rust <br />
+** Dr. Romana Rust **
 PostDoctoral / Senior Researcher and Co-Leader of the Immersive Design Lab of Design++ <br />
 _Co-{Instrucor ; Lecturer}_<br />
 
