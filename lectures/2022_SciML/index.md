@@ -39,7 +39,7 @@ Senior Assistant / Senior Researcher in SciML4AEC and Co-Leader of the Immersive
 _Instructor and Lecturer_ <br />
 
 <img src="https://mkrausai.github.io/img/persons/RomanaRust.jpg" width="20%" alt="Romana Rust" /><br />
-<b > **Dr. Romana Rust ** <br />
+<b > Dr. Romana Rust <br />
 PostDoctoral / Senior Researcher and Co-Leader of the Immersive Design Lab of Design++ <br />
 _Co-{Instrucor ; Lecturer}_<br />
 
@@ -61,49 +61,36 @@ _Lecturer and Co-Supervisor<br />
 ## <a name="schedule"></a>Course Schedule
 _(Subject to change)_
 
-| DATE        | CLASS TOPIC          | MATERIAL |
+| DATE         | CLASS TOPIC          | MATERIAL |
 |:-------------|:------------------|:------|
-| 26.09           | Introductory Class + Project Presentation | [slides]()  |
-| 26.09           | Fundamentals of SciML - Part 1: Data and Maths/Statistics | [slides]() [slides]() [video]() |
-| 26.09           | Fundamentals of SciML - Part 2: ML Systems | [slides]() [slides]() [video]() |
-| _26.09_         | _Exercise 1: Introduction to Python, Pandas etc._ | [slides/notebook]()  |
-
-| _03.10_         | _Student Projects Pitches_ |   |
-| 03.10           | Data Processing and Visualisation 1 | [slides]() [video]() | 
-| _03.10_         | _Exercise 2: Data Processing and Visualisation_ | [slides/notebook]()  |
-
-| 10.10           | Supervised Learning: Overview, Supervised (Classification, Regression) and Unsupervised Learning | [slides]() [video]() |
-| _10.10_         | _Exercise 3: ML Workflow, Supervised and Unsupervised ML_ | [slides/notebook]() |
-| _10.10_         | _Exercise 4: Feature Engineering_ | [slides/notebook]()  |
-
-| 17.10           | Deep Learning 1 | [slides]() [slides]() [video]() |
-| _17.10_         | _Exercise 5: Deep Learning_ | [slides/notebook]() |
-
-| 24.10           | Deep Learning 2 | [slides]() [slides]() [video]() |
-| 24.10           | 1st Project Consultation (in person, at ETH Hönngerberg) |
-
-| 31.10           | Data Processing and Visualisation 2 | [slides]() [video]() | 
-| _31.10_         | _Exercise 6: Data Processing and Visualisation_ | [slides/notebook]()  |
-
-| 07.11           | 2nd Project Consultation (in person, at ETH Hönngerberg) |   |
-
-| 14.11           | Scientific Machine and Deep Learning | [slides]() [slides]() [video]() |
-| _14.11_         | _Exercise 7: SciML_ | [slides/notebook]() |
-| 14.11           | Guest Talk 1, SciML 4 AEC @ETHZ by Doctoral Students / Postdocs  | |
-
-| 21.11           | Guest Talk 2, Physics-informed Neural Networks at scale, by Mohammad Nabian, NVIDIA | |
-| 21.11           | Guest Talk 3, Robotics / Visualisation | | , by Nathan King / Kean???, AUTODESK
-
-| 28.11           | 3rd Project Consultation (in person, at ETH Hönngerberg)| |
-
-| 05.12           | Guest Talk 3, SciML in AEC, by Professor Caitlin Mueller, Dept. of Architecture, MIT | [video]() |
-| 05.12           | Guest Talk 3, SciML in AEC, by Professor Markus König, Dept. of Civil Engineering, RUB | [video]() |
-
-| 12.12           | Final Project Presentation and Exam (in person and online, at ETH Hönngerberg) |  |
-
-| 19.12           | Final Project Presentation and Exam (in person and online, at ETH Hönngerberg) |  |
-
-| 23.12           | Hand-in of Final Project Report (online / email))|  |
+| 26.09        | Introductory Class + Project Presentation | |
+| 26.09        | Fundamentals of SciML - Part 1: Data and Maths/Statistics | |
+| 26.09        | Fundamentals of SciML - Part 2: ML Systems | |
+| _26.09_      | _Exercise 1: Introduction to Python, Pandas etc._ | |
+| _03.10_      | _Student Projects Pitches_ |   |
+| 03.10        | Data Processing and Visualisation 1 | | 
+| _03.10_      | _Exercise 2: Data Processing and Visualisation_ | |
+| 10.10        | Supervised Learning: Overview, Supervised (Classification, Regression) and Unsupervised Learning | |
+| _10.10_      | _Exercise 3: ML Workflow, Supervised and Unsupervised ML_ | |
+| _10.10_      | _Exercise 4: Feature Engineering_ | |
+| 17.10        | Deep Learning 1 | |
+| _17.10_      | _Exercise 5: Deep Learning_ | |
+| 24.10        | Deep Learning 2 | |
+| 24.10        | 1st Project Consultation (in person, at ETH Hönngerberg) |
+| 31.10        | Data Processing and Visualisation 2 | | 
+| _31.10_      | _Exercise 6: Data Processing and Visualisation_ | |
+| 07.11        | 2nd Project Consultation (in person, at ETH Hönngerberg) |  |
+| 14.11        | Scientific Machine and Deep Learning | |
+| _14.11_      | _Exercise 7: SciML_ | |
+| 14.11        | Guest Talk 1, SciML 4 AEC @ETHZ by Doctoral Students / Postdocs  | |
+| 21.11        | Guest Talk 2, Physics-informed Neural Networks at scale, by Mohammad Nabian, NVIDIA | |
+| 21.11        | Guest Talk 3, Robotics / Visualisation | |
+| 28.11        | 3rd Project Consultation (in person, at ETH Hönngerberg)| |
+| 05.12        | Guest Talk 3, SciML in AEC, by Professor Caitlin Mueller, Dept. of Architecture, MIT | |
+| 05.12        | Guest Talk 3, SciML in AEC, by Professor Markus König, Dept. of Civil Engineering, RUB | |
+| 12.12        | Final Project Presentation and Exam (in person and online, at ETH Hönngerberg) | |
+| 19.12        | Final Project Presentation and Exam (in person and online, at ETH Hönngerberg) | |
+| 23.12        | Hand-in of Final Project Report (online / email))|  |
 
 ## <a name="evaluation"></a>Course Evaluation
 *   **Oral Examination: 50% of grade**. Students will be examined on the covered material at the end of the semester right after their project presentation.
