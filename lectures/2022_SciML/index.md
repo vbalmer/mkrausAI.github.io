@@ -79,7 +79,7 @@ _(Subject to change)_
 | 24.10        | 1st Project Consultation (in person, at ETH Hönngerberg) |
 | 31.10        | Data Processing and Visualisation 2 | | 
 | _31.10_      | _Exercise 6: Data Processing and Visualisation_ | |
-| 07.11        | 2nd Project Consultation (in person, at ETH Hönngerberg) |  |
+| 07.11        | 2nd Project Consultation (in person, at ETH Hönngerberg) | |
 | 14.11        | Scientific Machine and Deep Learning | |
 | _14.11_      | _Exercise 7: SciML_ | |
 | 14.11        | Guest Talk 1, SciML 4 AEC @ETHZ by Doctoral Students / Postdocs  | |
@@ -90,7 +90,7 @@ _(Subject to change)_
 | 05.12        | Guest Talk 3, SciML in AEC, by Professor Markus König, Dept. of Civil Engineering, RUB | |
 | 12.12        | Final Project Presentation and Exam (in person and online, at ETH Hönngerberg) | |
 | 19.12        | Final Project Presentation and Exam (in person and online, at ETH Hönngerberg) | |
-| 23.12        | Hand-in of Final Project Report (online / email))|  |
+| 23.12        | Hand-in of Final Project Report (online / email)| |
 
 ## <a name="evaluation"></a>Course Evaluation
 *   **Oral Examination: 50% of grade**. Students will be examined on the covered material at the end of the semester right after their project presentation.
