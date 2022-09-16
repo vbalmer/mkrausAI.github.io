@@ -1,5 +1,5 @@
 # Scientific Machine and Deep Learning for Design and Construction in Civil Engineering
-101-0139-00L, Time: Mondays 14:00 – 18:00 in HCI E 8 or online via Zoom;    Office hours are on Monday: 1 - 2 pm    
+101-0139-00L, Time: Mondays 14:00 – 18:00 in HCI E 8;    Office hours are on Monday: 1 - 2 pm    
 *   [Description](#description)
 *   [Structure](#structure)
 *   [Objectives](#objectives)
@@ -39,7 +39,7 @@ Senior Assistant / Senior Researcher in SciML4AEC and Co-Leader of the Immersive
 _Instructor and Lecturer_ <br />
 
 <img src="https://mkrausai.github.io/img/persons/RomanaRust.jpg" width="20%" alt="Romana Rust" /><br />
-**Dr. Romana Rust **<br />
+<b > **Dr. Romana Rust ** <br />
 PostDoctoral / Senior Researcher and Co-Leader of the Immersive Design Lab of Design++ <br />
 _Co-{Instrucor ; Lecturer}_<br />
 
@@ -63,27 +63,44 @@ _(Subject to change)_
 
 | DATE        | CLASS TOPIC          | MATERIAL |
 |:-------------|:------------------|:------|
-| 26.09           | Introductory Class | [slides]()  |
-| 26.09           | Fundamentals of SciML - Part 1: Data and Maths/Statistics, Data   | [slides]() [slides]() [video]() |
+| 26.09           | Introductory Class + Project Presentation | [slides]()  |
+| 26.09           | Fundamentals of SciML - Part 1: Data and Maths/Statistics | [slides]() [slides]() [video]() |
 | 26.09           | Fundamentals of SciML - Part 2: ML Systems | [slides]() [slides]() [video]() |
 | _26.09_         | _Exercise 1: Introduction to Python, Pandas etc._ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_1.rar)  |
-| 03.10           | Supervised Learning: Overview, Supervised (Classification, Regression) and Unsupervised Learning | [slides]() [video]() |
+
 | _03.10_         | _Student Projects Pitches_ |   |
-| 10.10           | Data Processing and Visualisation | [slides]() [video]() |            
-| _10.10_         | _Exercise 2: Data Processing and Visualisation_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_2.rar)  |
-| 17.10           | Deep Learning | [slides]() [slides]() [video]() |
-| _17.10_         | _Exercise 3: ML Workflow, Supervised and Unsupervised ML_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_3.rar) |
+| 03.10           | Data Processing and Visualisation 1 | [slides]() [video]() | 
+| _03.10_         | _Exercise 2: Data Processing and Visualisation_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_2.rar)  |
+
+| 10.10           | Supervised Learning: Overview, Supervised (Classification, Regression) and Unsupervised Learning | [slides]() [video]() |
+| _10.10_         | _Exercise 3: ML Workflow, Supervised and Unsupervised ML_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_3.rar) |
+| _10.10_         | _Exercise 4: Feature Engineering_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_4.rar)  |
+
+| 17.10           | Deep Learning 1 | [slides]() [slides]() [video]() |
+| _17.10_         | _Exercise 5: Deep Learning_ | [slides/notebook]() |
+
+| 24.10           | Deep Learning 2 | [slides]() [slides]() [video]() |
 | 24.10           | 1st Project Consultation (in person, at ETH Hönngerberg) |
-| _24.10_         | _Exercise 4: Feature Engineering_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_4.rar)  |
+
 | 31.10           | Scientific Machine and Deep Learning | [slides]() [slides]() [video]() |
-| _31.10_         | _Exercise 5: Deep Learning and SciML_ | [slides/notebook]() |
+| _31.10_         | _Exercise 6: SciML_ | [slides/notebook]() |
+
 | 07.11           | 2nd Project Consultation (in person, at ETH Hönngerberg) |   |
-| 14.11           | Guest Talk 1, SciML in AEC, by Professor Caitlin Mueller, Dept. of Architecture, MIT | [video]() |
+
+| 14.11           | Guest Talk 1, SciML 4 AEC @ETHZ by Doctoral Students / Postdocs  | |
+
 | 21.11           | Guest Talk 2, Physics-informed Neural Networks at scale, by Mohammad Nabian, NVIDIA | |
-| 21.11           | Guest Talk 3, SciML 4 AEC @ETHZ, by Dr. Iro Armeni, M.Sc. Andreas Müller, and Dr. Luis Salamanca | |
+| 21.11           | Guest Talk 3, Robotics / Visualisation, by Nathan King / Kean???, AUTODESK | |
+
 | 28.11           | 3rd Project Consultation (in person, at ETH Hönngerberg)| |
-| 05.12           | Project Work | |
-| 12.12           | Final Project Presentation and Exam (in person and online, at ETH Hönngerberg)|  |
+
+| 05.12           | Guest Talk 3, SciML in AEC, by Professor Caitlin Mueller, Dept. of Architecture, MIT | [video]() |
+| 05.12           | Guest Talk 3, SciML in AEC, by Professor Markus König, Dept. of Civil Engineering, RUB | [video]() |
+
+| 12.12           | Final Project Presentation and Exam (in person and online, at ETH Hönngerberg) |  |
+
+| 19.12           | Final Project Presentation and Exam (in person and online, at ETH Hönngerberg) |  |
+
 | 23.12           | Hand-in of Final Project Report (online / email))|  |
 
 ## <a name="evaluation"></a>Course Evaluation
