@@ -66,15 +66,15 @@ _(Subject to change)_
 | 26.09           | Introductory Class + Project Presentation | [slides]()  |
 | 26.09           | Fundamentals of SciML - Part 1: Data and Maths/Statistics | [slides]() [slides]() [video]() |
 | 26.09           | Fundamentals of SciML - Part 2: ML Systems | [slides]() [slides]() [video]() |
-| _26.09_         | _Exercise 1: Introduction to Python, Pandas etc._ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_1.rar)  |
+| _26.09_         | _Exercise 1: Introduction to Python, Pandas etc._ | [slides/notebook]()  |
 
 | _03.10_         | _Student Projects Pitches_ |   |
 | 03.10           | Data Processing and Visualisation 1 | [slides]() [video]() | 
-| _03.10_         | _Exercise 2: Data Processing and Visualisation_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_2.rar)  |
+| _03.10_         | _Exercise 2: Data Processing and Visualisation_ | [slides/notebook]()  |
 
 | 10.10           | Supervised Learning: Overview, Supervised (Classification, Regression) and Unsupervised Learning | [slides]() [video]() |
-| _10.10_         | _Exercise 3: ML Workflow, Supervised and Unsupervised ML_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_3.rar) |
-| _10.10_         | _Exercise 4: Feature Engineering_ | [slides/notebook](https://mkrausai.github.io/lectures/2021_SciML/Exercises/SciML_Ex_4.rar)  |
+| _10.10_         | _Exercise 3: ML Workflow, Supervised and Unsupervised ML_ | [slides/notebook]() |
+| _10.10_         | _Exercise 4: Feature Engineering_ | [slides/notebook]()  |
 
 | 17.10           | Deep Learning 1 | [slides]() [slides]() [video]() |
 | _17.10_         | _Exercise 5: Deep Learning_ | [slides/notebook]() |
@@ -82,15 +82,17 @@ _(Subject to change)_
 | 24.10           | Deep Learning 2 | [slides]() [slides]() [video]() |
 | 24.10           | 1st Project Consultation (in person, at ETH Hönngerberg) |
 
-| 31.10           | Scientific Machine and Deep Learning | [slides]() [slides]() [video]() |
-| _31.10_         | _Exercise 6: SciML_ | [slides/notebook]() |
+| 31.10           | Data Processing and Visualisation 2 | [slides]() [video]() | 
+| _31.10_         | _Exercise 6: Data Processing and Visualisation_ | [slides/notebook]()  |
 
 | 07.11           | 2nd Project Consultation (in person, at ETH Hönngerberg) |   |
 
+| 14.11           | Scientific Machine and Deep Learning | [slides]() [slides]() [video]() |
+| _14.11_         | _Exercise 7: SciML_ | [slides/notebook]() |
 | 14.11           | Guest Talk 1, SciML 4 AEC @ETHZ by Doctoral Students / Postdocs  | |
 
 | 21.11           | Guest Talk 2, Physics-informed Neural Networks at scale, by Mohammad Nabian, NVIDIA | |
-| 21.11           | Guest Talk 3, Robotics / Visualisation, by Nathan King / Kean???, AUTODESK | |
+| 21.11           | Guest Talk 3, Robotics / Visualisation | | , by Nathan King / Kean???, AUTODESK
 
 | 28.11           | 3rd Project Consultation (in person, at ETH Hönngerberg)| |
 
