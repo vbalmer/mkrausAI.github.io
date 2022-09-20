@@ -71,13 +71,13 @@ _(Subject to change)_
 | 03.10        | Data Processing and Visualisation 1 | | 
 | _03.10_      | _Exercise 2: Data Processing and Visualisation_ | |
 | 10.10        | Supervised Learning: Overview, Supervised (Classification, Regression) and Unsupervised Learning | |
-| _10.10_      | _Exercise 3: ML Workflow, Supervised and Unsupervised ML_ | |
-| _10.10_      | _Exercise 4: Feature Engineering_ | |
+| _10.10_      | _Exercise 3: ML Workflow and Supervised ML_ | |
+| _10.10_      | _Exercise 4: Unsupervised ML and Feature Engineering_ | |
 | 17.10        | Deep Learning 1 | |
 | _17.10_      | _Exercise 5: Deep Learning_ | |
 | 24.10        | Deep Learning 2 | |
 | 24.10        | 1st Project Consultation (in person, at ETH Hönngerberg) |
-| 31.10 _1-3_    | Data Processing and Visualisation 2 | | 
+| 31.10 _1-3 pm_    | Data Processing and Visualisation 2 | | 
 | _31.10_      | _Exercise 6: Data Processing and Visualisation_ | |
 | 07.11        | 2nd Project Consultation (in person, at ETH Hönngerberg) | |
 | 14.11        | Scientific Machine and Deep Learning | |
