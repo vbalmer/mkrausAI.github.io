@@ -77,7 +77,7 @@ _(Subject to change)_
 | _17.10_      | _Exercise 5: Deep Learning_ | |
 | 24.10        | Deep Learning 2 | |
 | 24.10        | 1st Project Consultation (in person, at ETH Hönngerberg) |
-| 31.10        | Data Processing and Visualisation 2 | | 
+| 31.10 _1-3_    | Data Processing and Visualisation 2 | | 
 | _31.10_      | _Exercise 6: Data Processing and Visualisation_ | |
 | 07.11        | 2nd Project Consultation (in person, at ETH Hönngerberg) | |
 | 14.11        | Scientific Machine and Deep Learning | |
