@@ -1,5 +1,5 @@
 # Scientific Machine and Deep Learning for Design and Construction in Civil Engineering
-101-0139-00L, Time: Mondays 14:00 – 18:00 in HCI E 8;    Office hours are on Monday: 1 - 2 pm    
+101-0139-00L, Time: Mondays 13:45 – 17:45 in HCI E 8;    Office hours are on Monday: 1 - 2 pm    
 *   [Description](#description)
 *   [Structure](#structure)
 *   [Objectives](#objectives)
@@ -66,7 +66,7 @@ _(Subject to change)_
 | 26.09        | Introductory Class + Project Presentation | |
 | 26.09        | Fundamentals of SciML - Part 1: Data and Maths/Statistics | |
 | 26.09        | Fundamentals of SciML - Part 2: ML Systems | |
-| _26.09_      | _Exercise 1: Introduction to Python, Pandas etc._ | |
+| _26.09_      | _Exercise 1: Introduction to Python, Pandas etc._ | [slides/notebook](https://mkrausai.github.io/lectures/2022_SciML/Exercises/SciML_Ex_1.rar)  |
 | _03.10_      | _Student Projects Pitches_ |   |
 | 03.10        | Data Processing and Visualisation 1 | | 
 | _03.10_      | _Exercise 2: Data Processing and Visualisation_ | |
