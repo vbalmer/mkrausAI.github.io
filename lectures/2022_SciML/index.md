@@ -63,9 +63,9 @@ _(Subject to change)_
 
 | DATE         | CLASS TOPIC          | MATERIAL |
 |:-------------|:------------------|:------|
-| 26.09        | Introductory Class + Project Presentation | |
-| 26.09        | Fundamentals of SciML - Part 1: Data and Maths/Statistics | |
-| 26.09        | Fundamentals of SciML - Part 2: ML Systems | |
+| 26.09        | Introductory Class + Project Presentation | [slides/notebook](https://mkrausai.github.io/lectures/2022_SciML/Exercises/SciML_Ex_1.rar) |
+| 26.09        | Fundamentals of SciML - Part 1: Data and Maths/Statistics | [slides/notebook](https://mkrausai.github.io/lectures/2022_SciML/Exercises/SciML_Ex_1.rar) |
+| 26.09        | Fundamentals of SciML - Part 2: ML Systems | [slides/notebook](https://mkrausai.github.io/lectures/2022_SciML/Exercises/SciML_Ex_1.rar) |
 | _26.09_      | _Exercise 1: Introduction to Python, Pandas etc._ | [slides/notebook](https://mkrausai.github.io/lectures/2022_SciML/Exercises/SciML_Ex_1.rar)  |
 | _03.10_      | _Student Projects Pitches_ |   |
 | 03.10        | Data Processing and Visualisation 1 | | 
