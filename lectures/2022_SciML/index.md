@@ -70,9 +70,10 @@ _(Subject to change)_
 | _03.10_      | _Student Projects Pitches_ |   |
 | 03.10        | Data Processing and Visualisation 1 | [slides](https://github.com/mkrausAi/mkrausAI.github.io/blob/main/lectures/2022_SciML/Lectures/SciML_04_DataProcessing_Visualization.pdf) | 
 | _03.10_      | _Exercise 2: Data Processing and Visualisation_ | [slides/notebook](https://mkrausai.github.io/lectures/2022_SciML/Exercises/SciML_Ex_2.rar) |
-| 10.10        | Supervised Learning: Overview, Supervised (Classification, Regression) and Unsupervised Learning | |
-| _10.10_      | _Exercise 3: ML Workflow and Supervised ML_ | |
-| _10.10_      | _Exercise 4: Unsupervised ML and Feature Engineering_ | |
+| 10.10        | Supervised Learning: Overview and Supervised (Classification, Regression) | [slides](https://github.com/mkrausAi/mkrausAI.github.io/blob/main/lectures/2022_SciML/Lectures/SciML_04_Supervised_ML.pdf) |
+| 10.10        | Supervised Learning: Unsupervised Learning | [slides](https://github.com/mkrausAi/mkrausAI.github.io/blob/main/lectures/2022_SciML/Lectures/SciML_04_Unsupervised_ML) |
+| _10.10_      | _Exercise 3: ML Workflow and Supervised ML_ |[slides/notebook](https://mkrausai.github.io/lectures/2022_SciML/Exercises/SciML_Ex_3.rar) |
+| _10.10_      | _Exercise 4: Unsupervised ML and Feature Engineering_ | [slides/notebook](https://mkrausai.github.io/lectures/2022_SciML/Exercises/SciML_Ex_4.rar) |
 | 17.10        | Deep Learning 1 | |
 | _17.10_      | _Exercise 5: Deep Learning_ | |
 | 24.10        | Deep Learning 2 | |
