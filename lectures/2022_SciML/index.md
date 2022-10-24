@@ -71,12 +71,13 @@ _(Subject to change)_
 | 03.10        | Data Processing and Visualisation 1 | [slides](https://github.com/mkrausAi/mkrausAI.github.io/blob/main/lectures/2022_SciML/Lectures/SciML_04_DataProcessing_Visualization.pdf) | 
 | _03.10_      | _Exercise 2: Data Processing and Visualisation_ | [slides/notebook](https://mkrausai.github.io/lectures/2022_SciML/Exercises/SciML_Ex_2.rar) |
 | 10.10        | Supervised Learning: Overview and Supervised (Classification, Regression) | [slides](https://github.com/mkrausAi/mkrausAI.github.io/blob/main/lectures/2022_SciML/Lectures/SciML_04_Supervised_ML.pdf) |
-| 10.10        | Supervised Learning: Unsupervised Learning | [slides](https://github.com/mkrausAi/mkrausAI.github.io/blob/main/lectures/2022_SciML/Lectures/SciML_04_Unsupervised_ML) |
+| 10.10        | Unsupervised Learning | [slides](https://github.com/mkrausAi/mkrausAI.github.io/blob/main/lectures/2022_SciML/Lectures/SciML_04_Unsupervised_ML.pdf) |
 | _10.10_      | _Exercise 3: ML Workflow and Supervised ML_ |[slides/notebook](https://mkrausai.github.io/lectures/2022_SciML/Exercises/SciML_Ex_3.rar) |
 | _10.10_      | _Exercise 4: Unsupervised ML and Feature Engineering_ | [slides/notebook](https://mkrausai.github.io/lectures/2022_SciML/Exercises/SciML_Ex_4.rar) |
 | 17.10        | Deep Learning 1 | [slides](https://github.com/mkrausAi/mkrausAI.github.io/blob/main/lectures/2022_SciML/Lectures/SciML_05_DeepLearning.pdf)|
 | _17.10_      | _Exercise 5: Deep Learning_ | [slides/notebook](https://mkrausai.github.io/lectures/2022_SciML/Exercises/SciML_Ex_5.rar) |
 | 24.10        | Deep Learning 2 | [slides](https://github.com/mkrausAi/mkrausAI.github.io/blob/main/lectures/2022_SciML/Lectures/SciML_06_DeepLearning.pdf)|
+| _24.10_      | _Exercise 6: Deep Learning_ | [slides/notebook](https://mkrausai.github.io/lectures/2022_SciML/Exercises/SciML_Ex_6.rar) |
 | 24.10        | 1st Project Consultation (in person, at ETH Hönngerberg) |
 | 31.10 _1-3 pm_    | Data Processing and Visualisation 2 | | 
 | _31.10_      | _Exercise 6: Data Processing and Visualisation_ | |
