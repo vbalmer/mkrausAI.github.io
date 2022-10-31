@@ -79,7 +79,7 @@ _(Subject to change)_
 | 24.10        | Deep Learning 2 | [slides](https://github.com/mkrausAi/mkrausAI.github.io/blob/main/lectures/2022_SciML/Lectures/SciML_06_DeepLearning.pdf)|
 | _24.10_      | _Exercise 6: Deep Learning_ | [slides/notebook](https://mkrausai.github.io/lectures/2022_SciML/Exercises/SciML_Ex_6.rar) |
 | 24.10        | 1st Project Consultation (in person, at ETH Hönngerberg) |
-| 31.10 _1-3 pm_    | Data Processing and Visualisation 2 | | 
+| 31.10 _1-3 pm_    | Data Processing and Visualisation 2 | [slides](https://github.com/mkrausAi/mkrausAI.github.io/blob/main/lectures/2022_SciML/Lectures/SciML_07_DataProcessing_Visualization_2.pdf)| 
 | _31.10_      | _Exercise 7: Data Processing and Visualisation_ | [slides/notebook](https://mkrausai.github.io/lectures/2022_SciML/Exercises/SciML_Ex_7.rar) |
 | 07.11        | 2nd Project Consultation (in person, at ETH Hönngerberg) | |
 | 14.11        | Scientific Machine and Deep Learning | |
