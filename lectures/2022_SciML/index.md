@@ -84,7 +84,7 @@ _(Subject to change)_
 | 07.11        | 2nd Project Consultation (in person, at ETH Hönngerberg) | |
 | 14.11        | Guest Talk 1, SciML 4 AEC @ETHZ by Doctoral Students / Postdocs | |
 | 14.11        | Scientific Machine and Deep Learning | [slides](https://github.com/mkrausAi/mkrausAI.github.io/blob/main/lectures/2022_SciML/Lectures/SciML_10_SciMLDL.pdf) |
-| _21.11_      | _Exercise 7: SciML_ |  |
+| _21.11_      | _Exercise 8: SciML_ | [slides/notebook](https://mkrausai.github.io/lectures/2022_SciML/Exercises/SciML_Ex_8.rar) |
 | 21.11        | Guest Talk 2, Physics-informed Neural Networks at scale, by Mohammad Nabian, NVIDIA | [invitation](https://github.com/mkrausAi/mkrausAI.github.io/blob/main/lectures/2022_SciML/Lectures/2022115_ETH_talk_flyer.pdf) |
 | 28.11        | 3rd Project Consultation (in person, at ETH Hönngerberg)| |
 | 05.12        | Guest Talk 3, SciML in AEC, by Professor Caitlin Mueller, Dept. of Architecture, MIT | |
