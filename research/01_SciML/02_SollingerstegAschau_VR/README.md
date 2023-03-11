@@ -51,7 +51,7 @@ Das VR Modell ist dabei als interaktives 3D-Modell der Umgebung (Ausschnitt 1 km
 
 <div style="text-align:center;">
   <iframe width="896" height="504" src="https://www.youtube.com/embed/qbr8kGF8zXU" title="VR Walk Aschau" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p style="font-weight:bold; color:blue;"> Abbildung 2: VR Rundgang über die Brückenvarianten beim "Sollingersteg Aschau im Chiemgau"</p> </div>
+<p style="font-weight:bold; color:blue;"> Abbildung 2: VR Rundgang über die Brückenvarianten "Sollingersteg Aschau im Chiemgau"</p> </div>
 
 Die Benutzererfahrung in der VR folgt den Schritten (i) Tutorial, (ii) Lernphase und (iii) Prüfung durch einen Quizmodus. Da wir davon ausgehen, dass viele Diskussionsteilnehmer mit VR nicht vertraut sind, wird ein einführendes Tutorial angeboten, das die wichtigsten Funktionen der VRE erklärt. Die Lernphase ist schülerzentriert, wobei die beschriebenen Funktionalitäten genutzt werden können, um die Konstruktionsdetails kennenzulernen und zu erkunden. Um die Lernerfahrung interaktiv zu gestalten, führen wir den Quiz-Modus ein, bei dem den Benutzern Multiple-Choice-Fragen oder schriftliche Antworten zur Konstruktion gestellt werden. 
 
@@ -59,17 +59,16 @@ Die Benutzererfahrung in der VR folgt den Schritten (i) Tutorial, (ii) Lernphase
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; flex-direction: row;">
     <div style="margin: 10px;">
-      <img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/Snapshot_3.png" alt="Bild 1">
-      <p style="text-align: center; font-weight: bold; color: blue;">(a)</p>
+      <img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/Snapshot_3.PNG" alt="Bild 1">
+      <p style="text-align: center; font-weight: bold;> (a)</p>
     </div>
     <div style="margin: 10px;">
-      <img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/Snapshot_2.png" alt="Bild 2">
-      <p style="text-align: center; font-weight: bold; color: blue;">(b)</p>
+      <img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/Snapshot_2.PNG" alt="Bild 2">
+      <p style="text-align: center; font-weight: bold;">(b)</p>
     </div>
   </div>
-  <p style="font-weight:bold; color:blue;"> Abbildung 3: a) Bedienfeld; b) Ausschnitt aus der VR Simulation "</p>
+  <p style="font-weight:bold; color:blue;"> Abbildung 3: a) Bedienfeld; b) Ausschnitt aus der VR Simulation</p>
 </div>
-
 
 
 Die Umsetzung im Rahmen dieses Projektes erfolgte mit Unity auf einer Oculus Quest 2. 
@@ -91,10 +90,6 @@ Für die Pistensanierung 10-28 am Flughafen Zürich erstellten wir ein BIM-Model
 
 
 
-*   [Virtual Reality Demonstrator](#VRDemonstrator)
-*   [Resümee](#conclusions)
-*   [Beteiligte](#contributors)
-
 ## <a name="sec:conclusions"></a> Resümee
 
 In einer weiteren Gemeinderatssitzung wurden verschiedene Varianten der Fachwerkbrücke vorgestellt und diskutiert, darunter eine reine Holzvariante und eine Variante mit Stahlrundstäben als Zugglieder. Schließlich wurde die Holz- und Stahlfachwerkbrücke als Kompromiss zwischen Nachhaltigkeit und filigraner Bauweise ausgewählt, da sie im Gegensatz zur reinen Holzvariante weniger massiv ist.
@@ -104,24 +99,24 @@ In einer weiteren Gemeinderatssitzung wurden verschiedene Varianten der Fachwerk
 Für eine objektive Darstellung der drei Varianten und um alle Unklarheiten im Hinblick auf die umliegende Bebauung zu klären, wurde das Gelände mithi
 
 
-# <a name="sec:contributors"></a> Team und Kontakt
+## <a name="sec:contributors"></a> Team und Kontakt
 
 Diese Arbeit wurde von der Gemeinde Aschau im Chiemgau beauftragt und von den im Folgenden benannten Personen bearbeitet und umgesetzt.
 
-## Projektleitung und Kontakt 
+### Projektleitung und Kontakt 
 
-<h3>Bauherrenschaft</h3>
+<h5>Bauherrenschaft</h5>
 <p>Erster Bürgermeister Simon Frank</p>
 <p>Gemeinde Aschau im Chiemgau</p>
 <p>Webseite: <a href="https://www.gemeinde-aschau.de/">https://www.gemeinde-aschau.de/</a></p>
 
-<h3>Entwurf und Tragwerksplanung</h3>
+<h5>Entwurf und Tragwerksplanung</h5>
 <p>M.Eng. Johannes Köppl</p>
 <p>Köppl-Ingenieure GmbH Rosenheim</p>
 <p>Email: kraus@ibk.baug.ethz.ch</p>
 <p>Webseite: <a href="https://www.koeppl-ingenieure.de/">https://www.koeppl-ingenieure.de/</a></p>
 
-<h3>Virtual Reality</h3>
+<h5>Virtual Reality</h5>
 <p>Dr. Michael A. Kraus, M.Sc.(hons)</p>
 <p>Institut für Baustatik und Konstruktion (IBK)</p>
 <p>ETH Zürich</p>
@@ -129,7 +124,7 @@ Diese Arbeit wurde von der Gemeinde Aschau im Chiemgau beauftragt und von den im
 <p>Webseite: <a href="https://kaufmann.ibk.ethz.ch/de/personen/mitarbeitende/dr-michael-anton-kraus.html">https://kaufmann.ibk.ethz.ch/de/personen/mitarbeitende/dr-michael-anton-kraus.html</a></p>
 
 
-## <a name="sec:contributors"></a> Beteiligte
+### <a name="sec:contributors"></a> Beteiligte
 
 <div style="display:flex">
   <div style="flex:1; margin-right:10px">
@@ -148,7 +143,7 @@ Prokurist und Gesellschafter der Köppl-Ingenieure GmbH Rosenheim <br /></div>
   </div>
   <div style="flex:1">
     <img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/Eder_portrait.png" alt="Fritz" style="width:95%">
-    <div style="text-align:center"> M.Eng. Friedrich Eder <br /> OTH Regensburg </div>
+    <div style="text-align:center"> M.Eng. Friedrich Eder <br /> Consultant für Softwareentwicklung und BIM </div>
   </div>
 </div>
 
