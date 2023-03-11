@@ -35,9 +35,10 @@ Aschau im Chiemgau ist eine Gemeinde im oberbayerischen Landkreis Rosenheim, die
 
 Die letzte Bauwerksprüfung des Sollingerstegs, einer 21 Meter weit gespannten Fußgängerbrücke im Ortskern neben dem Rathaus gelegen, hat ergeben, dass die Stahlkonstruktion durch starke Korrosion stark geschädigt ist. Eine Sanierung ist aufgrund der einbetonierten Haupttragelemente in den Widerlagern nicht wirtschaftlich durchführbar. Der Sollingersteg ist einer der wichtigsten Verkehrswege für Fußgänger und Radfahrer in der Gemeinde, aber mit seiner aktuellen lichten Breite von ca. 1,80 m nicht mehr zeitgemäß für einen hochfrequentierten Fußweg. Die Stahlkonstruktion besteht aus zwei Längsträgern aus IPE-Profilen, die durch einen Längsverband aus Winkelprofilen am Untergurt verstärkt sind. Die beiden Längsträger sind schließlich am Widerlager biegesteif eingebunden.
 
+<div style="text-align:center;">
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d167.5928082780064!2d12.323317008203363!3d47.77204415067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sde!4v1678528976927!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
- <br />
-Lage des Sollingerstegs in Aschau im Chiemgau, visualisiert via Google Maps (2023)<br />
+ <p>Abbildung 1: Lage des Sollingerstegs in Aschau im Chiemgau, visualisiert via Google Maps (2023)</p>
+</div>
 
 Nachdem die Schäden an der alten Brücke festgestellt wurden, beschloss der Gemeinderat, einen Ersatzneubau zu errichten und beauftragte das Ingenieurbüro Köppl-Ingenieure Rosenheim mit der Ausarbeitung möglicher Varianten. Zur Auswahl standen eine Stahlbalkenbrücke, eine Holzbalkenbrücke, eine Holzfachwerkbrücke mit Überdachung, eine Holzbogenbrücke sowie eine Stahlfachwerkbrücke mit Rundrohrprofilen. Der Gemeinderat entschied sich schließlich für eine überdachte Holzfachwerkbrücke, bei der jedoch eine möglichst filigrane Konstruktion entwickelt werden sollte, um sich gut in die umliegende Bebauung einzufügen. Zur weiteren Entscheidungsfindung unter insbesonderer Berücksichtigung der Wirkung der Fußgängerbrücke alleine und in Interaktion mit der einbettenden Umgebung wird ein Virtual Reality Simulationsmodell erstellt.
 
@@ -48,13 +49,13 @@ Im Zuge der weiteren Planung sollen nun zwei Entwurfsalternativen mit Bedachung 
 Das VR Modell ist dabei als interaktives 3D-Modell der Umgebung (Ausschnitt 1 km x 1 km) des Ortes Aschau im Chiemgau, der lokalen Bebauung (im LOD200) sowie der drei Brückenvarianten im LOD 300. Benutzende können sich mit Hilfe der Controllertasten oder eines Teleportationsstrahls frei bewegen (vgl. Abbildung 1). In der VRE kann der Benutzer das Modell aus verschiedenen Blickwinkeln betrachten, und die Steuerungen ermöglichen es dem Benutzer, das Modell zu drehen und zu heben. Zusätzlich stehen die Bauabläufe mit Erläuterungen zu Funktionalitäten und Eigenschaften des jeweiligen Bauteils zur Verfügung, wobei das 3D-Modell Element für Element zusammen- oder auseinandergebaut werden kann. Eine Funktion zur Hervorhebung bestimmter Gruppen von Bauelementen verbessert das Verständnis der Konstruktion und ihrer Zusammenhänge weiter. Die meisten der bisher beschriebenen Funktionalitäten sind von den Controllern aus zugänglich, da diese sehr häufig benötigt werden. Andere, weniger häufig benötigte Funktionen sind auf einem Bildschirm (dem so genannten "Tablet", siehe Abb. 2) untergebracht, auf dem sich eine Reihe von Schaltflächen sowie ein Textfeld befinden. Die Schaltflächen ermöglichen dem Benutzer die Interaktion mit übergeordneten Funktionen, z. B. die Hervorhebung bestimmter Elementgruppen. Ein Textfeld auf dem Tablet ermöglicht die Kommunikation zwischen App und Benutzer.
 
 <img class="centered-image" src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/Snapshot.PNG" width="50%" alt="VR_Walk" /><br />
-[![Abbildung 1: VR Rundgang über die Brückenvarianten beim "Sollingersteg Aschau im Chiemgau"]()](https://www.youtube.com/watch?v=qbr8kGF8zXU&t=1s "VR Rundgang über die Brückenvarianten beim "Sollingersteg Aschau im Chiemgau"")
+[![Abbildung 2: VR Rundgang über die Brückenvarianten beim "Sollingersteg Aschau im Chiemgau"]()](https://www.youtube.com/watch?v=qbr8kGF8zXU&t=1s "VR Rundgang über die Brückenvarianten beim "Sollingersteg Aschau im Chiemgau"")
 
 Die Benutzererfahrung in der VR folgt den Schritten (i) Tutorial, (ii) Lernphase und (iii) Prüfung durch einen Quizmodus. Da wir davon ausgehen, dass viele Diskussionsteilnehmer mit VR nicht vertraut sind, wird ein einführendes Tutorial angeboten, das die wichtigsten Funktionen der VRE erklärt. Die Lernphase ist schülerzentriert, wobei die beschriebenen Funktionalitäten genutzt werden können, um die Konstruktionsdetails kennenzulernen und zu erkunden. Um die Lernerfahrung interaktiv zu gestalten, führen wir den Quiz-Modus ein, bei dem den Benutzern Multiple-Choice-Fragen oder schriftliche Antworten zur Konstruktion gestellt werden. 
 
 <div style="text-align:center;">
   <iframe width="896" height="504" src="https://www.youtube.com/embed/qbr8kGF8zXU" title="VR Walk Aschau" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  <p>Abbildung 1: VR Rundgang über die Brückenvarianten beim "Sollingersteg Aschau im Chiemgau"</p>
+  <p>Abbildung 3: VR Rundgang über die Brückenvarianten beim "Sollingersteg Aschau im Chiemgau"</p>
 </div>
 
 
