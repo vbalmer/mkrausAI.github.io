@@ -56,18 +56,19 @@ Das VR Modell ist dabei als interaktives 3D-Modell der Umgebung (Ausschnitt 1 km
 Die Benutzererfahrung in der VR folgt den Schritten (i) Tutorial, (ii) Lernphase und (iii) Prüfung durch einen Quizmodus. Da wir davon ausgehen, dass viele Diskussionsteilnehmer mit VR nicht vertraut sind, wird ein einführendes Tutorial angeboten, das die wichtigsten Funktionen der VRE erklärt. Die Lernphase ist schülerzentriert, wobei die beschriebenen Funktionalitäten genutzt werden können, um die Konstruktionsdetails kennenzulernen und zu erkunden. Um die Lernerfahrung interaktiv zu gestalten, führen wir den Quiz-Modus ein, bei dem den Benutzern Multiple-Choice-Fragen oder schriftliche Antworten zur Konstruktion gestellt werden. 
 
 
-<div style="text-align:center;">
-  <figure>
-    <img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/Snapshot_3.png" alt="Bild 1" style="width:50%">
-    <figcaption>Bedienfeld</figcaption>
-  </figure>
-  <figure>
-    <img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/Snapshot_2.PNG" alt="Bild 2" style="width:50%">
-    <figcaption>Ausschnitt</figcaption>
-  </figure>
+<div style="display: flex; justify-content: center;">
+  <div style="display: flex; flex-direction: row;">
+    <div style="margin: 10px;">
+      <img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/Snapshot_3.png" alt="Bild 1">
+      <p style="text-align: center; font-weight: bold; color: blue;">(a)</p>
+    </div>
+    <div style="margin: 10px;">
+      <img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/Snapshot_2.png" alt="Bild 2">
+      <p style="text-align: center; font-weight: bold; color: blue;">(b)</p>
+    </div>
+  </div>
   <p style="font-weight:bold; color:blue;"> Abbildung 3: a) Bedienfeld; b) Ausschnitt aus der VR Simulation "</p>
 </div>
-
 
 
 
