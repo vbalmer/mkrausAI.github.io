@@ -118,12 +118,17 @@ Prokurist und Gesellschafter der Köppl-Ingenieure GmbH Rosenheim <br /></div>
 
 
 # Kontakt und Projektleitung
-** Bauherrenschaft **
-Dr. Michael A. Kraus, M.Sc.(hons)
 
+<h2>Bauherrenschaft</h2>
+<p>Erster Bürgermeister Simon Frank</p>
+<p>Gemeinde Aschau im Chiemgau</p>
+<p>Webseite: <a href="https://www.gemeinde-aschau.de/">https://www.gemeinde-aschau.de/</a></p>
 
-** Entwurf und Tragwerksplanung **
-M.ENg. Michael A. Kraus, M.Sc.(hons)
+<h2>Entwurf und Tragwerksplanung</h2>
+<p>M.Eng. Johannes Köppl</p>
+<p>Köppl-Ingenieure GmbH Rosenheim</p>
+<p>Email: kraus@ibk.baug.ethz.ch</p>
+<p>Webseite: <a href="https://www.koeppl-ingenieure.de/">https://www.koeppl-ingenieure.de/</a></p>
 
 <h2>Virtual Reality</h2>
 <p>Dr. Michael A. Kraus, M.Sc.(hons)</p>
