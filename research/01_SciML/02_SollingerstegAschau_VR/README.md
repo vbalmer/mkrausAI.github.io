@@ -115,17 +115,25 @@ Prokurist und Gesellschafter der Köppl-Ingenieure GmbH Rosenheim <br /></div>
 
 
 
-
-
-
-
-
-
-
-
-
 # Kontakt und Projektleitung
+** Bauherrenschaft **
 Dr. Michael A. Kraus, M.Sc.(hons)
+
+
+** Entwurf und Tragwerksplanung **
+M.ENg. Michael A. Kraus, M.Sc.(hons)
+
+<h2>Virtual Reality</h2>
+<p>Dr. Michael A. Kraus, M.Sc.(hons)</p>
+<p>Institut für Baustatik und Konstruktion (IBK)</p>
+<p>ETH Zürich</p>
+<p>Email: kraus@ibk.baug.ethz.ch</p>
+<p>Webseite: <a href="https://kaufmann.ibk.ethz.ch/de/personen/mitarbeitende/dr-michael-anton-kraus.html">https://kaufmann.ibk.ethz.ch/de/personen/mitarbeitende/dr-michael-anton-kraus.html</a></p>
+
+
+
+** Virtual Reality **
+Dr. Michael A. Kraus, M.Sc.(hons) 
 Institut für Baustatik und Konstruktion (IBK)
 ETH Zürich
 kraus@ibk.baug.ethz.ch
