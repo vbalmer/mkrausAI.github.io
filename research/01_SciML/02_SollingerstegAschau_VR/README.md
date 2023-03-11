@@ -88,6 +88,9 @@ Für eine objektive Darstellung der drei Varianten und um alle Unklarheiten im H
 
 
 
+# Beteiligte, Projektleitung und Kontakt 
+
+Diese Arbeit wurde von der Gemeinde Aschau im Chiemgau beauftragt und von den im Folgenden benannten Personen bearbeitet und umgesetzt.
 
 ## <a name="sec:contributors"></a> Beteiligte
 
@@ -113,11 +116,10 @@ Prokurist und Gesellschafter der Köppl-Ingenieure GmbH Rosenheim <br /></div>
 </div>
 
 
+## <a name="sec:Contact"></a> Projektleitung und Kontakt 
 
 
 
-
-# Kontakt und Projektleitung
 
 <h2>Bauherrenschaft</h2>
 <p>Erster Bürgermeister Simon Frank</p>
@@ -137,14 +139,6 @@ Prokurist und Gesellschafter der Köppl-Ingenieure GmbH Rosenheim <br /></div>
 <p>Email: kraus@ibk.baug.ethz.ch</p>
 <p>Webseite: <a href="https://kaufmann.ibk.ethz.ch/de/personen/mitarbeitende/dr-michael-anton-kraus.html">https://kaufmann.ibk.ethz.ch/de/personen/mitarbeitende/dr-michael-anton-kraus.html</a></p>
 
-
-
-** Virtual Reality **
-Dr. Michael A. Kraus, M.Sc.(hons) 
-Institut für Baustatik und Konstruktion (IBK)
-ETH Zürich
-kraus@ibk.baug.ethz.ch
-https://kaufmann.ibk.ethz.ch/de/personen/mitarbeitende/dr-michael-anton-kraus.html
 
 
 ------------
