@@ -43,19 +43,35 @@ Nachdem die Schäden an der alten Brücke festgestellt wurden, beschloss der Gem
 
 
 ## <a name="sec:VRDemonstrator"></a> Virtual Reality Demonstrator
+Im Zuge der weiteren Planung sollen nun zwei Entwurfsalternativen mit Bedachung sowie eine Konstruktion ohne Dach gegenübergestellt werden. Zur besseren und barrierefreieren Kommunikation der technischen Planung mit allen Beteiligten und der Öffentlichkeit wird dies anhand eines VR-Demonstrators vorgenommen.
+
+Das VR Modell ist dabei als interaktives 3D-Modell der Umgebung (Ausschnitt 1 km x 1 km) des Ortes Aschau im Chiemgau, der lokalen Bebauung (im LOD200) sowie der drei Brückenvarianten im LOD 300. Benutzende können sich mit Hilfe der Controllertasten oder eines Teleportationsstrahls frei bewegen (vgl. Abbildung 1). In der VRE kann der Benutzer das Modell aus verschiedenen Blickwinkeln betrachten, und die Steuerungen ermöglichen es dem Benutzer, das Modell zu drehen und zu heben. Zusätzlich stehen die Bauabläufe mit Erläuterungen zu Funktionalitäten und Eigenschaften des jeweiligen Bauteils zur Verfügung, wobei das 3D-Modell Element für Element zusammen- oder auseinandergebaut werden kann. Eine Funktion zur Hervorhebung bestimmter Gruppen von Bauelementen verbessert das Verständnis der Konstruktion und ihrer Zusammenhänge weiter. Die meisten der bisher beschriebenen Funktionalitäten sind von den Controllern aus zugänglich, da diese sehr häufig benötigt werden. Andere, weniger häufig benötigte Funktionen sind auf einem Bildschirm (dem so genannten "Tablet", siehe Abb. 2) untergebracht, auf dem sich eine Reihe von Schaltflächen sowie ein Textfeld befinden. Die Schaltflächen ermöglichen dem Benutzer die Interaktion mit übergeordneten Funktionen, z. B. die Hervorhebung bestimmter Elementgruppen. Ein Textfeld auf dem Tablet ermöglicht die Kommunikation zwischen App und Benutzer.
+
+<img class="centered-image" src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/Snapshot.PNG" width="50%" alt="VR_Walk" /><br />
+[![Abbildung 1: VR Rundgang über die Brückenvarianten beim "Sollingersteg Aschau im Chiemgau"]()](https://www.youtube.com/watch?v=qbr8kGF8zXU&t=1s "VR Rundgang über die Brückenvarianten beim "Sollingersteg Aschau im Chiemgau"")
+
+Die Benutzererfahrung in der VR folgt den Schritten (i) Tutorial, (ii) Lernphase und (iii) Prüfung durch einen Quizmodus. Da wir davon ausgehen, dass viele Diskussionsteilnehmer mit VR nicht vertraut sind, wird ein einführendes Tutorial angeboten, das die wichtigsten Funktionen der VRE erklärt. Die Lernphase ist schülerzentriert, wobei die beschriebenen Funktionalitäten genutzt werden können, um die Konstruktionsdetails kennenzulernen und zu erkunden. Um die Lernerfahrung interaktiv zu gestalten, führen wir den Quiz-Modus ein, bei dem den Benutzern Multiple-Choice-Fragen oder schriftliche Antworten zur Konstruktion gestellt werden. 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbr8kGF8zXU" frameborder="0" allowfullscreen></iframe>
+
+
+Die Umsetzung im Rahmen dieses Projektes erfolgte mit Unity auf einer Oculus Quest 2. 
+
+
+
+Für eine realistische Darstellung der drei Varianten und um alle Unklarheiten im Hinblick auf die umliegende Bebauung zu klären, wurde das Gelände maßstabsgetreu als GIS Modell in Unity 
+
+mithilfe eines Laserscans aufgenommen und die Brückenvarianten wurden dort implementiert.   
 
 Für die Pistensanierung 10-28 am Flughafen Zürich erstellten wir ein BIM-Modell, welches nicht nur Pläne und Bauteillisten generiert, sondern auch Einblick in den zukünftigen Flughafenbetrieb bietet und so eine effiziente Bewirtschaftung der Anlagen für die Zukunft garantiert. Weiter wurden für den Bauherrn verschiedene dynamische Virtual Reality-Simulationen der Ausfallszenarien von Befeuerungselementen bei Start- und Landesituationen mit der Software Unity erstellt, um die Sichtbarkeit der Piste aus dem Cockpit in Notfällen wie beispielsweise starkem Nebel überprüfen zu können.
 
-Für eine objektive Darstellung der drei Varianten und um alle Unklarheiten im Hinblick auf die umliegende Bebauung zu klären, wurde das Gelände mithilfe eines Laserscans aufge-nommen und die Brückenvarianten wurden dort implementiert. usw….   
 
 
-Our proposed framework for design subspace learning establishes a new paradigm for performance-conditioned exploration of design spaces, which is neither an optimisation setting nor a random process. Rather, it provides an intuitive and efficient cartography of the vastness of these design spaces. Instead of replacing human intuition with predefined, deterministic, quantitative rules, the AI acts as a design collaborator/co-pilot that augments the human designer's intuition on the problem at hand.
-
-This research provides a variation of CVAEs tailored to forward and inverse design situations. We showed the potential of our CVAE in meta-modelling (i) the forward problem by providing a surrogate to estimate more efficiently and quickly design performances given design features, (ii) compression of complex design spaces into continuous, smooth, low-dimensional design subspaces. With a forward pass through our CVAE being extremely efficient, it can provide performance conditioned designs in quasi real-time and thus augment human designers by providing instant feedback and proposals during the iterative prototyping phase. Furthermore, with analytical derivatives inherently provided in neural networks, we demonstrated that the sensitivity analysis serves as powerful tool for both design optimisation as well as model interpretability. The latter is crucial for building trust and achieving wide acceptance of this kind of design augmentation tools in the AEC domain. The collected user responses prove our framework possesses the potential to find wide application in industry and research as a co-pilot for conceptual design studies in the AEC domain beyond pedestrian bridges.
 
 
-<img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/Snapshot.PNG" width="50%" alt="VR_Walk" /><br />
-[![VR Rundgang für den "Sollingersteg Aschau im Chiemgau"](https://youtu.be/g3Hgu1M1gj8/0.jpg)](https://www.youtube.com/watch?v=qbr8kGF8zXU&t=1s "VR Rundgang über die Brückenvarianten beim "Sollingersteg Aschau im Chiemgau"")
+<img class="centered-image" src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/Snapshot.PNG" width="50%" alt="VR_Walk" /><br />
+[![Abbildung 2: VR Rundgang über die Brückenvarianten beim "Sollingersteg Aschau im Chiemgau"]()](https://www.youtube.com/watch?v=qbr8kGF8zXU&t=1s "VR Rundgang über die Brückenvarianten beim "Sollingersteg Aschau im Chiemgau"")
 
 
 
