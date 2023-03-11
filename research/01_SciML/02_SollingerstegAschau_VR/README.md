@@ -43,7 +43,7 @@ Nachdem die Schäden an der alten Brücke festgestellt wurden, beschloss der Gem
 
 ## <a name="sec:VRDemonstrator"></a> Virtual Reality Demonstrator
 
-
+Für die Pistensanierung 10-28 am Flughafen Zürich erstellten wir ein BIM-Modell, welches nicht nur Pläne und Bauteillisten generiert, sondern auch Einblick in den zukünftigen Flughafenbetrieb bietet und so eine effiziente Bewirtschaftung der Anlagen für die Zukunft garantiert. Weiter wurden für den Bauherrn verschiedene dynamische Virtual Reality-Simulationen der Ausfallszenarien von Befeuerungselementen bei Start- und Landesituationen mit der Software Unity erstellt, um die Sichtbarkeit der Piste aus dem Cockpit in Notfällen wie beispielsweise starkem Nebel überprüfen zu können.
 
 Für eine objektive Darstellung der drei Varianten und um alle Unklarheiten im Hinblick auf die umliegende Bebauung zu klären, wurde das Gelände mithilfe eines Laserscans aufge-nommen und die Brückenvarianten wurden dort implementiert. usw….   
 
@@ -86,6 +86,69 @@ OTH Regensburg <br />
 <img src="https://mkrausai.github.io/img/persons/Michael6_3.jpg" width="20%" alt="Michael" /><br />
 **Dr. Michael A. Kraus, M.Sc.(hons)**<br />
 Oberassistent and Co-Leitung des Immersive Design Lab von Design++ an der ETH Zürich<br />
+
+
+
+
+<head>
+	<title>Beteiligte</title>
+	<style>
+		.img-container {
+			display: flex; /* Flex-Container */
+			flex-wrap: wrap; /* Zeilenumbruch, falls nötig */
+		}
+		.img-container img {
+			flex: 1; /* Alle Bilder gleich groß */
+			margin: 5px; /* Abstand zwischen den Bildern */
+			max-width: 100%; /* Bilder auf Containergröße beschränken */
+			height: auto; /* Höhe automatisch anpassen */
+		}
+	</style>
+</head>
+<body>
+	<div class="img-container">
+		<img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/koeppl_portrait.jpg" alt="Johannes">
+		<img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/max.jpg" alt="Max">
+		<img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/Eder_portrait.png" alt="Fritz">
+		<img src="https://mkrausai.github.io/img/persons/Michael6_3.jpg" alt="Michael">
+	</div>
+</body>
+</html>
+
+
+<div style="display:flex">
+  <div style="flex:1; margin-right:10px">
+    <img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/koeppl_portrait.jpg" alt="Johannes" style="width:100%">
+    <div style="text-align:center">**M.Eng. Johannes Köppl**<br />
+Prokurist und Gesellschafter der Köppl-Ingenieure GmbH Rosenheim <br /></div>
+  </div>
+  <div style="flex:1; margin-right:10px">
+    <img src="bild2.jpg" alt="Bild 2" style="width:100%">
+    <div style="text-align:center">Bild 2: Beschreibung des Bildes</div>
+  </div>
+  <div style="flex:1; margin-right:10px">
+    <img src="bild3.jpg" alt="Bild 3" style="width:100%">
+    <div style="text-align:center">Bild 3: Beschreibung des Bildes</div>
+  </div>
+  <div style="flex:1">
+    <img src="bild4.jpg" alt="Bild 4" style="width:100%">
+    <div style="text-align:center">Bild 4: Beschreibung des Bildes</div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Kontakt und Projektleitung
 Dr. Michael A. Kraus, M.Sc.(hons)
