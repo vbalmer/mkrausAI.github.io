@@ -58,12 +58,12 @@ Die Benutzererfahrung in der VR folgt den Schritten (i) Tutorial, (ii) Lernphase
 
 <div style="text-align:center;">
   <figure>
-    <img src="Snapshot.png" alt="Bild 1" style="width:50%">
-    <figcaption>Bild 1</figcaption>
+    <img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/Snapshot_3.png" alt="Bild 1" style="width:50%">
+    <figcaption>Bedienfeld</figcaption>
   </figure>
   <figure>
-    <img src="Snapshot_2.PNG" alt="Bild 2" style="width:50%">
-    <figcaption>Bild 2</figcaption>
+    <img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/Snapshot_2.PNG" alt="Bild 2" style="width:50%">
+    <figcaption>Ausschnitt</figcaption>
   </figure>
   <p style="font-weight:bold; color:blue;"> Abbildung 3: a) Bedienfeld; b) Ausschnitt aus der VR Simulation "</p>
 </div>
