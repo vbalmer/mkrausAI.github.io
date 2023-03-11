@@ -2,7 +2,7 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=default'></script>
 
 
-# Virtual Reality (VR) Explainable AI for Conceptual Generative Design of a Pedestrian Bridge
+# Die Zukunft der Entscheidungsfindung bei Bauprojekten mit Virtual Reality (VR) am Beispiel der Fußgängerbrücke "Sollingersteg" in Aschau im Chiemgau
 
 <!-- A repository of structural information on the design of pedestrian bridges
 ============================== -->
@@ -35,7 +35,7 @@ Aschau im Chiemgau ist eine Gemeinde im oberbayerischen Landkreis Rosenheim, die
 
 Die letzte Bauwerksprüfung des Sollingerstegs, einer 21 Meter weit gespannten Fußgängerbrücke im Ortskern neben dem Rathaus gelegen, hat ergeben, dass die Stahlkonstruktion durch starke Korrosion stark geschädigt ist. Eine Sanierung ist aufgrund der einbetonierten Haupttragelemente in den Widerlagern nicht wirtschaftlich durchführbar. Der Sollingersteg ist einer der wichtigsten Verkehrswege für Fußgänger und Radfahrer in der Gemeinde, aber mit seiner aktuellen lichten Breite von ca. 1,80 m nicht mehr zeitgemäß für einen hochfrequentierten Fußweg. Die Stahlkonstruktion besteht aus zwei Längsträgern aus IPE-Profilen, die durch einen Längsverband aus Winkelprofilen am Untergurt verstärkt sind. Die beiden Längsträger sind schließlich am Widerlager biegesteif eingebunden.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d474.0242073607348!2d12.323151332711353!3d47.7720359900404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47761522c08e627d%3A0xd3961beed124bacf!2s83229%20Aschau%20im%20Chiemgau!5e0!3m2!1sen!2sde!4v1678525783377!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d167.5928082780064!2d12.323317008203363!3d47.77204415067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sde!4v1678528976927!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
  <br />
 Lage des Sollingerstegs in Aschau im Chiemgau, visualisiert via Google Maps (2023)<br />
 
