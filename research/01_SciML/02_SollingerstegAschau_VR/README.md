@@ -65,74 +65,30 @@ In einer weiteren Gemeinderatssitzung wurden verschiedene Varianten der Fachwerk
 
 
 Für eine objektive Darstellung der drei Varianten und um alle Unklarheiten im Hinblick auf die umliegende Bebauung zu klären, wurde das Gelände mithi
-*   [Schlussfolgerungen](#conclusions)
+
 
 
 
 ## <a name="sec:contributors"></a> Beteiligte
 
-<img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/koeppl_portrait.jpg" width="20%" alt="Johannes" /><br />
-**M.Eng. Johannes Köppl**<br />
-Prokurist und Gesellschafter der Köppl-Ingenieure GmbH Rosenheim <br />
-
-<img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/max.jpg" width="20%" alt="Max" /><br />
-**M.Sc. Maximilian Rietschel **<br />
-Gründer und Inhaber "Romantic Technologies" Zürich<br />
-
-<img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/Eder_portrait.png" width="20%" alt="Fritz" /><br />
-**M.Eng. Friedrich Eder**<br />
-OTH Regensburg <br />
-
-<img src="https://mkrausai.github.io/img/persons/Michael6_3.jpg" width="20%" alt="Michael" /><br />
-**Dr. Michael A. Kraus, M.Sc.(hons)**<br />
-Oberassistent and Co-Leitung des Immersive Design Lab von Design++ an der ETH Zürich<br />
-
-
-
-
-<head>
-	<title>Beteiligte</title>
-	<style>
-		.img-container {
-			display: flex; /* Flex-Container */
-			flex-wrap: wrap; /* Zeilenumbruch, falls nötig */
-		}
-		.img-container img {
-			flex: 1; /* Alle Bilder gleich groß */
-			margin: 5px; /* Abstand zwischen den Bildern */
-			max-width: 100%; /* Bilder auf Containergröße beschränken */
-			height: auto; /* Höhe automatisch anpassen */
-		}
-	</style>
-</head>
-<body>
-	<div class="img-container">
-		<img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/koeppl_portrait.jpg" alt="Johannes">
-		<img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/max.jpg" alt="Max">
-		<img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/Eder_portrait.png" alt="Fritz">
-		<img src="https://mkrausai.github.io/img/persons/Michael6_3.jpg" alt="Michael">
-	</div>
-</body>
-</html>
-
-
 <div style="display:flex">
   <div style="flex:1; margin-right:10px">
-    <img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/koeppl_portrait.jpg" alt="Johannes" style="width:100%">
-    <div style="text-align:center">**M.Eng. Johannes Köppl**<br />
+    <img src="https://mkrausai.github.io/img/persons/Michael6_3.jpg" alt="Michael" style="width:100%">
+    <div style="text-align:center"> Dr. Michael A. Kraus, M.Sc.(hons) <br />
+Oberassistent and Co-Leitung des Immersive Design Lab von Design++ an der ETH Zürich <br /></div>
+  </div>
+  <div style="flex:1; margin-right:10px">
+    <img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/koeppl_portrait.jpg" alt="Bild 2" style="width:100%">
+    <div style="text-align:center">M.Eng. Johannes Köppl<br />
 Prokurist und Gesellschafter der Köppl-Ingenieure GmbH Rosenheim <br /></div>
   </div>
   <div style="flex:1; margin-right:10px">
-    <img src="bild2.jpg" alt="Bild 2" style="width:100%">
-    <div style="text-align:center">Bild 2: Beschreibung des Bildes</div>
-  </div>
-  <div style="flex:1; margin-right:10px">
-    <img src="bild3.jpg" alt="Bild 3" style="width:100%">
-    <div style="text-align:center">Bild 3: Beschreibung des Bildes</div>
+    <img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/max.jpg" alt="Max" style="width:100%">
+    <div style="text-align:center">**M.Sc. Maximilian Rietschel **<br /> Gründer und Inhaber "Romantic Technologies" Zürich</div>
   </div>
   <div style="flex:1">
-    <img src="bild4.jpg" alt="Bild 4" style="width:100%">
-    <div style="text-align:center">Bild 4: Beschreibung des Bildes</div>
+    <img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/Eder_portrait.png" alt="Fritz" style="width:100%">
+    <div style="text-align:center"> M.Eng. Friedrich Eder <br /> OTH Regensburg </div>
   </div>
 </div>
 
