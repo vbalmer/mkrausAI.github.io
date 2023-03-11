@@ -55,7 +55,7 @@ This research provides a variation of CVAEs tailored to forward and inverse desi
 
 
 <img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/Snapshot.PNG" width="50%" alt="VR_Walk" /><br />
-[![VR Rundgang für den "Sollingersteg Aschau im Chiemgau"](https://youtu.be/g3Hgu1M1gj8/0.jpg)](https://www.youtube.com/watch?v=qbr8kGF8zXU&t=1s "VR Rundgang für den "Sollingersteg Aschau im Chiemgau"")
+[![VR Rundgang für den "Sollingersteg Aschau im Chiemgau"](https://youtu.be/g3Hgu1M1gj8/0.jpg)](https://www.youtube.com/watch?v=qbr8kGF8zXU&t=1s "VR Rundgang über die Brückenvarianten beim "Sollingersteg Aschau im Chiemgau"")
 
 
 
@@ -89,7 +89,7 @@ Prokurist und Gesellschafter der Köppl-Ingenieure GmbH Rosenheim <br /></div>
     <div style="text-align:center">M.Sc. Maximilian Rietschel <br /> Gründer und Inhaber "Romantic Technologies" Zürich</div>
   </div>
   <div style="flex:1">
-    <img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/Eder_portrait.png" alt="Fritz" style="width:100%">
+    <img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/Eder_portrait.png" alt="Fritz" style="width:95%">
     <div style="text-align:center"> M.Eng. Friedrich Eder <br /> OTH Regensburg </div>
   </div>
 </div>
