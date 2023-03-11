@@ -55,11 +55,12 @@ Das VR Modell ist dabei als interaktives 3D-Modell der Umgebung (Ausschnitt 1 km
     </div>
     <div style="margin: 10px;">
       <img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/Snapshot_2.PNG" alt="Bild 2" style="height: 350px;">
-      <p style="text-align: center; font-weight: bold;">(b)</p>
+      <p style="text-align: center; font-weight: bold;">(b) </p>
     </div>
   </div>
-  <br>
-  <p style="font-weight:bold; color:blue;"> Abbildung 2: a) Bedienfeld; b) Ansicht des Portals der Brückenvariante 2</p>
+</div>
+<div style="text-align:center;">
+<p style="font-weight:bold; color:blue;"> Abbildung 2: a) Bedienfeld; b) Ansicht des Portals der Brückenvariante 2</p>
 </div>
 
 Da wir davon ausgehen, dass die allermeisten Projektteilnehmer aber auch Bürgerinnen und Bürger mit VR nicht vertraut sind, wird vor der Benutzung ein einführendes Tutorial angeboten, welches die wichtigsten Funktionen erklärt. Die anschließende Erkundungsphase zur Exploration der Umgebung und der drei Brückenvarianten ist dann personenzentriert und erfolgt ohne weitere Anleitung. Dabei können die beschriebenen Funktionalitäten genutzt werden.
