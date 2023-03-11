@@ -93,6 +93,27 @@ Für eine objektive Darstellung der drei Varianten und um alle Unklarheiten im H
 
 Diese Arbeit wurde von der Gemeinde Aschau im Chiemgau beauftragt und von den im Folgenden benannten Personen bearbeitet und umgesetzt.
 
+## <a name="sec:Contact"></a> Projektleitung und Kontakt 
+
+<h3>Bauherrenschaft</h3>
+<p>Erster Bürgermeister Simon Frank</p>
+<p>Gemeinde Aschau im Chiemgau</p>
+<p>Webseite: <a href="https://www.gemeinde-aschau.de/">https://www.gemeinde-aschau.de/</a></p>
+
+<h3>Entwurf und Tragwerksplanung</h3>
+<p>M.Eng. Johannes Köppl</p>
+<p>Köppl-Ingenieure GmbH Rosenheim</p>
+<p>Email: kraus@ibk.baug.ethz.ch</p>
+<p>Webseite: <a href="https://www.koeppl-ingenieure.de/">https://www.koeppl-ingenieure.de/</a></p>
+
+<h3>Virtual Reality</h3>
+<p>Dr. Michael A. Kraus, M.Sc.(hons)</p>
+<p>Institut für Baustatik und Konstruktion (IBK)</p>
+<p>ETH Zürich</p>
+<p>Email: kraus@ibk.baug.ethz.ch</p>
+<p>Webseite: <a href="https://kaufmann.ibk.ethz.ch/de/personen/mitarbeitende/dr-michael-anton-kraus.html">https://kaufmann.ibk.ethz.ch/de/personen/mitarbeitende/dr-michael-anton-kraus.html</a></p>
+
+
 ## <a name="sec:contributors"></a> Beteiligte
 
 <div style="display:flex">
@@ -115,29 +136,6 @@ Prokurist und Gesellschafter der Köppl-Ingenieure GmbH Rosenheim <br /></div>
     <div style="text-align:center"> M.Eng. Friedrich Eder <br /> OTH Regensburg </div>
   </div>
 </div>
-
-
-## <a name="sec:Contact"></a> Projektleitung und Kontakt 
-
-<h1>Bauherrenschaft</h1>
-<p>Erster Bürgermeister Simon Frank</p>
-<p>Gemeinde Aschau im Chiemgau</p>
-<p>Webseite: <a href="https://www.gemeinde-aschau.de/">https://www.gemeinde-aschau.de/</a></p>
-
-<h2>Entwurf und Tragwerksplanung</h2>
-<p>M.Eng. Johannes Köppl</p>
-<p>Köppl-Ingenieure GmbH Rosenheim</p>
-<p>Email: kraus@ibk.baug.ethz.ch</p>
-<p>Webseite: <a href="https://www.koeppl-ingenieure.de/">https://www.koeppl-ingenieure.de/</a></p>
-
-<h2>Virtual Reality</h2>
-<p>Dr. Michael A. Kraus, M.Sc.(hons)</p>
-<p>Institut für Baustatik und Konstruktion (IBK)</p>
-<p>ETH Zürich</p>
-<p>Email: kraus@ibk.baug.ethz.ch</p>
-<p>Webseite: <a href="https://kaufmann.ibk.ethz.ch/de/personen/mitarbeitende/dr-michael-anton-kraus.html">https://kaufmann.ibk.ethz.ch/de/personen/mitarbeitende/dr-michael-anton-kraus.html</a></p>
-
-
 
 ------------
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
