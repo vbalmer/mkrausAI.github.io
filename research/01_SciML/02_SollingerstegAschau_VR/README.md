@@ -42,12 +42,10 @@ Die letzte Bauwerksprüfung des Sollingerstegs, einer 21 Meter weit gespannten F
 Nachdem die Schäden an der alten Brücke festgestellt wurden, beschloss der Gemeinderat, einen Ersatzneubau zu errichten und beauftragte das Ingenieurbüro Köppl-Ingenieure Rosenheim mit der Ausarbeitung möglicher Varianten. Zur Auswahl standen eine Stahlbalkenbrücke, eine Holzbalkenbrücke, eine Holzfachwerkbrücke mit Überdachung, eine Holzbogenbrücke sowie eine Stahlfachwerkbrücke mit Rundrohrprofilen. Der Gemeinderat entschied sich schließlich für eine überdachte Holzfachwerkbrücke, bei der jedoch eine möglichst filigrane Konstruktion entwickelt werden sollte, um sich gut in die umliegende Bebauung einzufügen. Zur weiteren Entscheidungsfindung unter insbesonderer Berücksichtigung der Wirkung der Fußgängerbrücke alleine und in Interaktion mit der einbettenden Umgebung wird ein Virtual Reality Simulationsmodell erstellt.
 
 
-
-
 ## <a name="sec:VRDemonstrator"></a> Virtual Reality Demonstrator
 Im Zuge der weiteren Planung sollen nun zwei Entwurfsalternativen mit Bedachung sowie eine Konstruktion ohne Dach gegenübergestellt werden. Zur besseren und barrierefreieren Kommunikation der technischen Planung mit allen Beteiligten und der Öffentlichkeit wird dies anhand eines VR-Demonstrators vorgenommen.
 
-Das VR Modell ist dabei als interaktives 3D-Modell der Umgebung (Ausschnitt 1 km x 1 km) des Ortes Aschau im Chiemgau, der lokalen Bebauung (im LOD200) sowie der drei Brückenvarianten im LOD 300. Benutzende können sich mit Hilfe der Controllertasten oder eines Teleportationsstrahls frei bewegen (vgl. Abbildung 1). In der VRE kann der Benutzer das Modell aus verschiedenen Blickwinkeln betrachten, und die Steuerungen ermöglichen es dem Benutzer, das Modell zu drehen und zu heben. Zusätzlich stehen die Bauabläufe mit Erläuterungen zu Funktionalitäten und Eigenschaften des jeweiligen Bauteils zur Verfügung, wobei das 3D-Modell Element für Element zusammen- oder auseinandergebaut werden kann. Eine Funktion zur Hervorhebung bestimmter Gruppen von Bauelementen verbessert das Verständnis der Konstruktion und ihrer Zusammenhänge weiter. Die meisten der bisher beschriebenen Funktionalitäten sind von den Controllern aus zugänglich, da diese sehr häufig benötigt werden. Andere, weniger häufig benötigte Funktionen sind auf einem Bildschirm (dem so genannten "Tablet", siehe Abb. 2) untergebracht, auf dem sich eine Reihe von Schaltflächen sowie ein Textfeld befinden. Die Schaltflächen ermöglichen dem Benutzer die Interaktion mit übergeordneten Funktionen, z. B. die Hervorhebung bestimmter Elementgruppen. Ein Textfeld auf dem Tablet ermöglicht die Kommunikation zwischen App und Benutzer.
+Das VR Modell ist dabei als interaktives 3D-Modell der Umgebung (Ausschnitt 1 km x 1 km) des Ortes Aschau im Chiemgau, der lokalen Bebauung (im LOD200) sowie der drei Brückenvarianten im LOD 300. Benutzende können sich mit Hilfe der Controllertasten oder eines Teleportationsstrahls frei bewegen (vgl. Abbildung 2). In der VR Umgebung können Benutzende die drei Brückenvarianten aus verschiedenen Blickwinkeln betrachten. Dabei erlauben die beiden Hand-Controller die Drehung des Modells oder einen Ortswechsel mittels Sprüngen oder Translation. Die meisten der bisher beschriebenen Funktionalitäten sind von den  aus zugänglich, da diese sehr häufig benötigt werden. Andere, weniger häufig benötigte Funktionen sind auf einem Bildschirm (dem so genannten "Tablet", siehe Abb. 2) untergebracht, auf dem sich eine Reihe von Schaltflächen sowie ein Textfeld befinden. Die Schaltflächen ermöglichen dem Benutzer die Interaktion mit übergeordneten Funktionen, z. B. die Hervorhebung bestimmter Elementgruppen. Ein Textfeld auf dem Tablet ermöglicht die Kommunikation zwischen App und Benutzer.
 
 <div style="text-align:center;">
   <iframe width="896" height="504" src="https://www.youtube.com/embed/qbr8kGF8zXU" title="VR Walk Aschau" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -60,13 +58,14 @@ Die Benutzererfahrung in der VR folgt den Schritten (i) Tutorial, (ii) Lernphase
   <div style="display: flex; flex-direction: row;">
     <div style="margin: 10px;">
       <img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/Snapshot_3.PNG" alt="Bild 1">
-      <p style="text-align: center; font-weight: bold;> (a)</p>
+      <p style="text-align: center; font-weight: bold;"> (a)</p>
     </div>
     <div style="margin: 10px;">
       <img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/Snapshot_2.PNG" alt="Bild 2">
       <p style="text-align: center; font-weight: bold;">(b)</p>
     </div>
   </div>
+  <br>
   <p style="font-weight:bold; color:blue;"> Abbildung 3: a) Bedienfeld; b) Ausschnitt aus der VR Simulation</p>
 </div>
 
