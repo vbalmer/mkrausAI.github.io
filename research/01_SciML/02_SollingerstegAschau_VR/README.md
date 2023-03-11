@@ -43,9 +43,9 @@ Nachdem die Schäden an der alten Brücke festgestellt wurden, beschloss der Gem
 
 
 ## <a name="sec:VRDemonstrator"></a> Virtual Reality Demonstrator
-Im Zuge der weiteren Planung sollen nun zwei Entwurfsalternativen mit Bedachung sowie eine Konstruktion ohne Dach gegenübergestellt werden. Zur besseren und barrierefreieren Kommunikation der technischen Planung mit allen Beteiligten und der Öffentlichkeit wird dies anhand eines VR-Demonstrators vorgenommen.
+Im Zuge der weiteren Planung sollen nun zwei Entwurfsalternativen mit Bedachung sowie eine Konstruktion ohne Dach gegenübergestellt werden. Zur besseren und barrierefreieren Kommunikation der technischen Planung mit allen Beteiligten und der Öffentlichkeit wird dies anhand eines VR-Demonstrators vorgenommen. Die Umsetzung im Rahmen dieses Projektes erfolgte mit Unity auf einer Oculus Quest 2.
 
-Das VR Modell ist dabei als interaktives 3D-Modell der Umgebung (Ausschnitt 1 km x 1 km) des Ortes Aschau im Chiemgau, der lokalen Bebauung (im LOD200) sowie der drei Brückenvarianten im LOD 300. Die Interaktion zwischen App und Nutzenden findet einerseits über ein Textfeld auf dem Tablet und andererseits über die Controllertasten statt. Benutzende können sich mit Hilfe der Controllertasten oder eines Teleportationsstrahls frei bewegen (vgl. Abbildung 2a). In der VR Umgebung können Benutzende die drei Brückenvarianten (vgl. Abbildung 2a) aus verschiedenen Blickwinkeln betrachten. Hierbei kann einerseits auf fünf vordefinierte Betrachtungsstandorte (gelbe Markierungen in Abbildung 2a) zurückgegriffen werden. Andererseits erlauben die beiden Hand-Controller die Drehung des Modells oder einen Ortswechsel mittels Teleportation oder Translation. Eine beispielhafter Ausschnitt aus der VR Simulation ist als Ansicht des Portals der Brückenvariante 2 in Abbildung 2b dargestellt.
+Das VR Modell ist dabei als interaktives 3D-Modell der Umgebung (Ausschnitt 1 km x 1 km) des Ortes Aschau im Chiemgau, der lokalen Bebauung (im LOD200) sowie der drei Brückenvarianten im LOD 300. Alle geometrischen Elemente haben Realmaßstab in der VR Applikation. Die Interaktion zwischen App und Nutzenden findet einerseits über ein Textfeld auf dem Tablet und andererseits über die Controllertasten statt. Benutzende können sich mit Hilfe der Controllertasten oder eines Teleportationsstrahls frei bewegen (vgl. Abbildung 2a). In der VR Umgebung können Benutzende die drei Brückenvarianten (vgl. Abbildung 2a) aus verschiedenen Blickwinkeln betrachten. Hierbei kann einerseits auf fünf vordefinierte Betrachtungsstandorte (gelbe Markierungen in Abbildung 2a) zurückgegriffen werden. Andererseits erlauben die beiden Hand-Controller die Drehung des Modells oder einen Ortswechsel mittels Teleportation oder Translation. Eine beispielhafter Ausschnitt aus der VR Simulation ist als Ansicht des Portals der Brückenvariante 2 in Abbildung 2b dargestellt.
 
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; flex-direction: row;">
@@ -65,36 +65,10 @@ Das VR Modell ist dabei als interaktives 3D-Modell der Umgebung (Ausschnitt 1 km
 
 Da wir davon ausgehen, dass die allermeisten Projektteilnehmer aber auch Bürgerinnen und Bürger mit VR nicht vertraut sind, wird vor der Benutzung ein einführendes Tutorial angeboten, welches die wichtigsten Funktionen erklärt. Die anschließende Erkundungsphase zur Exploration der Umgebung und der drei Brückenvarianten ist dann personenzentriert und erfolgt ohne weitere Anleitung. Dabei können die beschriebenen Funktionalitäten genutzt werden.
 
-<div style="text-align:center;">
-  <iframe width="896" height="504" src="https://www.youtube.com/embed/qbr8kGF8zXU" title="VR Walk Aschau" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p style="font-weight:bold; color:blue;"> Abbildung 3: VR Rundgang über die Brückenvarianten "Sollingersteg Aschau im Chiemgau"</p> </div>
-
-Die Umsetzung im Rahmen dieses Projektes erfolgte mit Unity auf einer Oculus Quest 2. 
-
-
-
-Für eine realistische Darstellung der drei Varianten und um alle Unklarheiten im Hinblick auf die umliegende Bebauung zu klären, wurde das Gelände maßstabsgetreu als GIS Modell in Unity 
-
-mithilfe eines Laserscans aufgenommen und die Brückenvarianten wurden dort implementiert.   
-
-Für die Pistensanierung 10-28 am Flughafen Zürich erstellten wir ein BIM-Modell, welches nicht nur Pläne und Bauteillisten generiert, sondern auch Einblick in den zukünftigen Flughafenbetrieb bietet und so eine effiziente Bewirtschaftung der Anlagen für die Zukunft garantiert. Weiter wurden für den Bauherrn verschiedene dynamische Virtual Reality-Simulationen der Ausfallszenarien von Befeuerungselementen bei Start- und Landesituationen mit der Software Unity erstellt, um die Sichtbarkeit der Piste aus dem Cockpit in Notfällen wie beispielsweise starkem Nebel überprüfen zu können.
-
-
-
-
-
-<img class="centered-image" src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/Snapshot.PNG" width="50%" alt="VR_Walk" /><br />
-[![Abbildung 2: VR Rundgang über die Brückenvarianten beim "Sollingersteg Aschau im Chiemgau"]()](https://www.youtube.com/watch?v=qbr8kGF8zXU&t=1s "VR Rundgang über die Brückenvarianten beim "Sollingersteg Aschau im Chiemgau"")
-
-
 
 ## <a name="sec:conclusions"></a> Resümee
 
-In einer weiteren Gemeinderatssitzung wurden verschiedene Varianten der Fachwerkbrücke vorgestellt und diskutiert, darunter eine reine Holzvariante und eine Variante mit Stahlrundstäben als Zugglieder. Schließlich wurde die Holz- und Stahlfachwerkbrücke als Kompromiss zwischen Nachhaltigkeit und filigraner Bauweise ausgewählt, da sie im Gegensatz zur reinen Holzvariante weniger massiv ist.
-
-
-
-Für eine objektive Darstellung der drei Varianten und um alle Unklarheiten im Hinblick auf die umliegende Bebauung zu klären, wurde das Gelände mithi
+In einer finalen Gemeinderatssitzung mit Bürgerbeteiligung wurden am 14.03.2023 verschiedene Varianten der Fachwerkbrücke mittels VR visualisiert und anschließend diskutiert. Schließlich fiel die Entscheidung zugunsten der Fußgängerbrückenvariante 2 in hybrider Holz- und Stahlfachwerkbauweise als Kompromiss aus Nachhaltigkeit und filigraner Erscheinung. Die dynamische VR Simulation ermöglichte es, die Wirkung und Einbindung der verschiedenen Brückenvarianten aus diversen Perspektiven von verschiedenen Personen und Entscheidungstragenden auf verschiedenen Längenskalen realistisch beurteilen und entscheiden zu können. Somit wird eine hohe Akzeptanz der Planung und final gebauten Fußgängerbrücke garantiert. Aus dem sehr positiven Feedback der Beteiligten aber auch teilnehmenden Personen lässt sich das Potential zur Wieder- und Weiterverwendung in Zukunft untermauern.
 
 
 ## <a name="sec:contributors"></a> Team und Kontakt
