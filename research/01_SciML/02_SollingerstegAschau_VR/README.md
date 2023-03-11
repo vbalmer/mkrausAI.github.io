@@ -3,6 +3,8 @@
 
 # Die Zukunft der Entscheidungsfindung bei Bauprojekten mit Virtual Reality (VR) am Beispiel der Fußgängerbrücke "Sollingersteg" in Aschau im Chiemgau
 
+# Alternativ:  Virtual Reality: Die Zukunft von Bauprojektentscheidungen am Beispiel "Fußgängerbrücke Sollingersteg""
+
 <!-- A repository of structural information on the design of pedestrian bridges
 ============================== -->
 
