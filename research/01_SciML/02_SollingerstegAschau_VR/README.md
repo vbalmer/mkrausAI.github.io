@@ -45,14 +45,7 @@ Nachdem die Schäden an der alten Brücke festgestellt wurden, beschloss der Gem
 ## <a name="sec:VRDemonstrator"></a> Virtual Reality Demonstrator
 Im Zuge der weiteren Planung sollen nun zwei Entwurfsalternativen mit Bedachung sowie eine Konstruktion ohne Dach gegenübergestellt werden. Zur besseren und barrierefreieren Kommunikation der technischen Planung mit allen Beteiligten und der Öffentlichkeit wird dies anhand eines VR-Demonstrators vorgenommen.
 
-Das VR Modell ist dabei als interaktives 3D-Modell der Umgebung (Ausschnitt 1 km x 1 km) des Ortes Aschau im Chiemgau, der lokalen Bebauung (im LOD200) sowie der drei Brückenvarianten im LOD 300. Benutzende können sich mit Hilfe der Controllertasten oder eines Teleportationsstrahls frei bewegen (vgl. Abbildung 2). In der VR Umgebung können Benutzende die drei Brückenvarianten aus verschiedenen Blickwinkeln betrachten. Dabei erlauben die beiden Hand-Controller die Drehung des Modells oder einen Ortswechsel mittels Sprüngen oder Translation. Die meisten der bisher beschriebenen Funktionalitäten sind von den  aus zugänglich, da diese sehr häufig benötigt werden. Andere, weniger häufig benötigte Funktionen sind auf einem Bildschirm (dem so genannten "Tablet", siehe Abb. 2) untergebracht, auf dem sich eine Reihe von Schaltflächen sowie ein Textfeld befinden. Die Schaltflächen ermöglichen dem Benutzer die Interaktion mit übergeordneten Funktionen, z. B. die Hervorhebung bestimmter Elementgruppen. Ein Textfeld auf dem Tablet ermöglicht die Kommunikation zwischen App und Benutzer.
-
-<div style="text-align:center;">
-  <iframe width="896" height="504" src="https://www.youtube.com/embed/qbr8kGF8zXU" title="VR Walk Aschau" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p style="font-weight:bold; color:blue;"> Abbildung 2: VR Rundgang über die Brückenvarianten "Sollingersteg Aschau im Chiemgau"</p> </div>
-
-Die Benutzererfahrung in der VR folgt den Schritten (i) Tutorial, (ii) Lernphase und (iii) Prüfung durch einen Quizmodus. Da wir davon ausgehen, dass viele Diskussionsteilnehmer mit VR nicht vertraut sind, wird ein einführendes Tutorial angeboten, das die wichtigsten Funktionen der VRE erklärt. Die Lernphase ist schülerzentriert, wobei die beschriebenen Funktionalitäten genutzt werden können, um die Konstruktionsdetails kennenzulernen und zu erkunden. Um die Lernerfahrung interaktiv zu gestalten, führen wir den Quiz-Modus ein, bei dem den Benutzern Multiple-Choice-Fragen oder schriftliche Antworten zur Konstruktion gestellt werden. 
-
+Das VR Modell ist dabei als interaktives 3D-Modell der Umgebung (Ausschnitt 1 km x 1 km) des Ortes Aschau im Chiemgau, der lokalen Bebauung (im LOD200) sowie der drei Brückenvarianten im LOD 300. Die Interaktion zwischen App und Nutzenden findet einerseits über ein Textfeld auf dem Tablet und andererseits über die Controllertasten statt. Benutzende können sich mit Hilfe der Controllertasten oder eines Teleportationsstrahls frei bewegen (vgl. Abbildung 2a). In der VR Umgebung können Benutzende die drei Brückenvarianten (vgl. Abbildung 2a) aus verschiedenen Blickwinkeln betrachten. Hierbei kann einerseits auf fünf vordefinierte Betrachtungsstandorte (gelbe Markierungen in Abbildung 2a) zurückgegriffen werden. Andererseits erlauben die beiden Hand-Controller die Drehung des Modells oder einen Ortswechsel mittels Teleportation oder Translation. Eine beispielhafter Ausschnitt aus der VR Simulation ist als Ansicht des Portals der Brückenvariante 2 in Abbildung 2b dargestellt.
 
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; flex-direction: row;">
@@ -66,9 +59,14 @@ Die Benutzererfahrung in der VR folgt den Schritten (i) Tutorial, (ii) Lernphase
     </div>
   </div>
   <br>
-  <p style="font-weight:bold; color:blue;"> Abbildung 3: a) Bedienfeld; b) Ausschnitt aus der VR Simulation</p>
+  <p style="font-weight:bold; color:blue;"> Abbildung 2: a) Bedienfeld; b) Ansicht des Portals der Brückenvariante 2</p>
 </div>
 
+Da wir davon ausgehen, dass die allermeisten Projektteilnehmer aber auch Bürgerinnen und Bürger mit VR nicht vertraut sind, wird vor der Benutzung ein einführendes Tutorial angeboten, welches die wichtigsten Funktionen erklärt. Die anschließende Erkundungsphase zur Exploration der Umgebung und der drei Brückenvarianten ist dann personenzentriert und erfolgt ohne weitere Anleitung. Dabei können die beschriebenen Funktionalitäten genutzt werden.
+
+<div style="text-align:center;">
+  <iframe width="896" height="504" src="https://www.youtube.com/embed/qbr8kGF8zXU" title="VR Walk Aschau" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="font-weight:bold; color:blue;"> Abbildung 3: VR Rundgang über die Brückenvarianten "Sollingersteg Aschau im Chiemgau"</p> </div>
 
 Die Umsetzung im Rahmen dieses Projektes erfolgte mit Unity auf einer Oculus Quest 2. 
 
