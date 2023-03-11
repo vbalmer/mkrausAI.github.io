@@ -10,7 +10,7 @@
 *   [Projektbeschreibung "Sollingersteg" in Aschau im Chiemgau](#content)
 *   [Virtual Reality Demonstrator](#VRDemonstrator)
 *   [Resümee](#conclusions)
-*   [Beteiligte](#contributors)
+*   [Team und Kontakt](#contributors)
 
 <!-- -->
 <!-- *   [Citation](#citation)-->
@@ -42,6 +42,8 @@ Die letzte Bauwerksprüfung des Sollingerstegs, einer 21 Meter weit gespannten F
 Nachdem die Schäden an der alten Brücke festgestellt wurden, beschloss der Gemeinderat, einen Ersatzneubau zu errichten und beauftragte das Ingenieurbüro Köppl-Ingenieure Rosenheim mit der Ausarbeitung möglicher Varianten. Zur Auswahl standen eine Stahlbalkenbrücke, eine Holzbalkenbrücke, eine Holzfachwerkbrücke mit Überdachung, eine Holzbogenbrücke sowie eine Stahlfachwerkbrücke mit Rundrohrprofilen. Der Gemeinderat entschied sich schließlich für eine überdachte Holzfachwerkbrücke, bei der jedoch eine möglichst filigrane Konstruktion entwickelt werden sollte, um sich gut in die umliegende Bebauung einzufügen. Zur weiteren Entscheidungsfindung unter insbesonderer Berücksichtigung der Wirkung der Fußgängerbrücke alleine und in Interaktion mit der einbettenden Umgebung wird ein Virtual Reality Simulationsmodell erstellt.
 
 
+
+
 ## <a name="sec:VRDemonstrator"></a> Virtual Reality Demonstrator
 Im Zuge der weiteren Planung sollen nun zwei Entwurfsalternativen mit Bedachung sowie eine Konstruktion ohne Dach gegenübergestellt werden. Zur besseren und barrierefreieren Kommunikation der technischen Planung mit allen Beteiligten und der Öffentlichkeit wird dies anhand eines VR-Demonstrators vorgenommen.
 
@@ -60,7 +62,7 @@ Die Benutzererfahrung in der VR folgt den Schritten (i) Tutorial, (ii) Lernphase
     <figcaption>Bild 1</figcaption>
   </figure>
   <figure>
-    <img src="Snapshot_2.png" alt="Bild 2" style="width:50%">
+    <img src="Snapshot_2.PNG" alt="Bild 2" style="width:50%">
     <figcaption>Bild 2</figcaption>
   </figure>
   <p style="font-weight:bold; color:blue;"> Abbildung 3: a) Bedienfeld; b) Ausschnitt aus der VR Simulation "</p>
@@ -88,6 +90,9 @@ Für die Pistensanierung 10-28 am Flughafen Zürich erstellten wir ein BIM-Model
 
 
 
+*   [Virtual Reality Demonstrator](#VRDemonstrator)
+*   [Resümee](#conclusions)
+*   [Beteiligte](#contributors)
 
 ## <a name="sec:conclusions"></a> Resümee
 
@@ -98,12 +103,11 @@ In einer weiteren Gemeinderatssitzung wurden verschiedene Varianten der Fachwerk
 Für eine objektive Darstellung der drei Varianten und um alle Unklarheiten im Hinblick auf die umliegende Bebauung zu klären, wurde das Gelände mithi
 
 
-
-# Beteiligte, Projektleitung und Kontakt 
+# <a name="sec:contributors"></a> Team und Kontakt
 
 Diese Arbeit wurde von der Gemeinde Aschau im Chiemgau beauftragt und von den im Folgenden benannten Personen bearbeitet und umgesetzt.
 
-## <a name="sec:Contact"></a> Projektleitung und Kontakt 
+## Projektleitung und Kontakt 
 
 <h3>Bauherrenschaft</h3>
 <p>Erster Bürgermeister Simon Frank</p>
