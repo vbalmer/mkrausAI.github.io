@@ -118,10 +118,7 @@ Prokurist und Gesellschafter der Köppl-Ingenieure GmbH Rosenheim <br /></div>
 
 ## <a name="sec:Contact"></a> Projektleitung und Kontakt 
 
-
-
-
-<h2>Bauherrenschaft</h2>
+<h1>Bauherrenschaft</h1>
 <p>Erster Bürgermeister Simon Frank</p>
 <p>Gemeinde Aschau im Chiemgau</p>
 <p>Webseite: <a href="https://www.gemeinde-aschau.de/">https://www.gemeinde-aschau.de/</a></p>
