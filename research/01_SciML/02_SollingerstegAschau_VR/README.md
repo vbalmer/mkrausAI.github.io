@@ -1,6 +1,5 @@
-<!--https://mkrausai.github.io/research/01_SciML/01_BH_PedestrianBridge_XAI/-->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=default'></script>
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 # Die Zukunft der Entscheidungsfindung bei Bauprojekten mit Virtual Reality (VR) am Beispiel der Fußgängerbrücke "Sollingersteg" in Aschau im Chiemgau
 
