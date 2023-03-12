@@ -101,7 +101,7 @@ Diese Arbeit wurde von der Gemeinde Aschau im Chiemgau beauftragt und von den im
 <p>Email: kraus@ibk.baug.ethz.ch</p>
 <p>Webseite: <a href="https://www.koeppl-ingenieure.de/">https://www.koeppl-ingenieure.de/</a></p>
 
-<h5>Virtual Reality</h5>
+<h5>Virtual Reality Demonstrator</h5>
 <p>Dr. Michael A. Kraus, M.Sc.(hons)</p>
 <p>Institut für Baustatik und Konstruktion (IBK)</p>
 <p>ETH Zürich</p>
