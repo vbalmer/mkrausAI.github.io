@@ -74,7 +74,7 @@ Das VR Modell ist dabei als interaktives 3D-Modell der Umgebung (Ausschnitt 1 km
 Da wir davon ausgehen, dass die allermeisten Projektteilnehmer aber auch Bürgerinnen und Bürger mit VR nicht vertraut sind, wird vor der Benutzung ein einführendes Tutorial angeboten, welches die wichtigsten Funktionen erklärt. Die anschließende Erkundungsphase zur Exploration der Umgebung und der drei Brückenvarianten ist dann personenzentriert und erfolgt ohne weitere Anleitung. Dabei können die beschriebenen Funktionalitäten genutzt werden.
 
 <div style="text-align:center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/qbr8kGF8zXU" frameborder="0" allowfullscreen></iframe>
+    <iframe width="750" height="422" src="https://www.youtube.com/embed/qbr8kGF8zXU" frameborder="0" allowfullscreen></iframe>
 <p style="font-weight:bold; color:blue;"> Abbildung 3: VR Rundgang über die Varianten des Sollingerstegs in Aschau im Chiemgau</p>
 </div>
 
