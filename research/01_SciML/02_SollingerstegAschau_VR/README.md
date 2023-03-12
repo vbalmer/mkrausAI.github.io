@@ -38,13 +38,13 @@ Die letzte Bauwerksprüfung des Sollingerstegs, einer 21 Meter weit gespannten F
 
 <div style="text-align:center;">
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d167.5928082780064!2d12.323317008203363!3d47.77204415067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sde!4v1678528976927!5m2!1sen!2sde" width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<p style="font-weight:bold; color:blue;"> Abbildung 1: Lage des Sollingerstegs in Aschau im Chiemgau, visualisiert via Google Maps (2023)</p>
+<p style="font-weight:bold; color:blue"> Abbildung 1: Lage des Sollingerstegs in Aschau im Chiemgau, visualisiert via Google Maps (2023)</p>
 </div>
 
 Nachdem die Schäden an der alten Brücke festgestellt wurden, beschloss der Gemeinderat, einen Ersatzneubau zu errichten und beauftragte das Ingenieurbüro Köppl-Ingenieure Rosenheim mit der Ausarbeitung möglicher Varianten. Zur Auswahl standen eine Stahlbalkenbrücke, eine Holzbalkenbrücke, eine Holzfachwerkbrücke mit Überdachung, eine Holzbogenbrücke sowie eine Stahlfachwerkbrücke mit Rundrohrprofilen. Der Gemeinderat entschied sich schließlich für eine überdachte Holzfachwerkbrücke, bei der jedoch eine möglichst filigrane Konstruktion entwickelt werden sollte, um sich gut in die umliegende Bebauung einzufügen. Zur weiteren Entscheidungsfindung unter insbesonderer Berücksichtigung der Wirkung der Fußgängerbrücke alleine und in Interaktion mit der einbettenden Umgebung wird ein Virtual Reality Simulationsmodell erstellt.
 
 
-## <a name="sec:VRDemonstrator"></a>Virtual Reality Demonstrator
+## <a name="VRDemonstrator"></a>Virtual Reality Demonstrator
 Im Zuge der weiteren Planung sollen nun zwei Entwurfsalternativen mit Bedachung sowie eine Konstruktion ohne Dach gegenübergestellt werden. Zur besseren und barrierefreieren Kommunikation der technischen Planung mit allen Beteiligten und der Öffentlichkeit wird dies anhand eines VR-Demonstrators vorgenommen. Die Umsetzung im Rahmen dieses Projektes erfolgte mit Unity auf einer Oculus Quest 2.
 
 Das VR Modell ist dabei als interaktives 3D-Modell der Umgebung (Ausschnitt 1 km x 1 km) des Ortes Aschau im Chiemgau, der lokalen Bebauung (im LOD200) sowie der drei Brückenvarianten im LOD 300. Alle geometrischen Elemente haben Realmaßstab in der VR Applikation. Die Interaktion zwischen App und Nutzenden findet einerseits über ein Textfeld auf dem Tablet und andererseits über die Controllertasten statt. Benutzende können sich mit Hilfe der Controllertasten oder eines Teleportationsstrahls frei bewegen (vgl. Abbildung 2a). In der VR Umgebung können Benutzende die drei Brückenvarianten (vgl. Abbildung 2a) aus verschiedenen Blickwinkeln betrachten. Hierbei kann einerseits auf fünf vordefinierte Betrachtungsstandorte (gelbe Markierungen in Abbildung 2a) zurückgegriffen werden. Andererseits erlauben die beiden Hand-Controller die Drehung des Modells oder einen Ortswechsel mittels Teleportation oder Translation. Eine beispielhafter Ausschnitt aus der VR Simulation ist als Ansicht des Portals der Brückenvariante 2 in Abbildung 2b dargestellt.
@@ -73,12 +73,12 @@ Da wir davon ausgehen, dass die allermeisten Projektteilnehmer aber auch Bürger
 </div>
 
 
-## <a name="sec:conclusions"></a>Resümee
+## <a name="conclusions"></a>Resümee
 
 In einer finalen Gemeinderatssitzung mit Bürgerbeteiligung wurden am 14.03.2023 verschiedene Varianten der Fachwerkbrücke mittels VR visualisiert und anschließend diskutiert. Ein Video eines Rundgangs in VR mit Besichtigung der verschiedenen Varianten aus mehreren Blickwinkeln wird in Abbildung 3 zur Verfügung gestellt. Schließlich fiel die Entscheidung zugunsten der Fußgängerbrückenvariante 2 in hybrider Holz- und Stahlfachwerkbauweise als Kompromiss aus Nachhaltigkeit und filigraner Erscheinung. Die dynamische VR Simulation ermöglichte es, die Wirkung und Einbindung der verschiedenen Brückenvarianten aus diversen Perspektiven von verschiedenen Personen und Entscheidungstragenden auf verschiedenen Längenskalen realistisch beurteilen und entscheiden zu können. Somit wird eine hohe Akzeptanz der Planung und final gebauten Fußgängerbrücke garantiert. Aus dem sehr positiven Feedback der Beteiligten aber auch teilnehmenden Personen lässt sich das Potential zur Wieder- und Weiterverwendung in Zukunft untermauern.
 
 
-## <a name="sec:contributors"></a>Team und Kontakt
+## <a name="contributors"></a>Team und Kontakt
 
 Diese Arbeit wurde von der Gemeinde Aschau im Chiemgau beauftragt und von den im Folgenden benannten Personen bearbeitet und umgesetzt.
 
@@ -103,7 +103,7 @@ Diese Arbeit wurde von der Gemeinde Aschau im Chiemgau beauftragt und von den im
 <p>Webseite: <a href="https://kaufmann.ibk.ethz.ch/de/personen/mitarbeitende/dr-michael-anton-kraus.html">https://kaufmann.ibk.ethz.ch/de/personen/mitarbeitende/dr-michael-anton-kraus.html</a></p>
 
 
-### <a name="sec:contributors"></a> Beteiligte
+### Beteiligte
 
 <div style="display:flex">
   <div style="flex:1; margin-right:10px">
@@ -127,14 +127,4 @@ Prokurist und Gesellschafter der Köppl-Ingenieure GmbH Rosenheim <br /></div>
 </div>
 
 ------------
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
-
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
-
-[![CC BY 4.0][cc-by-image]][cc-by]
-
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
-
+Alle Inhalte auf dieser Website sind urheberrechtlich geschützt. Jegliche kommerzielle Nutzung, Verbreitung oder Veröffentlichung der Inhalte ist ohne ausdrückliche schriftliche Genehmigung des Urhebers untersagt. Die Inhalte dürfen für nicht-kommerzielle Zwecke genutzt werden zur Verbreitung oder Veröffentlichung.
