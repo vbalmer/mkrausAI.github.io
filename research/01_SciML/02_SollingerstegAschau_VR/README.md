@@ -3,7 +3,7 @@
 
 # Die Zukunft der Entscheidungsfindung bei Bauprojekten mit Virtual Reality (VR) am Beispiel der Fußgängerbrücke "Sollingersteg" in Aschau im Chiemgau
 
-# Alternativ:  Virtual Reality: Die Zukunft von Bauprojektentscheidungen am Beispiel "Fußgängerbrücke Sollingersteg""
+<!-- # Alternativ:  Virtual Reality: Die Zukunft von Bauprojektentscheidungen am Beispiel "Fußgängerbrücke Sollingersteg" -->
 
 <!-- A repository of structural information on the design of pedestrian bridges
 ============================== -->
@@ -31,7 +31,7 @@ Mit der Entwicklung im Rahmen dieses Projekts werden folgende Ziele verfolgt:
 Im Rahmen dieses Projektes konnten wir die erfolgreiche technische und organisatorische Anwendbarkeit unseres Ansatzes demonstrieren, sodass künftig weitere Bauprojekte in der konzeptionellen Entwurfsphase begleitet werden können. Damit fördern wir die weitere Verbreitung und den Einsatz solcher Werkzeuge in der Praxis und bauen Schranken für die Bürgerbeteiligung ab.
 
 
-## <a name="content"></a> Projektbeschreibung "Sollingersteg" in Aschau im Chiemgau
+## <a name="content"></a>Projektbeschreibung "Sollingersteg" in Aschau im Chiemgau
 Aschau im Chiemgau ist eine Gemeinde im oberbayerischen Landkreis Rosenheim, die sich inmitten des malerischen Prientals befindet. Die Gemeinde besteht aus den beiden Hauptorten Aschau und Sachrang und wird durch den Fluss Prien buchstäblich geteilt. Aufgrund dieser Lage gibt es in der Gemeinde zahlreiche Brücken, die eine wichtige Rolle in der Infrastruktur spielen, insbesondere für Fußgänger und Radfahrer. Neben den Hauptverkehrswegen für den Luftkurort müssen diese Brücken regelmäßig gewartet und instand gehalten werden.
 
 Die letzte Bauwerksprüfung des Sollingerstegs, einer 21 Meter weit gespannten Fußgängerbrücke im Ortskern neben dem Rathaus gelegen, hat ergeben, dass die Stahlkonstruktion durch starke Korrosion stark geschädigt ist. Eine Sanierung ist aufgrund der einbetonierten Haupttragelemente in den Widerlagern nicht wirtschaftlich durchführbar. Der Sollingersteg ist einer der wichtigsten Verkehrswege für Fußgänger und Radfahrer in der Gemeinde, aber mit seiner aktuellen lichten Breite von ca. 1,80 m nicht mehr zeitgemäß für einen hochfrequentierten Fußweg. Die Stahlkonstruktion besteht aus zwei Längsträgern aus IPE-Profilen, die durch einen Längsverband aus Winkelprofilen am Untergurt verstärkt sind. Die beiden Längsträger sind schließlich am Widerlager biegesteif eingebunden.
@@ -44,7 +44,7 @@ Die letzte Bauwerksprüfung des Sollingerstegs, einer 21 Meter weit gespannten F
 Nachdem die Schäden an der alten Brücke festgestellt wurden, beschloss der Gemeinderat, einen Ersatzneubau zu errichten und beauftragte das Ingenieurbüro Köppl-Ingenieure Rosenheim mit der Ausarbeitung möglicher Varianten. Zur Auswahl standen eine Stahlbalkenbrücke, eine Holzbalkenbrücke, eine Holzfachwerkbrücke mit Überdachung, eine Holzbogenbrücke sowie eine Stahlfachwerkbrücke mit Rundrohrprofilen. Der Gemeinderat entschied sich schließlich für eine überdachte Holzfachwerkbrücke, bei der jedoch eine möglichst filigrane Konstruktion entwickelt werden sollte, um sich gut in die umliegende Bebauung einzufügen. Zur weiteren Entscheidungsfindung unter insbesonderer Berücksichtigung der Wirkung der Fußgängerbrücke alleine und in Interaktion mit der einbettenden Umgebung wird ein Virtual Reality Simulationsmodell erstellt.
 
 
-## <a name="sec:VRDemonstrator"></a> Virtual Reality Demonstrator
+## <a name="sec:VRDemonstrator"></a>Virtual Reality Demonstrator
 Im Zuge der weiteren Planung sollen nun zwei Entwurfsalternativen mit Bedachung sowie eine Konstruktion ohne Dach gegenübergestellt werden. Zur besseren und barrierefreieren Kommunikation der technischen Planung mit allen Beteiligten und der Öffentlichkeit wird dies anhand eines VR-Demonstrators vorgenommen. Die Umsetzung im Rahmen dieses Projektes erfolgte mit Unity auf einer Oculus Quest 2.
 
 Das VR Modell ist dabei als interaktives 3D-Modell der Umgebung (Ausschnitt 1 km x 1 km) des Ortes Aschau im Chiemgau, der lokalen Bebauung (im LOD200) sowie der drei Brückenvarianten im LOD 300. Alle geometrischen Elemente haben Realmaßstab in der VR Applikation. Die Interaktion zwischen App und Nutzenden findet einerseits über ein Textfeld auf dem Tablet und andererseits über die Controllertasten statt. Benutzende können sich mit Hilfe der Controllertasten oder eines Teleportationsstrahls frei bewegen (vgl. Abbildung 2a). In der VR Umgebung können Benutzende die drei Brückenvarianten (vgl. Abbildung 2a) aus verschiedenen Blickwinkeln betrachten. Hierbei kann einerseits auf fünf vordefinierte Betrachtungsstandorte (gelbe Markierungen in Abbildung 2a) zurückgegriffen werden. Andererseits erlauben die beiden Hand-Controller die Drehung des Modells oder einen Ortswechsel mittels Teleportation oder Translation. Eine beispielhafter Ausschnitt aus der VR Simulation ist als Ansicht des Portals der Brückenvariante 2 in Abbildung 2b dargestellt.
@@ -68,12 +68,12 @@ Das VR Modell ist dabei als interaktives 3D-Modell der Umgebung (Ausschnitt 1 km
 Da wir davon ausgehen, dass die allermeisten Projektteilnehmer aber auch Bürgerinnen und Bürger mit VR nicht vertraut sind, wird vor der Benutzung ein einführendes Tutorial angeboten, welches die wichtigsten Funktionen erklärt. Die anschließende Erkundungsphase zur Exploration der Umgebung und der drei Brückenvarianten ist dann personenzentriert und erfolgt ohne weitere Anleitung. Dabei können die beschriebenen Funktionalitäten genutzt werden.
 
 
-## <a name="sec:conclusions"></a> Resümee
+## <a name="sec:conclusions"></a>Resümee
 
 In einer finalen Gemeinderatssitzung mit Bürgerbeteiligung wurden am 14.03.2023 verschiedene Varianten der Fachwerkbrücke mittels VR visualisiert und anschließend diskutiert. Schließlich fiel die Entscheidung zugunsten der Fußgängerbrückenvariante 2 in hybrider Holz- und Stahlfachwerkbauweise als Kompromiss aus Nachhaltigkeit und filigraner Erscheinung. Die dynamische VR Simulation ermöglichte es, die Wirkung und Einbindung der verschiedenen Brückenvarianten aus diversen Perspektiven von verschiedenen Personen und Entscheidungstragenden auf verschiedenen Längenskalen realistisch beurteilen und entscheiden zu können. Somit wird eine hohe Akzeptanz der Planung und final gebauten Fußgängerbrücke garantiert. Aus dem sehr positiven Feedback der Beteiligten aber auch teilnehmenden Personen lässt sich das Potential zur Wieder- und Weiterverwendung in Zukunft untermauern.
 
 
-## <a name="sec:contributors"></a> Team und Kontakt
+## <a name="sec:contributors"></a>Team und Kontakt
 
 Diese Arbeit wurde von der Gemeinde Aschau im Chiemgau beauftragt und von den im Folgenden benannten Personen bearbeitet und umgesetzt.
 
