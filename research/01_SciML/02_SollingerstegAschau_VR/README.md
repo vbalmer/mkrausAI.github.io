@@ -67,10 +67,15 @@ Das VR Modell ist dabei als interaktives 3D-Modell der Umgebung (Ausschnitt 1 km
 
 Da wir davon ausgehen, dass die allermeisten Projektteilnehmer aber auch Bürgerinnen und Bürger mit VR nicht vertraut sind, wird vor der Benutzung ein einführendes Tutorial angeboten, welches die wichtigsten Funktionen erklärt. Die anschließende Erkundungsphase zur Exploration der Umgebung und der drei Brückenvarianten ist dann personenzentriert und erfolgt ohne weitere Anleitung. Dabei können die beschriebenen Funktionalitäten genutzt werden.
 
+<div style="text-align:center;">
+    <iframe width="70%" src="https://www.youtube.com/embed/qbr8kGF8zXU" frameborder="0" allowfullscreen></iframe>
+<p style="font-weight:bold; color:blue;"> Abbildung 3: VR Rundgang über die Varianten des Sollingerstegs in Aschau im Chiemgau</p>
+</div>
+
 
 ## <a name="sec:conclusions"></a>Resümee
 
-In einer finalen Gemeinderatssitzung mit Bürgerbeteiligung wurden am 14.03.2023 verschiedene Varianten der Fachwerkbrücke mittels VR visualisiert und anschließend diskutiert. Schließlich fiel die Entscheidung zugunsten der Fußgängerbrückenvariante 2 in hybrider Holz- und Stahlfachwerkbauweise als Kompromiss aus Nachhaltigkeit und filigraner Erscheinung. Die dynamische VR Simulation ermöglichte es, die Wirkung und Einbindung der verschiedenen Brückenvarianten aus diversen Perspektiven von verschiedenen Personen und Entscheidungstragenden auf verschiedenen Längenskalen realistisch beurteilen und entscheiden zu können. Somit wird eine hohe Akzeptanz der Planung und final gebauten Fußgängerbrücke garantiert. Aus dem sehr positiven Feedback der Beteiligten aber auch teilnehmenden Personen lässt sich das Potential zur Wieder- und Weiterverwendung in Zukunft untermauern.
+In einer finalen Gemeinderatssitzung mit Bürgerbeteiligung wurden am 14.03.2023 verschiedene Varianten der Fachwerkbrücke mittels VR visualisiert und anschließend diskutiert. Ein Video eines Rundgangs in VR mit Besichtigung der verschiedenen Varianten aus mehreren Blickwinkeln wird in Abbildung 3 zur Verfügung gestellt. Schließlich fiel die Entscheidung zugunsten der Fußgängerbrückenvariante 2 in hybrider Holz- und Stahlfachwerkbauweise als Kompromiss aus Nachhaltigkeit und filigraner Erscheinung. Die dynamische VR Simulation ermöglichte es, die Wirkung und Einbindung der verschiedenen Brückenvarianten aus diversen Perspektiven von verschiedenen Personen und Entscheidungstragenden auf verschiedenen Längenskalen realistisch beurteilen und entscheiden zu können. Somit wird eine hohe Akzeptanz der Planung und final gebauten Fußgängerbrücke garantiert. Aus dem sehr positiven Feedback der Beteiligten aber auch teilnehmenden Personen lässt sich das Potential zur Wieder- und Weiterverwendung in Zukunft untermauern.
 
 
 ## <a name="sec:contributors"></a>Team und Kontakt
