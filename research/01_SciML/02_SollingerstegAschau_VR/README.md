@@ -79,7 +79,7 @@ Diese Arbeit wurde von der Gemeinde Aschau im Chiemgau beauftragt und von den im
 
 ### Projektleitung und Kontakt 
 
-<h5>Bauherrenschaft</h5>
+#### Bauherrenschaft
 <p>Erster Bürgermeister Simon Frank</p>
 <p>Gemeinde Aschau im Chiemgau</p>
 <p>Webseite: <a href="https://www.gemeinde-aschau.de/">https://www.gemeinde-aschau.de/</a></p>
