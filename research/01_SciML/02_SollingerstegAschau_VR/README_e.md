@@ -1,7 +1,7 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=default'></script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-# Die Zukunft der Entscheidungsfindung bei Bauprojekten mit Virtual Reality (VR) am Beispiel der Fußgängerbrücke "Sollingersteg" in Aschau im Chiemgau
+# The future of decision-making in construction projects with virtual reality (VR) illustrated via the "Sollingersteg" pedestrian bridge in Aschau im Chiemgau
 
 <div class="language-switcher">
   <a href="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR" class="active">Deutsch</a>
@@ -14,16 +14,16 @@
 <!-- A repository of structural information on the design of pedestrian bridges
 ============================== -->
 
-*   [Motivation und Zielsetzung](#description)
-*   [Projektbeschreibung "Sollingersteg" in Aschau im Chiemgau](#content)
+*   [Motivation and Objectives](#description)
+*   [Project Description "Sollingersteg" in Aschau im Chiemgau](#content)
 *   [Virtual Reality Demonstrator](#VRDemonstrator)
-*   [Resümee](#conclusions)
-*   [Team und Kontakt](#contributors)
+*   [Summary](#conclusions)
+*   [Team and Contact](#contributors)
 
 <!-- -->
 <!-- *   [Citation](#citation)-->
 
-## <a name="description"></a>Motivation und Zielsetzung
+## <a name="description"></a>Motivation and Objectives
 
 Das Potenzial von Augmented Reality (AR) für den Hoch- und Ingenieurbau ist groß, jedoch bleiben derzeitige Anwendungen in der Praxis eher Prototypen. Gerade die konzeptionelle Entwurfsphase eines Bauprojektes bedingt die Einbindung der Interessen und Bedürfnisse diverser beteiligter Personen und Gruppen, für welche die technische Sprache der Planenden sowie die Form der Entwurfskommunikation in Planabstraktionen, statischen Modellen oder Prinzipskizzen eine Verständnishürde darstellt. Dabei ist aber das Erzielen einer Paretooptimalität aufgrund des gegenseitigen Verständnisses in dieser ersten Phase eines Bauwerks essenziell um die spätere Akzeptanz und Zufriedenheit in der Breite der betroffenen und beteiligten Personen zu garantieren. Bei öffentlichen Bauprojekten steht dabei die frühzeitige Demokratisierung der Entscheidungsfindung über diverse Formen der Bürgerinformation und -beteiligung immer stärker im Fokus. Daher hat sich im Rahmen dieses Projekts ein Team aus Bauherrenschaft, Planung und Forschung zusammengeschlossen, um die technischen und organisatorischen Herausforderungen dafür zu erarbeiten und eine effiziente und ansprechende Lösung mithilfe von Virtual Reality (VR) zu entwickeln.
 
@@ -37,7 +37,7 @@ Mit der Entwicklung im Rahmen dieses Projekts werden folgende Ziele verfolgt:
 Im Rahmen dieses Projektes konnten wir die erfolgreiche technische und organisatorische Anwendbarkeit unseres Ansatzes demonstrieren, sodass künftig weitere Bauprojekte in der konzeptionellen Entwurfsphase begleitet werden können. Damit fördern wir die weitere Verbreitung und den Einsatz solcher Werkzeuge in der Praxis und bauen Schranken für die Bürgerbeteiligung ab.
 
 
-## <a name="content"></a>Projektbeschreibung "Sollingersteg" in Aschau im Chiemgau
+## <a name="content"></a>Project Description "Sollingersteg" in Aschau im Chiemgau
 Aschau im Chiemgau ist eine Gemeinde im oberbayerischen Landkreis Rosenheim, die sich inmitten des malerischen Prientals befindet. Die Gemeinde besteht aus den beiden Hauptorten Aschau und Sachrang und wird durch den Fluss Prien buchstäblich geteilt. Aufgrund dieser Lage gibt es in der Gemeinde zahlreiche Brücken, die eine wichtige Rolle in der Infrastruktur spielen, insbesondere für Fußgänger und Radfahrer. Neben den Hauptverkehrswegen für den Luftkurort müssen diese Brücken regelmäßig gewartet und instand gehalten werden.
 
 Die letzte Bauwerksprüfung des Sollingerstegs, einer 21 Meter weit gespannten Fußgängerbrücke im Ortskern neben dem Rathaus gelegen, hat ergeben, dass die Stahlkonstruktion durch starke Korrosion stark geschädigt ist. Eine Sanierung ist aufgrund der einbetonierten Haupttragelemente in den Widerlagern nicht wirtschaftlich durchführbar. Der Sollingersteg ist einer der wichtigsten Verkehrswege für Fußgänger und Radfahrer in der Gemeinde, aber mit seiner aktuellen lichten Breite von ca. 1,80 m nicht mehr zeitgemäß für einen hochfrequentierten Fußweg. Die Stahlkonstruktion besteht aus zwei Längsträgern aus IPE-Profilen, die durch einen Längsverband aus Winkelprofilen am Untergurt verstärkt sind. Die beiden Längsträger sind schließlich am Widerlager biegesteif eingebunden.
@@ -79,18 +79,18 @@ Da wir davon ausgehen, dass die allermeisten Projektteilnehmer aber auch Bürger
 </div>
 
 
-## <a name="conclusions"></a>Resümee
+## <a name="conclusions"></a>Summary
 
 In einer finalen Gemeinderatssitzung mit Bürgerbeteiligung wurden am 14.03.2023 verschiedene Varianten der Fachwerkbrücke mittels VR visualisiert und anschließend diskutiert. Ein Video eines Rundgangs in VR mit Besichtigung der verschiedenen Varianten aus mehreren Blickwinkeln wird in Abbildung 3 zur Verfügung gestellt. Schließlich fiel die Entscheidung zugunsten der Fußgängerbrückenvariante 2 in hybrider Holz- und Stahlfachwerkbauweise als Kompromiss aus Nachhaltigkeit und filigraner Erscheinung. Die dynamische VR Simulation ermöglichte es, die Wirkung und Einbindung der verschiedenen Brückenvarianten aus diversen Perspektiven von verschiedenen Personen und Entscheidungstragenden auf verschiedenen Längenskalen realistisch beurteilen und entscheiden zu können. Somit wird eine hohe Akzeptanz der Planung und final gebauten Fußgängerbrücke garantiert. Aus dem sehr positiven Feedback der Beteiligten aber auch teilnehmenden Personen lässt sich das Potential zur Wieder- und Weiterverwendung in Zukunft untermauern.
 
 
-## <a name="contributors"></a>Team und Kontakt
+## <a name="contributors"></a>Team and Contact
 
 Diese Arbeit wurde von der Gemeinde Aschau im Chiemgau beauftragt und von den im Folgenden benannten Personen bearbeitet und umgesetzt.
 
-### Projektleitung und Kontakt 
+### Project Management and Contact
 
-<h5>Bauherrenschaft</h5>
+<h5>Building Ownership</h5>
 <p>Erster Bürgermeister Simon Frank</p>
 <p>Gemeinde Aschau im Chiemgau</p>
 <p>Webseite: <a href="https://www.gemeinde-aschau.de/">https://www.gemeinde-aschau.de/</a></p>

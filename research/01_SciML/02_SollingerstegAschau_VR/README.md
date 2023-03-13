@@ -5,7 +5,7 @@
 
 <div class="language-switcher">
   <a href="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR" class="active">Deutsch</a>
-  <a href="index_en.html">English</a>
+  <a href="Sollingerstegschau_VR_e.html">English</a>
 </div>
 
 
