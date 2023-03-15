@@ -115,7 +115,7 @@ Diese Arbeit wurde von der Gemeinde Aschau im Chiemgau beauftragt und von den im
   <div style="flex:1; margin-right:10px">
     <img src="https://mkrausai.github.io/img/persons/Michael6_3.jpg" alt="Michael" style="width:100%">
     <div style="text-align:center"> Dr. Michael A. Kraus, M.Sc.(hons) <br />
-Oberassistent and Co-Leitung des Immersive Design Lab von Design++ an der ETH Zürich <br /></div>
+Oberassistent und Co-Leitung des Immersive Design Lab von Design++ an der ETH Zürich <br /></div>
   </div>
   <div style="flex:1; margin-right:10px">
     <img src="https://mkrausai.github.io/research/01_SciML/02_SollingerstegAschau_VR/figs/koeppl_portrait.jpg" alt="Bild 2" style="width:100%">
