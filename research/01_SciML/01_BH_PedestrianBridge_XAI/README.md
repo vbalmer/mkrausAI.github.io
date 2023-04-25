@@ -12,6 +12,7 @@
 *   [Content](#content)
 *   [Contributors](#contributors)
 
+Please find our preprint paper here: https://arxiv.org/abs/2211.16406
 <!-- -->
 <!-- *   [Citation](#citation)-->
 
